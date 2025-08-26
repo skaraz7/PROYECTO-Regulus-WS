@@ -1,21 +1,22 @@
 FROM mcr.microsoft.com/playwright/python:v1.40.0-jammy
 
+# Evitar buffering en logs
 ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
-# Copiar requirements e instalar Python packages
+# Instalar dependencias Python
 COPY requirements.txt .
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Playwright ya está instalado en la imagen base
+# Instalar Chromium (necesario para Playwright)
+RUN playwright install --with-deps chromium
 
-# Copiar código
+# Copiar el resto del código
 COPY . .
 
-# Puerto que Render asigna
-EXPOSE $PORT
+# Render ignora EXPOSE, pero puedes dejarlo fijo
+EXPOSE 8000
 
-# Ejecutar aplicación
-CMD gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 2 --timeout 120
+# Ejecutar con gunicorn (Render inyecta $PORT automáticamente)
+CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:$PORT", "--workers", "1", "--threads", "2", "--timeout", "120"]

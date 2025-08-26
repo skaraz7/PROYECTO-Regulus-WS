@@ -1,3 +1,5 @@
-playwright
-beautifulsoup4
-requests
+flask==2.3.3
+gunicorn==21.2.0
+playwright==1.40.0
+beautifulsoup4==4.12.2
+requests==2.31.0

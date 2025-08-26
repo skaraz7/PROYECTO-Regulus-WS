@@ -61,11 +61,11 @@ def _extraer_jsonld(page):
 def buscar_plazavea(producto="arroz", max_items=10, categoria_url=None):
     if categoria_url:
         url = categoria_url
-        print(f"Plaza Vea: Usando categoria especifica: {url}")
     elif producto.lower() == "arroz":
         url = "https://www.plazavea.com.pe/abarrotes/arroz"
     else:
         url = f"https://www.plazavea.com.pe/search?_q={producto}"
+    
     resultados = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -91,7 +91,6 @@ def buscar_plazavea(producto="arroz", max_items=10, categoria_url=None):
         # Plaza Vea usa estructura diferente a VTEX
         cards = page.locator('.Showcase.ga-product-item')
         count = cards.count()
-        print(f"Plaza Vea: Encontrados {count} elementos")
         for i in range(min(count, max_items)):
             c = cards.nth(i)
             try:

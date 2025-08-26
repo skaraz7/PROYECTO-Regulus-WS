@@ -56,11 +56,11 @@ def _extraer_jsonld(page):
 def buscar_metro(producto="arroz", max_items=10, categoria_url=None):
     if categoria_url:
         url = categoria_url
+        print(f"Metro: Usando categoria especifica: {url}")
     elif producto.lower() == "arroz":
         url = "https://www.metro.pe/abarrotes/arroz"
     else:
         url = f"https://www.metro.pe/search?_q={producto}"
-    
     resultados = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -83,6 +83,7 @@ def buscar_metro(producto="arroz", max_items=10, categoria_url=None):
         # VTEX: cards de resultados
         cards = page.locator('[class*="vtex-search-result"] [class*="galleryItem"]')
         count = cards.count()
+        print(f"Metro: Encontrados {count} elementos")
         for i in range(min(count, max_items)):
             c = cards.nth(i)
             try:

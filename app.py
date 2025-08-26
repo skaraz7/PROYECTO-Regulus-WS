@@ -113,37 +113,63 @@ def scrape():
 
     resultados = []
     
-    # Metro
-    if "metro" in stores:
-        try:
-            resultados.extend(buscar_metro(producto, max_items=max_items))
-        except Exception as e:
-            app.logger.exception("Metro error")
+    try:
+        errors = []
+        
+        # Metro
+        if "metro" in stores:
+            try:
+                metro_results = buscar_metro(producto, max_items=max_items)
+                resultados.extend(metro_results)
+                print(f"DEBUG Metro: {len(metro_results)} productos para {producto}")
+            except Exception as e:
+                error_msg = f"Metro error: {str(e)}"
+                print(error_msg)
+                errors.append(error_msg)
 
-    # Plaza Vea
-    if "plazavea" in stores:
-        try:
-            resultados.extend(buscar_plazavea(producto, max_items=max_items))
-        except Exception as e:
-            app.logger.exception("PlazaVea error")
+        # Plaza Vea
+        if "plazavea" in stores:
+            try:
+                pv_results = buscar_plazavea(producto, max_items=max_items)
+                resultados.extend(pv_results)
+                print(f"DEBUG Plaza Vea: {len(pv_results)} productos para {producto}")
+            except Exception as e:
+                error_msg = f"Plaza Vea error: {str(e)}"
+                print(error_msg)
+                errors.append(error_msg)
 
-    # Tottus
-    if "tottus" in stores:
-        try:
-            resultados.extend(buscar_tottus(producto, max_items=max_items))
-        except Exception as e:
-            app.logger.exception("Tottus error")
+        # Tottus
+        if "tottus" in stores:
+            try:
+                tottus_results = buscar_tottus(producto, max_items=max_items)
+                resultados.extend(tottus_results)
+                print(f"DEBUG Tottus: {len(tottus_results)} productos para {producto}")
+            except Exception as e:
+                error_msg = f"Tottus error: {str(e)}"
+                print(error_msg)
+                errors.append(error_msg)
 
-    # Normalizar precios y ordenar
-    resultados = [r for r in resultados if r.get("precio")]
-    resultados.sort(key=lambda r: precio_num(r.get("precio","")))
-    
-    return jsonify({
-        "product": producto,
-        "stores": stores,
-        "count": len(resultados), 
-        "items": resultados
-    })
+        # Normalizar precios y ordenar
+        resultados = [r for r in resultados if r.get("precio")]
+        resultados.sort(key=lambda r: precio_num(r.get("precio","")))
+        
+        print(f"DEBUG: Total resultados={len(resultados)} para {producto} en {stores}")
+        
+        response = {
+            "product": producto,
+            "stores": stores,
+            "count": len(resultados), 
+            "items": resultados
+        }
+        
+        if errors:
+            response["errors"] = errors
+            
+        return jsonify(response)
+        
+    except Exception as e:
+        print("ERROR GENERAL en scraper:", str(e))
+        return jsonify({"error": str(e), "product": producto, "stores": stores}), 500
 
 @app.route("/chat", methods=["POST"])
 def chat():

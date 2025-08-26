@@ -1,32 +1,242 @@
 [
   {
-    "nombre": "NESTLE",
-    "precio": "S/ 6.50\nUN",
+    "nombre": "FELIX",
+    "precio": "S/ 4.50\nUN\n-10%\nS/ 5\nUN",
     "link": ""
   },
   {
-    "nombre": "GLORIA",
-    "precio": "S/ 6\nUN\n-13%\nS/ 6.90\nUN",
+    "nombre": "DOGUI",
+    "precio": "S/ 19.50\nUN",
     "link": ""
   },
   {
-    "nombre": "BELLA HOLANDESA",
-    "precio": "S/ 7.60\nUN",
+    "nombre": "FELIX",
+    "precio": "S/ 4.50\nUN\n-10%\nS/ 5\nUN",
     "link": ""
   },
   {
-    "nombre": "NESTLE",
-    "precio": "S/ 5.50\nUN",
+    "nombre": "ORIGENS",
+    "precio": "S/ 8.90\nUN",
     "link": ""
   },
   {
-    "nombre": "NESTLE",
-    "precio": "S/ 3\nUN",
+    "nombre": "ORIGENS",
+    "precio": "S/ 8.90\nUN",
     "link": ""
   },
   {
-    "nombre": "GLORIA",
-    "precio": "S/ 20.50",
+    "nombre": "DOG CHOW",
+    "precio": "S/ 31\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "WHISKAS",
+    "precio": "S/ 4.20\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "FINA STAMPA",
+    "precio": "S/ 28\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "CLAWS PAWS",
+    "precio": "S/ 74.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "SUPERCAT",
+    "precio": "S/ 5\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "NATURAL HOME",
+    "precio": "S/ 13.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "CLAWS PAWS",
+    "precio": "S/ 124.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "ORIGENS",
+    "precio": "S/ 8.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "CLAWS PAWS",
+    "precio": "S/ 99.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "CLAWS PAWS",
+    "precio": "S/ 89.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "GNAWLERS",
+    "precio": "S/ 11.90\nUN\n-14%\nS/ 13.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "K&HPETS",
+    "precio": "S/ 11.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "K&HPETS",
+    "precio": "S/ 12.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "K&HPETS",
+    "precio": "S/ 39\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "K&HPETS",
+    "precio": "S/ 29\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "K&HPETS",
+    "precio": "S/ 9.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "PURINA ONE",
+    "precio": "S/ 23.50\nUN\n-16%\nS/ 28\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "PAR PETS",
+    "precio": "S/ 9.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "PAR PETS",
+    "precio": "S/ 9.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "PAR PETS",
+    "precio": "S/ 9.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "PAR PETS",
+    "precio": "S/ 36\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "WORLDS BEST",
+    "precio": "S/ 52\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "FRESH CAN",
+    "precio": "S/ 11.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "RICOCAT",
+    "precio": "S/ 6.30\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "RICOCAT",
+    "precio": "S/ 4\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "CAT CHOW",
+    "precio": "S/ 13.50\nUN\n-19%\nS/ 16.70\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "RICOCAT",
+    "precio": "S/ 88.90\nUN\n-10%\nS/ 98.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "RICOCAT",
+    "precio": "S/ 6.30\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "CAT CHOW",
+    "precio": "S/ 109.90\nUN\n-21%\nS/ 139.40\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "YAMIS",
+    "precio": "S/ 9\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "GATI",
+    "precio": "S/ 20.50\nUN\n-8%\nS/ 22.40\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "FRISKIES",
+    "precio": "S/ 25\nUN\n-10%\nS/ 27.80\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "FANCY FEAST",
+    "precio": "S/ 6.50\nUN\n-7%\nS/ 7\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "PETS REPUBLIC CHICKEN TENDERS X 15 G",
+    "precio": "S/ 4.50\n-8%\nS/ 4.90",
+    "link": ""
+  },
+  {
+    "nombre": "RAMBALA",
+    "precio": "S/ 13.90\nUN\n-13%\nS/ 15.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "GNAWLERS",
+    "precio": "S/ 11.90\nUN\n-14%\nS/ 13.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "KLINKAT",
+    "precio": "S/ 9.90\nUN\n-9%\nS/ 10.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "FANCY FEAST",
+    "precio": "S/ 5.90\nUN\n-19%\nS/ 7.30\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "RICOCAT",
+    "precio": "S/ 4",
+    "link": ""
+  },
+  {
+    "nombre": "CAT CHOW",
+    "precio": "S/ 4.50\nUN\n-18%\nS/ 5.50\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "SUPERCAT",
+    "precio": "S/ 40.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "RICOCAT",
+    "precio": "S/ 6.50\nUN\n-7%\nS/ 7\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "GNAWLERS",
+    "precio": "S/ 11.90\nUN\n-14%\nS/ 13.90\nUN",
     "link": ""
   }
 ]

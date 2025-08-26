@@ -19,4 +19,4 @@ COPY . .
 EXPOSE 8000
 
 # Ejecutar con gunicorn (Render inyecta $PORT automáticamente)
-CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:$PORT", "--workers", "1", "--threads", "2", "--timeout", "120"]
+CMD gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --threads 2 --timeout 120

@@ -1,0 +1,51 @@
+{
+  "metro": [
+    {
+      "name": "abarrotes",
+      "url": "https://www.metro.pe/abarrotes",
+      "title": "Abarrotes: Arroz, Aceite y más a precios más bajos - Metro.pe"
+    },
+    {
+      "name": "lacteos-y-derivados",
+      "url": "https://www.metro.pe/lacteos-y-derivados",
+      "title": "lacteos-y-derivados - Metro.pe"
+    },
+    {
+      "name": "carnes-aves-y-pescados",
+      "url": "https://www.metro.pe/carnes-aves-y-pescados",
+      "title": "Carnes, Pollos, Gallina, Pato y Pescados - Compra hoy - Metro.pe"
+    },
+    {
+      "name": "frutas-y-verduras",
+      "url": "https://www.metro.pe/frutas-y-verduras",
+      "title": "Frutas y Verduras frescas - Compra y recibe hoy - Metro.pe"
+    }
+  ],
+  "plazavea": [
+    {
+      "name": "abarrotes",
+      "url": "https://www.plazavea.com.pe/abarrotes",
+      "title": "Abarrotes | plazaVea"
+    },
+    {
+      "name": "arroz",
+      "url": "https://www.plazavea.com.pe/abarrotes/arroz",
+      "title": "Arroz | Arroz Extra | Arroz Superior | plazaVea"
+    },
+    {
+      "name": "aceites",
+      "url": "https://www.plazavea.com.pe/abarrotes/aceites",
+      "title": "Aceites en Abarrotes – plazaVea"
+    },
+    {
+      "name": "carnes-aves-y-pescados",
+      "url": "https://www.plazavea.com.pe/carnes-aves-y-pescados",
+      "title": "Carnes, Aves y Pescados | plazaVea"
+    },
+    {
+      "name": "frutas-y-verduras",
+      "url": "https://www.plazavea.com.pe/frutas-y-verduras",
+      "title": "Frutas y Verduras | plazaVea"
+    }
+  ]
+}

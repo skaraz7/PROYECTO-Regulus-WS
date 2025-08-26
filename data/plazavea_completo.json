@@ -1,0 +1,4012 @@
+{
+  "tienda": "Plaza Vea",
+  "fecha_actualizacion": "2025-08-25T21:20:45.518089",
+  "total_productos": 445,
+  "productos": [
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Galletas de Arroz WANT WANT Sal Marina Caja 10...",
+      "precio": "S/ 11.80 un",
+      "precio_numerico": 11.8,
+      "link": "https://www.plazavea.com.pe/galletas-de-arroz-want-want-sal-marina-caja-100g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.666682"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Filete de Atún en Agua y Sal GLORIA Lata 140g",
+      "precio": "S/ 5.80 un",
+      "precio_numerico": 5.8,
+      "link": "https://www.plazavea.com.pe/filete-de-atun-en-agua-y-sal-gloria-lata-140g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.681403"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Spaghetti BELL'S Paquete 500g",
+      "precio": "S/ 2.50 un",
+      "precio_numerico": 2.5,
+      "link": "https://www.plazavea.com.pe/spaghetti-bells-paquete-500g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.695099"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Mostaza B&D Doypack 200g",
+      "precio": "S/ 3.60 un",
+      "precio_numerico": 3.6,
+      "link": "https://www.plazavea.com.pe/mostaza-bd-doypack-200g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.708300"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Conserva BELL'S Palmitos Enteros en Salmuera F...",
+      "precio": "S/ 8.09 un",
+      "precio_numerico": 8.09,
+      "link": "https://www.plazavea.com.pe/conserva-bells-palmitos-enteros-en-salmuera-frasco-430gr/p",
+      "fecha_scraping": "2025-08-25T21:18:05.723053"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pasta de Tomate CASA RINALDI Basílico Frasco 6...",
+      "precio": "S/ 9.50 un",
+      "precio_numerico": 9.5,
+      "link": "https://www.plazavea.com.pe/pasta-de-tomate-casa-rinaldi-basilico-frasco-690g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.735179"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Macarrones EL CORTE INGLÉS SELECTION Penne Rig...",
+      "precio": "S/ 7 un",
+      "precio_numerico": 7.0,
+      "link": "https://www.plazavea.com.pe/macarrones-el-corte-ingles-selection-penne-rigate-bolsa-500g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.749335"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pasta Radiatori EL CORTE INGLÉS Selection Bols...",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/pasta-radiatori-el-corte-ingles-selection-bolsa-500g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.763504"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Lenteja CASA VERDE Listas para Comer Doypack 3...",
+      "precio": "S/ 7.50 un",
+      "precio_numerico": 7.5,
+      "link": "https://www.plazavea.com.pe/lenteja-casa-verde-listas-para-comer-doypack-360g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.777690"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Galletas Rellenas con Manjar COSTA Chocman Paq...",
+      "precio": "S/ 5.20 un",
+      "precio_numerico": 5.2,
+      "link": "https://www.plazavea.com.pe/galletas-rellenas-con-manjar-costa-chocman-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:18:05.793415"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pack FIELD Wafer Cua Cua 9un + Galletas ChokoS...",
+      "precio": "S/ 14.20 un",
+      "precio_numerico": 14.2,
+      "link": "https://www.plazavea.com.pe/pack-field-wafer-cua-cua-9un-galletas-chokosoda-6un-galleta-dona-pepa-6un/p",
+      "fecha_scraping": "2025-08-25T21:18:05.808380"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pack Aceite Vegetal PRIMOR Premium 900ml Botel...",
+      "precio": "S/ 18 un",
+      "precio_numerico": 18.0,
+      "link": "https://www.plazavea.com.pe/pack-aceite-vegetal-primor-premium-900ml-botella-2un/p",
+      "fecha_scraping": "2025-08-25T21:18:05.822428"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pack FIELD Galletas Saladas Soda 6un + Galleta...",
+      "precio": "S/ 10.70 un",
+      "precio_numerico": 10.7,
+      "link": "https://www.plazavea.com.pe/pack-field-galletas-saladas-soda-6un-galletas-saladas-ritz-6un-galletas-vainilla-6un/p",
+      "fecha_scraping": "2025-08-25T21:18:05.836259"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Mayonesa B&D Doypack 190g",
+      "precio": "S/ 6.19 un",
+      "precio_numerico": 6.19,
+      "link": "https://www.plazavea.com.pe/mayonesa-bd-doypack-190g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.851993"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Mayonesa LIBBY'S Doypack 100g",
+      "precio": "S/ 3.99 un",
+      "precio_numerico": 3.99,
+      "link": "https://www.plazavea.com.pe/mayonesa-libbys-doypack-100g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.875399"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Mayonesa WALIBÍ Doypack 200g",
+      "precio": "S/ 6.50 un",
+      "precio_numerico": 6.5,
+      "link": "https://www.plazavea.com.pe/mayonesa-walibi-doypack-200gr/p",
+      "fecha_scraping": "2025-08-25T21:18:05.893638"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Mayonesa B&D Doypack 400g",
+      "precio": "S/ 11.09 un",
+      "precio_numerico": 11.09,
+      "link": "https://www.plazavea.com.pe/mayonesa-bd-doypack-400g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.906489"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Mayonesa BELL'S Doypack 190g",
+      "precio": "S/ 5.80 un",
+      "precio_numerico": 5.8,
+      "link": "https://www.plazavea.com.pe/mayonesa-bells-doypack-190g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.920375"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Mayonesa WALIBI Doypack 1Kg",
+      "precio": "S/ 21.40 un",
+      "precio_numerico": 21.4,
+      "link": "https://www.plazavea.com.pe/mayonesa-walibi-doypack-1kg/p",
+      "fecha_scraping": "2025-08-25T21:18:05.932887"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pack Fideo Spaghetti DON VITTORIO 950g Bolsa 2...",
+      "precio": "S/ 9.80 un",
+      "precio_numerico": 9.8,
+      "link": "https://www.plazavea.com.pe/pack-fideo-spaghetti-don-vittorio-950g-bolsa-2un/p",
+      "fecha_scraping": "2025-08-25T21:18:05.944851"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Filete de Atún con Agua y Sal PRIMOR Lata 140g",
+      "precio": "S/ 5.50 un",
+      "precio_numerico": 5.5,
+      "link": "https://www.plazavea.com.pe/filete-de-atun-con-agua-y-sal-primor-lata-140g/p",
+      "fecha_scraping": "2025-08-25T21:18:05.957116"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pack Fideos Linguini Grosso DON VITTORIO Bolsa...",
+      "precio": "S/ 9.80 un",
+      "precio_numerico": 9.8,
+      "link": "https://www.plazavea.com.pe/pack-fideos-linguini-grosso-don-vittorio-bolsa-950g-x-2un/p",
+      "fecha_scraping": "2025-08-25T21:18:05.969850"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pack Arroz Extra VALLENORTE Gran Reserva 5Kg +...",
+      "precio": "S/ 27.40 un",
+      "precio_numerico": 27.4,
+      "link": "https://www.plazavea.com.pe/pack-arroz-extra-vallenorte-gran-reserva-5kg-aceite-vegetal-bells-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:05.982073"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Pack Fideos Fettuccini DON VITTORIO Bolsa 950g...",
+      "precio": "S/ 9.80 un",
+      "precio_numerico": 9.8,
+      "link": "https://www.plazavea.com.pe/pack-fideos-fettuccini-don-vittorio-bolsa-950g-x-2un/p",
+      "fecha_scraping": "2025-08-25T21:18:05.994377"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Conserva de fruta ARICA Piña en almibar Lata 5...",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/conserva-de-fruta-arica-pina-en-almibar-lata-565gr/p",
+      "fecha_scraping": "2025-08-25T21:18:06.006671"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Quinua Bicolor CASA VERDE Listas para Comer Do...",
+      "precio": "S/ 7.50 un",
+      "precio_numerico": 7.5,
+      "link": "https://www.plazavea.com.pe/quinua-bicolor-casa-verde-listas-para-comer-doypack-240g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.018287"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Frejoles CASA VERDE Listas para Comer Doypack ...",
+      "precio": "S/ 8.20 un",
+      "precio_numerico": 8.2,
+      "link": "https://www.plazavea.com.pe/frejoles-casa-verde-listas-para-comer-doypack-360g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.030526"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Aceitunas en Conserva BELL'S Verdes Enteras Bo...",
+      "precio": "S/ 8.80 un",
+      "precio_numerico": 8.8,
+      "link": "https://www.plazavea.com.pe/aceitunas-en-conserva-bells-verdes-enteras-bolsa-250gr/p",
+      "fecha_scraping": "2025-08-25T21:18:06.042438"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Tortillas de Maíz DORITOS Queso Atrevido Bolsa...",
+      "precio": "S/ 5 un",
+      "precio_numerico": 5.0,
+      "link": "https://www.plazavea.com.pe/tortillas-de-maiz-doritos-queso-atrevido-bolsa-90g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.055602"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Caramelos TIC TAC Naranja Envase 16g",
+      "precio": "S/ 3.20 un",
+      "precio_numerico": 3.2,
+      "link": "https://www.plazavea.com.pe/caramelos-tic-tac-naranja-envase-16g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.067355"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Maní KARINTO Engalletado Salado Bolsa 200g",
+      "precio": "S/ 7.99 un",
+      "precio_numerico": 7.99,
+      "link": "https://www.plazavea.com.pe/mani-karinto-engalletado-salado-bolsa-200g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.079385"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Maní KARINTO Engalletado Picante Bolsa 200g",
+      "precio": "S/ 7.99 un",
+      "precio_numerico": 7.99,
+      "link": "https://www.plazavea.com.pe/mani-karinto-engalletado-picante-bolsa-200g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.091541"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Piqueos TORTEES Picante Bolsa 138g",
+      "precio": "S/ 5 un",
+      "precio_numerico": 5.0,
+      "link": "https://www.plazavea.com.pe/piqueos-tortees-picante-bolsa-138g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.103947"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Caramelos ARCOR Limón Bolsa 100Un",
+      "precio": "S/ 10.40 un",
+      "precio_numerico": 10.4,
+      "link": "https://www.plazavea.com.pe/caramelos-limon-arcor-bolsa-390gr/p",
+      "fecha_scraping": "2025-08-25T21:18:06.116283"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Palitos de Maíz CHEESE TRIS Bolsa 44g",
+      "precio": "S/ 2.49 un",
+      "precio_numerico": 2.49,
+      "link": "https://www.plazavea.com.pe/palitos-de-maiz-cheese-tris-bolsa-44g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.129523"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Palitos de Maíz CHEESE TRIS Queso Bolsa 120g",
+      "precio": "S/ 5 un",
+      "precio_numerico": 5.0,
+      "link": "https://www.plazavea.com.pe/palitos-de-maiz-cheese-tris-queso-bolsa-120g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.143417"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Snacks de Papa Maíz y Trigo PIQUEO SNAX Bolsa ...",
+      "precio": "S/ 5 un",
+      "precio_numerico": 5.0,
+      "link": "https://www.plazavea.com.pe/snacks-de-papa-maiz-y-trigo-piqueo-snax-bolsa-105g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.156626"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Chips de Camote NATUCHIPS Bolsa 135g",
+      "precio": "S/ 7.50 un",
+      "precio_numerico": 7.5,
+      "link": "https://www.plazavea.com.pe/chips-de-camote-natuchips-bolsa-135g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.171266"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Papas LAY'S Clásicas Bolsa 36g",
+      "precio": "S/ 2.50 un",
+      "precio_numerico": 2.5,
+      "link": "https://www.plazavea.com.pe/papas-lays-clasicas-bolsa-36g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.185696"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Tortillas de Maíz DORITOS Queso Atrevido Bolsa...",
+      "precio": "S/ 2.50 un",
+      "precio_numerico": 2.5,
+      "link": "https://www.plazavea.com.pe/tortillas-de-maiz-doritos-queso-atrevido-bolsa-45g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.198795"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Maní KARINTO Engalletado Salado Bolsa 100g",
+      "precio": "S/ 4.20 un",
+      "precio_numerico": 4.2,
+      "link": "https://www.plazavea.com.pe/mani-karinto-engalletado-salado-bolsa-100g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.210317"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Maní KARINTO Salado Bolsa 100g",
+      "precio": "S/ 4.20 un",
+      "precio_numerico": 4.2,
+      "link": "https://www.plazavea.com.pe/mani-karinto-salado-bolsa-100g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.222798"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Caramelos AMBROSOLI Gajo frutas Bolsa 100Un",
+      "precio": "S/ 6.60 un",
+      "precio_numerico": 6.6,
+      "link": "https://www.plazavea.com.pe/caramelos-ambrosoli-gajo-frutas-bolsa-100un/p",
+      "fecha_scraping": "2025-08-25T21:18:06.234758"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Caramelos HALLS Menta Fuerte Paquete 9un",
+      "precio": "S/ 2 un",
+      "precio_numerico": 2.0,
+      "link": "https://www.plazavea.com.pe/caramelos-halls-menta-fuerte-paquete-9un/p",
+      "fecha_scraping": "2025-08-25T21:18:06.247501"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Chupetes GLOBO POP!! Relleno con chicle sabor ...",
+      "precio": "S/ 7.60 un",
+      "precio_numerico": 7.6,
+      "link": "https://www.plazavea.com.pe/chupetes-globo-pop-relleno-con-chicle-sabor-fresa-bolsa-24un/p",
+      "fecha_scraping": "2025-08-25T21:18:06.259745"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Caramelos ARCOR Chicha Morada Bolsa 360g",
+      "precio": "S/ 8.30 un",
+      "precio_numerico": 8.3,
+      "link": "https://www.plazavea.com.pe/caramelos-chicha-morada-arcor-bolsa-360gr/p",
+      "fecha_scraping": "2025-08-25T21:18:06.271373"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Tableta con Leche HERSHEY'S 82g",
+      "precio": "S/ 8.40 un",
+      "precio_numerico": 8.4,
+      "link": "https://www.plazavea.com.pe/tableta-con-leche-hersheys-82g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.284969"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Caramelos TIC TAC Menta Envase 16g",
+      "precio": "S/ 3.20 un",
+      "precio_numerico": 3.2,
+      "link": "https://www.plazavea.com.pe/caramelos-tic-tac-menta-envase-16g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.298336"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Chupetines GLOBO POP Shake Bolsa 432g",
+      "precio": "S/ 7.60 un",
+      "precio_numerico": 7.6,
+      "link": "https://www.plazavea.com.pe/chupetines-globo-pop-shake-bolsa-432g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.310400"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "abarrotes",
+      "nombre": "Caramelos Masticables de Fruta ARCOR Bolsa 412...",
+      "precio": "S/ 13.89 un",
+      "precio_numerico": 13.89,
+      "link": "https://www.plazavea.com.pe/caramelos-masticables-de-fruta-arcor-bolsa-412g/p",
+      "fecha_scraping": "2025-08-25T21:18:06.323910"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Pack Arroz Extra VALLENORTE Gran Reserva 5Kg +...",
+      "precio": "S/ 27.40 un",
+      "precio_numerico": 27.4,
+      "link": "https://www.plazavea.com.pe/pack-arroz-extra-vallenorte-gran-reserva-5kg-aceite-vegetal-bells-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:20.116716"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Añejo FARAON Naranja Bolsa 5kg",
+      "precio": "S/ 25.50 un",
+      "precio_numerico": 25.5,
+      "link": "https://www.plazavea.com.pe/arroz-extra-faraon-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.126551"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra COSTEÑO Bolsa 5Kg",
+      "precio": "S/ 23.90 un",
+      "precio_numerico": 23.9,
+      "link": "https://www.plazavea.com.pe/arroz-extra-costeno-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.137772"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra PAISANA Bolsa 5Kg",
+      "precio": "S/ 22.90 un",
+      "precio_numerico": 22.9,
+      "link": "https://www.plazavea.com.pe/arroz-extra-paisana-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.148829"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra BELL'S Bolsa 5Kg",
+      "precio": "S/ 18.90 un",
+      "precio_numerico": 18.9,
+      "link": "https://www.plazavea.com.pe/arroz-extra-bell-s-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.158596"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra COSTEÑO Bolsa 750g",
+      "precio": "S/ 4.90 un",
+      "precio_numerico": 4.9,
+      "link": "https://www.plazavea.com.pe/arroz-extra-costeno-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.169014"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Añejo VALLENORTE Gran Reserva Bols...",
+      "precio": "S/ 24.50 un",
+      "precio_numerico": 24.5,
+      "link": "https://www.plazavea.com.pe/arroz-extra-vallenorte-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.179666"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra FARAON Bolsa 750g",
+      "precio": "S/ 4.50 un",
+      "precio_numerico": 4.5,
+      "link": "https://www.plazavea.com.pe/arroz-extra-faraon-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.189639"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Añejo Extra COSTEÑO Bolsa 5Kg",
+      "precio": "S/ 24.90 un",
+      "precio_numerico": 24.9,
+      "link": "https://www.plazavea.com.pe/arroz-anejo-extra-costeno-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.199937"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra GRAN CHALAN Bolsa 5Kg",
+      "precio": "S/ 24.90 un",
+      "precio_numerico": 24.9,
+      "link": "https://www.plazavea.com.pe/arroz-extra-gran-chalan-bolsa-5-kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.209959"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Familiar COSECHA NORTEÑA Bolsa 5Kg",
+      "precio": "S/ 16.50 un",
+      "precio_numerico": 16.5,
+      "link": "https://www.plazavea.com.pe/arroz-familiar-cosecha-nortena-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.219257"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra VALLENORTE Gran Reserva Bolsa 750g",
+      "precio": "S/ 4.80 un",
+      "precio_numerico": 4.8,
+      "link": "https://www.plazavea.com.pe/arroz-extra-vallenorte-gran-reserva-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.233633"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz FARAON Añejo Amarillo G3 Bolsa 5kg",
+      "precio": "S/ 21.90 un",
+      "precio_numerico": 21.9,
+      "link": "https://www.plazavea.com.pe/arroz-superior-faraon-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.244438"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior PAISANA Bolsa 5Kg",
+      "precio": "S/ 17.90 un",
+      "precio_numerico": 17.9,
+      "link": "https://www.plazavea.com.pe/arroz-superior-paisana-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.256475"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral BELL'S Bolsa 5Kg",
+      "precio": "S/ 23.60 un",
+      "precio_numerico": 23.6,
+      "link": "https://www.plazavea.com.pe/arroz-integral-bells-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.268530"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra BELL'S Bolsa 750g",
+      "precio": "S/ 3.60 un",
+      "precio_numerico": 3.6,
+      "link": "https://www.plazavea.com.pe/arroz-extra-bells-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.278778"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral BELL'S Bolsa 750g",
+      "precio": "S/ 3.79 un",
+      "precio_numerico": 3.79,
+      "link": "https://www.plazavea.com.pe/arroz-integral-bells-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.289367"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Añejo Premium FARAÓN Bolsa 10 Kg",
+      "precio": "S/ 47.49 un",
+      "precio_numerico": 47.49,
+      "link": "https://www.plazavea.com.pe/arroz-extra-anejo-premium-faraon-bolsa-10-kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.297634"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz GRAN CHALAN Extra Añejo Bolsa 750gr",
+      "precio": "S/ 3.90 un",
+      "precio_numerico": 3.9,
+      "link": "https://www.plazavea.com.pe/arroz-gran-chalan-extra-anejo-bolsa-750gr/p",
+      "fecha_scraping": "2025-08-25T21:18:20.306558"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Añejo Amarillo FARAÓN G3 Bolsa 1Kg",
+      "precio": "S/ 4.99 un",
+      "precio_numerico": 4.99,
+      "link": "https://www.plazavea.com.pe/arroz-anejo-amarillo-faraon-g3-bolsa-1kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.315224"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral VALLENORTE Bolsa 750g",
+      "precio": "S/ 5.60 un",
+      "precio_numerico": 5.6,
+      "link": "https://www.plazavea.com.pe/arroz-integral-vallenorte-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.324817"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral PAISANA Bolsa 1Kg",
+      "precio": "S/ 7.90 un",
+      "precio_numerico": 7.9,
+      "link": "https://www.plazavea.com.pe/arroz-integral-paisana-bolsa-1kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.333456"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra PAISANA Bolsa 1Kg",
+      "precio": "S/ 5.80 un",
+      "precio_numerico": 5.8,
+      "link": "https://www.plazavea.com.pe/arroz-extra-paisana-bolsa-1kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.342392"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior BELL'S Bolsa 750g",
+      "precio": "S/ 3.40 un",
+      "precio_numerico": 3.4,
+      "link": "https://www.plazavea.com.pe/arroz-superior-bells-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.352466"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior BELL'S Bolsa 5Kg",
+      "precio": "S/ 19.30 un",
+      "precio_numerico": 19.3,
+      "link": "https://www.plazavea.com.pe/arroz-superior-bells-bolas-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.360905"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior VALLENORTE Bolsa 5Kg",
+      "precio": "S/ 20.90 un",
+      "precio_numerico": 20.9,
+      "link": "https://www.plazavea.com.pe/arroz-superior-vallenorte-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.368840"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral COSTEÑO Bolsa 750g",
+      "precio": "S/ 5.80 un",
+      "precio_numerico": 5.8,
+      "link": "https://www.plazavea.com.pe/arroz-integral-costeno-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.378716"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior FARAON Rojo x 5Kg",
+      "precio": "S/ 24.90 un",
+      "precio_numerico": 24.9,
+      "link": "https://www.plazavea.com.pe/arroz-superior-faraon-rojo-x-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.387882"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Añejo Extra COSTEÑO Bolsa 750g",
+      "precio": "S/ 4.70 un",
+      "precio_numerico": 4.7,
+      "link": "https://www.plazavea.com.pe/arroz-anejo-extra-costeno-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.396491"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior GRAN CHALAN Gran Añejo Bolsa 5K...",
+      "precio": "S/ 21.90 un",
+      "precio_numerico": 21.9,
+      "link": "https://www.plazavea.com.pe/arroz-superior-gran-chalan-gran-anejo-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.405291"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Familiar COSECHA NORTEÑA Bolsa 750g",
+      "precio": "S/ 3.20 un",
+      "precio_numerico": 3.2,
+      "link": "https://www.plazavea.com.pe/arroz-familiar-cosecha-nortena-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.414673"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior PAISANA Bolsa 1Kg",
+      "precio": "S/ 5.50 un",
+      "precio_numerico": 5.5,
+      "link": "https://www.plazavea.com.pe/arroz-superior-paisana-bolsa-1kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.422763"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior VALLENORTE Bolsa 750g",
+      "precio": "S/ 4 un",
+      "precio_numerico": 4.0,
+      "link": "https://www.plazavea.com.pe/arroz-superior-vallenorte-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.432862"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior COSTEÑO Bolsa 5Kg",
+      "precio": "S/ 22.90 un",
+      "precio_numerico": 22.9,
+      "link": "https://www.plazavea.com.pe/arroz-superior-costeno-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.440821"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Parbolizado COSTEÑO Bolsa 750g",
+      "precio": "S/ 5.60 un",
+      "precio_numerico": 5.6,
+      "link": "https://www.plazavea.com.pe/arroz-parbolizado-costeno-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.450705"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra BELL'S Saco 10Kg",
+      "precio": "S/ 38.90 un",
+      "precio_numerico": 38.9,
+      "link": "https://www.plazavea.com.pe/arroz-extra-bells-saco-10kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.458984"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Añejo GRAN CHALAN Bolsa 750g",
+      "precio": "S/ 3.20 un",
+      "precio_numerico": 3.2,
+      "link": "https://www.plazavea.com.pe/arroz-superior-anejo-gran-chalan-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.467803"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Añejo VALLENORTE Bolsa 5Kg",
+      "precio": "S/ 22.90 un",
+      "precio_numerico": 22.9,
+      "link": "https://www.plazavea.com.pe/arroz-superior-anejo-vallenorte-bolsa-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.476604"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Arborio COSTEÑO Bolsa 750g",
+      "precio": "S/ 11.90 un",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/arroz-arborio-costeno-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.486489"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Añejo Extra COSTEÑO Saco 10Kg",
+      "precio": "S/ 46 un",
+      "precio_numerico": 46.0,
+      "link": "https://www.plazavea.com.pe/arroz-anejo-extra-costeno-saco-10kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.494924"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra GRAN CHALAN Saco 10Kg",
+      "precio": "S/ 41.50 un",
+      "precio_numerico": 41.5,
+      "link": "https://www.plazavea.com.pe/arroz-extra-gran-chalan-saco-10kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.504768"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Añejo VALLENORTE Bolsa 750g",
+      "precio": "S/ 4.70 un",
+      "precio_numerico": 4.7,
+      "link": "https://www.plazavea.com.pe/arroz-superior-anejo-vallenorte-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.515635"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Carnaroli SCOTTI Funghi Porcin Bolsa 210...",
+      "precio": "S/ 6.90 un",
+      "precio_numerico": 6.9,
+      "link": "https://www.plazavea.com.pe/arroz-carnaroli-scotti-funghi-porcin-bolsa-210g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.524259"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra BELL'S Selección Bolsa 750g",
+      "precio": "S/ 4.10 un",
+      "precio_numerico": 4.1,
+      "link": "https://www.plazavea.com.pe/arroz-extra-anejo-bells-bolsa-750g/p",
+      "fecha_scraping": "2025-08-25T21:18:20.532990"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior BELL'S Saco 10Kg",
+      "precio": "S/ 38.70 un",
+      "precio_numerico": 38.7,
+      "link": "https://www.plazavea.com.pe/arroz-superior-bells-saco-10kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.541235"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Gourmet Añejo GRAN CHALAN Paquete...",
+      "precio": "S/ 26.10 un",
+      "precio_numerico": 26.1,
+      "link": "https://www.plazavea.com.pe/arroz-extra-gourmetanejo-gran-chalan-paquete-5kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.549847"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz INVERNI Rissoto Arborio Caja 1Kg",
+      "precio": "S/ 35.90 un",
+      "precio_numerico": 35.9,
+      "link": "https://www.plazavea.com.pe/arroz-inverni-rissoto-arborio-caja-1kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.558785"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Arborio SCOTTI Caja 1Kg",
+      "precio": "S/ 40.90 un",
+      "precio_numerico": 40.9,
+      "link": "https://www.plazavea.com.pe/arroz-arborio-scotti-caja-1kg/p",
+      "fecha_scraping": "2025-08-25T21:18:20.567847"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Pack 2u Arroz Sticky Calrose Perlado Grano Med...",
+      "precio": "S/ 41 un",
+      "precio_numerico": 41.0,
+      "link": "https://www.plazavea.com.pe/pack-2u-arroz-sticky-calrose-perlado-grano-medio-1kg-101551413/p",
+      "fecha_scraping": "2025-08-25T21:18:20.576482"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "arroz",
+      "nombre": "Arroz Sticky Calrose Perlado Grano Medio 1kg",
+      "precio": "S/ 20 un",
+      "precio_numerico": 20.0,
+      "link": "https://www.plazavea.com.pe/arroz-sticky-calrose-perlado-grano-medio-1kg-101551395/p",
+      "fecha_scraping": "2025-08-25T21:18:20.586667"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Premium PRIMOR Botella 900ml",
+      "precio": "S/ 9.10 un",
+      "precio_numerico": 9.1,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-premium-primor-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.820582"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal BELL'S Botella 900ml",
+      "precio": "S/ 6.10 un",
+      "precio_numerico": 6.1,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-bells-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.832706"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Soya SAO Botella 900ml",
+      "precio": "S/ 6.70 un",
+      "precio_numerico": 6.7,
+      "link": "https://www.plazavea.com.pe/aceite-de-soya-sao-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.843742"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal COCINERO Botella 900ml",
+      "precio": "S/ 8.70 un",
+      "precio_numerico": 8.7,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-cocinero-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.855823"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal PRIMOR Clásico Botella 900ml",
+      "precio": "S/ 9.70 un",
+      "precio_numerico": 9.7,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-primor-clasico-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.867936"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal PRIMOR Clásico Botella 1.8L",
+      "precio": "S/ 16.30 un",
+      "precio_numerico": 16.3,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-primos-clasico-botella-1-8l/p",
+      "fecha_scraping": "2025-08-25T21:18:35.878631"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Girasol BELL'S SELECCIÓN Botella 900...",
+      "precio": "S/ 6.90 un",
+      "precio_numerico": 6.9,
+      "link": "https://www.plazavea.com.pe/aceite-girasol-bells-seleccion-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.889162"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal DELEITE Premium Botella 900ml",
+      "precio": "S/ 7.30 un",
+      "precio_numerico": 7.3,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-deleite-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.898008"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Soya BELL'S Botella 900ml",
+      "precio": "S/ 5.70 un",
+      "precio_numerico": 5.7,
+      "link": "https://www.plazavea.com.pe/aceite-de-soya-bells-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.906875"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Girasol y Oliva CARBONELL Botella 1L",
+      "precio": "S/ 21.90 un",
+      "precio_numerico": 21.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-y-girasol-carbonell-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:18:35.918610"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva BELL'S Extra Virgen Botella 2L",
+      "precio": "S/ 89.90 un",
+      "precio_numerico": 89.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-bells-extra-virgen-botella-2l/p",
+      "fecha_scraping": "2025-08-25T21:18:35.928547"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Ajonjolí BELL'S Frasco 200ml",
+      "precio": "S/ 12.90 un",
+      "precio_numerico": 12.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-ajonjoli-bells-frasco-200ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.939981"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva BELL'S Puro Botella 200ml",
+      "precio": "S/ 12.70 un",
+      "precio_numerico": 12.7,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-bells-puro-botella-200ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.949503"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Soya SOYA Botella 900ml",
+      "precio": "S/ 6.20 un",
+      "precio_numerico": 6.2,
+      "link": "https://www.plazavea.com.pe/aceite-de-soya-soya-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:35.960204"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco BELL'S Frasco 200g",
+      "precio": "S/ 15.50 un",
+      "precio_numerico": 15.5,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-bells-frasco-200g/p",
+      "fecha_scraping": "2025-08-25T21:18:35.971407"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal DELEITE Premium Bidón 5L",
+      "precio": "S/ 36.90 un",
+      "precio_numerico": 36.9,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-deleite-premium-bidon-5l/p",
+      "fecha_scraping": "2025-08-25T21:18:35.982976"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal BELL'S Galonera 5L",
+      "precio": "S/ 31.90 un",
+      "precio_numerico": 31.9,
+      "link": "https://www.plazavea.com.pe/aceite-vegetal-bells-galonera-5l/p",
+      "fecha_scraping": "2025-08-25T21:18:35.993027"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Maíz BASSO Botella 1L",
+      "precio": "S/ 11.90 un",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-maiz-basso-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:18:36.003721"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Canola BELL'S Spray 150ml",
+      "precio": "S/ 10.50 un",
+      "precio_numerico": 10.5,
+      "link": "https://www.plazavea.com.pe/aceite-de-canola-bells-spray-150ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.013997"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Girasol Refinado EL CORTE INGLÉS Bot...",
+      "precio": "S/ 10.90 un",
+      "precio_numerico": 10.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-girasol-refinado-el-corte-ingles-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:18:36.024326"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Palta Virgen OLIVOS DEL SUR Botella ...",
+      "precio": "S/ 37.90 un",
+      "precio_numerico": 37.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-palta-virgen-olivos-del-sur-botella-250ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.035036"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco BELL'S Frasco 350ml",
+      "precio": "S/ 26.80 un",
+      "precio_numerico": 26.8,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-bells-frasco-350ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.046221"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva CARBONELL Sabor Afrutado Inten...",
+      "precio": "S/ 24.90 un",
+      "precio_numerico": 24.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-carbonell-sabor-frutado-intenso-botella-250ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.056080"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Soya COSTEÑO Botella 900ml",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-soya-costeno-botella-900ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.067215"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Ajonjolí y Soya BARCIDDA Botella 270...",
+      "precio": "S/ 13.90 un",
+      "precio_numerico": 13.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-ajonjoli-y-soya-barcidda-botella-270ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.076950"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva CARBONELL Sabor Afrutado Inten...",
+      "precio": "S/ 44.90 un",
+      "precio_numerico": 44.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-carbonell-sabor-afrutado-intenso-botella-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.086001"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva EL OLIVAR Sabor Intenso Botell...",
+      "precio": "S/ 41.90 un",
+      "precio_numerico": 41.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-el-olivar-sabor-intenso-botella-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.095879"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva CREMONINI Extra Virgen Botella...",
+      "precio": "S/ 28.90 un",
+      "precio_numerico": 28.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-cremonini-extra-virgen-botella-250ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.105782"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva HUERTO ALAMEIN Extra Virgen Bo...",
+      "precio": "S/ 66.90 un",
+      "precio_numerico": 66.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-huerto-alamein-extra-virgen-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:18:36.117101"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite Puro de Palta OLEICO Frasco 473ml",
+      "precio": "S/ 64 un",
+      "precio_numerico": 64.0,
+      "link": "https://www.plazavea.com.pe/aceite-puro-de-palta-oleico-frasco-473ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.127254"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Palta Sabor a Albahaca OLIVOS DEL SU...",
+      "precio": "S/ 37.90 un",
+      "precio_numerico": 37.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-palta-sabor-a-albahaca-olivos-del-sur-botella-250ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.139073"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Palta Sabor a Ajo OLIVOS DEL SUR Bot...",
+      "precio": "S/ 37.90 un",
+      "precio_numerico": 37.9,
+      "link": "https://www.plazavea.com.pe/aceite-de-palta-sabor-a-ajo-olivos-del-sur-botella-250ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.150166"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva OLIVOS DEL SUR Puro Botella 50...",
+      "precio": "S/ 40.40 un",
+      "precio_numerico": 40.4,
+      "link": "https://www.plazavea.com.pe/aceite-de-oliva-olivos-del-sur-puro-botella-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.159965"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Ajonjolí OLIVOS DEL SUR Tostado 100%...",
+      "precio": "S/ 20.50 un",
+      "precio_numerico": 20.5,
+      "link": "https://www.plazavea.com.pe/aceite-de-ajonjoli-olivos-del-sur-tostado-100-puro-botella-200ml/p",
+      "fecha_scraping": "2025-08-25T21:18:36.170087"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Pack 2u Aceite De Ajonjoli 250ml",
+      "precio": "S/ 36 un",
+      "precio_numerico": 36.0,
+      "link": "https://www.plazavea.com.pe/pack-2u-aceite-de-ajonjoli-250ml-101553866/p",
+      "fecha_scraping": "2025-08-25T21:18:36.179394"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Pack 2u Aceite De Soya con Aji Chili 150ml",
+      "precio": "S/ 28 un",
+      "precio_numerico": 28.0,
+      "link": "https://www.plazavea.com.pe/pack-2u-aceite-de-soya-con-aji-chili-150ml-101553803/p",
+      "fecha_scraping": "2025-08-25T21:18:36.189820"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Pack 2u Aceite De Soya con Aji Chili 500ml",
+      "precio": "S/ 41 un",
+      "precio_numerico": 41.0,
+      "link": "https://www.plazavea.com.pe/pack-2u-aceite-de-soya-con-aji-chili-500ml-101553794/p",
+      "fecha_scraping": "2025-08-25T21:18:36.200917"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite De Soya con Aji Chili 150ml Ming Fu",
+      "precio": "S/ 13 un",
+      "precio_numerico": 13.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-soya-con-aji-chili-150ml-ming-fu-101553779/p",
+      "fecha_scraping": "2025-08-25T21:18:36.211214"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Perurganic Extra Virgen 120ml",
+      "precio": "S/ 22 un",
+      "precio_numerico": 22.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-perurganic-extra-virgen-120ml-101505055/p",
+      "fecha_scraping": "2025-08-25T21:18:36.220628"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Perurganic Extra Virgen 458ml",
+      "precio": "S/ 50 un",
+      "precio_numerico": 50.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-perurganic-extra-virgen-458ml-101503734/p",
+      "fecha_scraping": "2025-08-25T21:18:36.230228"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Perurganic Extra Virgen 720ml",
+      "precio": "S/ 68 un",
+      "precio_numerico": 68.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-perurganic-extra-virgen-720ml-101503255/p",
+      "fecha_scraping": "2025-08-25T21:18:36.240206"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Perurganic Extra Virgen 250ml",
+      "precio": "S/ 40 un",
+      "precio_numerico": 40.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-perurganic-extra-virgen-250ml-101503254/p",
+      "fecha_scraping": "2025-08-25T21:18:36.250386"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Alkaline Care Sachet 4Lts",
+      "precio": "S/ 234 un",
+      "precio_numerico": 234.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-alkaline-care-sachet-4lts-101431792/p",
+      "fecha_scraping": "2025-08-25T21:18:36.260335"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Alkaline Care 500ml + 200ml Ace...",
+      "precio": "S/ 70 un",
+      "precio_numerico": 70.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-alkaline-care-500ml-200ml-aceite-de-oliva-101431790/p",
+      "fecha_scraping": "2025-08-25T21:18:36.269900"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Alkaline Care 2Lts (1L Sachet ...",
+      "precio": "S/ 122 un",
+      "precio_numerico": 122.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-alkaline-care-2lts-1l-sachet-1l-frasco-101431787/p",
+      "fecha_scraping": "2025-08-25T21:18:36.281329"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Alkaline Care Frasco 3Lts",
+      "precio": "S/ 198 un",
+      "precio_numerico": 198.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-alkaline-care-frasco-3lts-101431783/p",
+      "fecha_scraping": "2025-08-25T21:18:36.291987"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "aceites",
+      "nombre": "Aceite de Coco Alkaline Care Sachet 1Lt",
+      "precio": "S/ 63 un",
+      "precio_numerico": 63.0,
+      "link": "https://www.plazavea.com.pe/aceite-de-coco-alkaline-care-sachet-1lt-101431780/p",
+      "fecha_scraping": "2025-08-25T21:18:36.304700"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Sacagrasa MR. MÚSCULO Verde Repuesto Doypack 5...",
+      "precio": "S/ 7.30 un",
+      "precio_numerico": 7.3,
+      "link": "https://www.plazavea.com.pe/sacagrasa-mr--musculo-verde-repuesto-doypack-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.332776"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Lavavajillas FINISH Tabletas Doypack 13un",
+      "precio": "S/ 25 un",
+      "precio_numerico": 25.0,
+      "link": "https://www.plazavea.com.pe/lavavajillas-finish-tabletas-doypack-13un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.372867"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico NOBLE Plus 30mts Paquete 12un",
+      "precio": "S/ 14.90 un",
+      "precio_numerico": 14.9,
+      "link": "https://www.plazavea.com.pe/papel-higienico-noble-plus-30mts-paquete-12un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.391696"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Limpia Vidrios MR. MÚSCULO Fragancia Fresca Do...",
+      "precio": "S/ 7.20 un",
+      "precio_numerico": 7.2,
+      "link": "https://www.plazavea.com.pe/limpia-vidrios-mr--musculo-fragancia-fresca-doypack-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.413278"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Ambientador en Aerosol GLADE Campos de Lavanda...",
+      "precio": "S/ 10 un",
+      "precio_numerico": 10.0,
+      "link": "https://www.plazavea.com.pe/ambientador-en-aerosol-glade-campos-de-lavanda-frasco-400ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.451605"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Suavizante BOLIVAR Aroma Activo Frasco Floral ...",
+      "precio": "S/ 43.50 un",
+      "precio_numerico": 43.5,
+      "link": "https://www.plazavea.com.pe/suavizante-bolivar-aroma-activo-frasco-floral-5l/p",
+      "fecha_scraping": "2025-08-25T21:18:51.469999"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja SCOTCH-BRITE Multiusos Paquete 6un",
+      "precio": "S/ 18.90 un",
+      "precio_numerico": 18.9,
+      "link": "https://www.plazavea.com.pe/esponja-scotch-brite-multiusos-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.489532"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Suavizante SUAVITEL Fresca Primavera 1L",
+      "precio": "S/ 12.50 un",
+      "precio_numerico": 12.5,
+      "link": "https://www.plazavea.com.pe/suavizante-suavitel-fresca-primavera-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:18:51.512915"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Sacagrasa MR MÚSCULO Naranja Spray 500ml + Sac...",
+      "precio": "S/ 19.20 un",
+      "precio_numerico": 19.2,
+      "link": "https://www.plazavea.com.pe/sacagrasa-mr-musculo-naranja-spray-500mlsacagrasa-mr-musculo-naranja-doypack-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.536220"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Antigrasa MR MÚSCULO Cocina Naranja Repuesto D...",
+      "precio": "S/ 7.30 un",
+      "precio_numerico": 7.3,
+      "link": "https://www.plazavea.com.pe/antigrasa-mr-musculo-cocina-naranja-repuesto-doypack-500cm3/p",
+      "fecha_scraping": "2025-08-25T21:18:51.559900"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Desinfectante Baño PATO Líquido Destructor Sar...",
+      "precio": "S/ 18.60 un",
+      "precio_numerico": 18.6,
+      "link": "https://www.plazavea.com.pe/desinfectante-bano-pato-liquido-destructor-sarro-y-mugre-frasco-710ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.587137"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Desinfectante de Cocina FROSCH Ecoamigable Fra...",
+      "precio": "S/ 26.50 un",
+      "precio_numerico": 26.5,
+      "link": "https://www.plazavea.com.pe/desinfectante-de-cocina-frosch-ecoamigable-frasco-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.610181"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja SCOTCH-BRITE Multiuso Paquete 3un",
+      "precio": "S/ 13.50 un",
+      "precio_numerico": 13.5,
+      "link": "https://www.plazavea.com.pe/esponja-scotch-brite-multiusos-paquete-3un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.637193"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Absorbente SCOTCH BRITE Paquete 9un",
+      "precio": "S/ 16.50 un",
+      "precio_numerico": 16.5,
+      "link": "https://www.plazavea.com.pe/pano-absorbente-scotch-brite-paquete-9un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.663449"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja SCOTCH BRITE Cocina y Baño Paquete 2un",
+      "precio": "S/ 12.90 un",
+      "precio_numerico": 12.9,
+      "link": "https://www.plazavea.com.pe/esponja-scotch-brite-cocina-y-bano-paquete-2un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.687463"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Reutilizable SCOTT Duramax Paquete 1un",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/papel-reutilizable-scott-duramax-paquete-1un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.712651"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Reutilizable SCOTT Duramax 2 en 1 Paquete...",
+      "precio": "S/ 13.50 un",
+      "precio_numerico": 13.5,
+      "link": "https://www.plazavea.com.pe/pano-reutilizable-scott-duramax-2en1-paquete-1un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.733474"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico SUAVE Esencias Elegance Paquet...",
+      "precio": "S/ 33.90 un",
+      "precio_numerico": 33.9,
+      "link": "https://www.plazavea.com.pe/papel-higienico-suave-gentle-care-elegance-32-rollos/p",
+      "fecha_scraping": "2025-08-25T21:18:51.752560"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Amarillo VIRUTEX Paquete 10un",
+      "precio": "S/ 11.90 un",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/pano-amarillo-virutex-paquete-10un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.768593"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico ELITE Clásico Doble Hoja Paque...",
+      "precio": "S/ 21.90 un",
+      "precio_numerico": 21.9,
+      "link": "https://www.plazavea.com.pe/papel-higienico-elite-clasico-doble-hoja-paquete-40un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.793364"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Detergente en Polvo BOREAL Explosión Floral Bo...",
+      "precio": "S/ 29.90 un",
+      "precio_numerico": 29.9,
+      "link": "https://www.plazavea.com.pe/detergente-en-polvo-boreal-explosion-floral-bolsa-4kg/p",
+      "fecha_scraping": "2025-08-25T21:18:51.811574"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Desinfectante de Baño PATO Pastilla Fragancia ...",
+      "precio": "S/ 23 un",
+      "precio_numerico": 23.0,
+      "link": "https://www.plazavea.com.pe/desinfectante-de-bano-pato-pastilla-fragancia-marina-empaque-3un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.827441"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Limpiador de Madera FROSCH Ecoamigable Botella...",
+      "precio": "S/ 24.10 un",
+      "precio_numerico": 24.1,
+      "link": "https://www.plazavea.com.pe/limpiador-de-madera-frosch-ecoamigable-botella-750ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.847134"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Pack Detergente en Polvo ARIEL Pro Cuidado 4 k...",
+      "precio": "S/ 104.90 un",
+      "precio_numerico": 104.9,
+      "link": "https://www.plazavea.com.pe/pack-detergente-en-polvo-ariel-pro-cuidado-4-kg-x-2un/p",
+      "fecha_scraping": "2025-08-25T21:18:51.866511"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Limpiador de Inodoro FROSCH Limón Botella 750 ...",
+      "precio": "S/ 20.90 un",
+      "precio_numerico": 20.9,
+      "link": "https://www.plazavea.com.pe/frosch-limpiador-inodoro-limon-bt750-ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.889601"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Limpiavidrios Ecoamigable FROSCH Botella 500ml",
+      "precio": "S/ 25.80 un",
+      "precio_numerico": 25.8,
+      "link": "https://www.plazavea.com.pe/limpiavidrios-ecoamigable-frosch-botella-500ml/p",
+      "fecha_scraping": "2025-08-25T21:18:51.908881"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Limpiador Multiuso PH FROSCH Neutral Ecoamigab...",
+      "precio": "S/ 22 un",
+      "precio_numerico": 22.0,
+      "link": "https://www.plazavea.com.pe/limpiador-multiuso-ph-frosch-neutral-ecoamigable-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:18:51.930313"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Detergente FROSCH Ecoamigable Paquete 1.8L",
+      "precio": "S/ 50.50 un",
+      "precio_numerico": 50.5,
+      "link": "https://www.plazavea.com.pe/detergente-frosch-ecoamigable-paquete-1-8l/p",
+      "fecha_scraping": "2025-08-25T21:18:51.970925"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Detergente en Polvo SAPOLIO Bebé Bolsa 2Kg",
+      "precio": "S/ 15.50 un",
+      "precio_numerico": 15.5,
+      "link": "https://www.plazavea.com.pe/detergente-en-polvo-sapolio-bebe-bolsa-2kg/p",
+      "fecha_scraping": "2025-08-25T21:18:51.988912"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Quitamanchas SAPOLIO Ropa Color Botella 1800ml",
+      "precio": "S/ 15.70 un",
+      "precio_numerico": 15.7,
+      "link": "https://www.plazavea.com.pe/quitamanchas-sapolio-ropa-color-botella-1800ml/p",
+      "fecha_scraping": "2025-08-25T21:18:52.008510"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Papel Aluminio BELL'S 25mx30cm",
+      "precio": "S/ 12.90 un",
+      "precio_numerico": 12.9,
+      "link": "https://www.plazavea.com.pe/papel-aluminio-bells-25mx30cm/p",
+      "fecha_scraping": "2025-08-25T21:18:52.027111"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponjas 2 en 1 BOREAL Bolsa 6un",
+      "precio": "S/ 9.90 un",
+      "precio_numerico": 9.9,
+      "link": "https://www.plazavea.com.pe/esponjas-2-en-1-boreal-bolsa-6un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.047446"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Trapeador BOREAL de Microfibra Paquete 2un",
+      "precio": "S/ 13.90 un",
+      "precio_numerico": 13.9,
+      "link": "https://www.plazavea.com.pe/trapeador-boreal-de-microfibra-paquete-2un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.065112"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Secatodo BOREAL Paquete 10un",
+      "precio": "S/ 8.50 un",
+      "precio_numerico": 8.5,
+      "link": "https://www.plazavea.com.pe/pano-secatodo-boreal-paquete-10un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.080408"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Absorbente Tradicional VIRUTEX X20",
+      "precio": "S/ 15.90 un",
+      "precio_numerico": 15.9,
+      "link": "https://www.plazavea.com.pe/pano-absorbente-tradicional-virutex-x20/p",
+      "fecha_scraping": "2025-08-25T21:18:52.096116"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Guante Multiuso BOREAL Talla S",
+      "precio": "S/ 5.20 un",
+      "precio_numerico": 5.2,
+      "link": "https://www.plazavea.com.pe/guante-multiuso-boreal-talla-s/p",
+      "fecha_scraping": "2025-08-25T21:18:52.114116"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Guante de Cocina BOREAL Talla M",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/guante-de-cocina-boreal-talla-m/p",
+      "fecha_scraping": "2025-08-25T21:18:52.130379"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Guante Multiuso BOREAL Talla M",
+      "precio": "S/ 5.20 un",
+      "precio_numerico": 5.2,
+      "link": "https://www.plazavea.com.pe/guante-multiuso-boreal-talla-m/p",
+      "fecha_scraping": "2025-08-25T21:18:52.144906"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Bolsa para Basura 10L x20un ETERNA Aromas",
+      "precio": "S/ 7.30 un",
+      "precio_numerico": 7.3,
+      "link": "https://www.plazavea.com.pe/bolsa-para-basura-10l-x20un-eterna-aromas/p",
+      "fecha_scraping": "2025-08-25T21:18:52.161157"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja 2 en 1 BOREAL Bolsa 3un",
+      "precio": "S/ 5.90 un",
+      "precio_numerico": 5.9,
+      "link": "https://www.plazavea.com.pe/esponja-2-en-1-boreal-bolsa-3un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.175149"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Esponja Absorbente VIRUTEX 8 U",
+      "precio": "S/ 13.50 un",
+      "precio_numerico": 13.5,
+      "link": "https://www.plazavea.com.pe/pano-esponja-absorbente-virutex-8-u/p",
+      "fecha_scraping": "2025-08-25T21:18:52.190762"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Secatodo BOREAL Paquete 3un",
+      "precio": "S/ 2.90 un",
+      "precio_numerico": 2.9,
+      "link": "https://www.plazavea.com.pe/pano-secatodo-boreal-paquete-3un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.209298"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Guante Multiuso BOREAL Talla L",
+      "precio": "S/ 5.20 un",
+      "precio_numerico": 5.2,
+      "link": "https://www.plazavea.com.pe/guante-multiuso-boreal-talla-l/p",
+      "fecha_scraping": "2025-08-25T21:18:52.228693"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja Scotch-Brite Espiral Metálico 1 und",
+      "precio": "S/ 4.20 un",
+      "precio_numerico": 4.2,
+      "link": "https://www.plazavea.com.pe/esponja-scotchbrite-espiral-metalico-1-und/p",
+      "fecha_scraping": "2025-08-25T21:18:52.248022"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Escoba VIRUTEX Poderosa + Recogedor",
+      "precio": "S/ 16.90 un",
+      "precio_numerico": 16.9,
+      "link": "https://www.plazavea.com.pe/escoba-virutex-poderosa-recogedor/p",
+      "fecha_scraping": "2025-08-25T21:18:52.268698"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Trapeador de Algodón BOREAL 70cm x 50cm",
+      "precio": "S/ 6.90 un",
+      "precio_numerico": 6.9,
+      "link": "https://www.plazavea.com.pe/trapeador-de-algodon-boreal-70cm-x-50cm/p",
+      "fecha_scraping": "2025-08-25T21:18:52.287937"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Papel film U-THIL Sierra plástica 30m x 30cm",
+      "precio": "S/ 8.80 un",
+      "precio_numerico": 8.8,
+      "link": "https://www.plazavea.com.pe/papel-film-u-thil-30m-en-bolsa/p",
+      "fecha_scraping": "2025-08-25T21:18:52.306482"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño SCOTCH-BRITE Súper Absorbente Paquete 4un",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/pano-scotch-brite-super-absorbente-paquete-4un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.326527"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Escoba HUDE Hogareña",
+      "precio": "S/ 12.90 un",
+      "precio_numerico": 12.9,
+      "link": "https://www.plazavea.com.pe/escoba-hude-hogarena/p",
+      "fecha_scraping": "2025-08-25T21:18:52.347482"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja SCOTCH-BRITE La máquina Paquete 3un",
+      "precio": "S/ 11.40 un",
+      "precio_numerico": 11.4,
+      "link": "https://www.plazavea.com.pe/esponja-scotch-brite-la-maquina-paquete-3un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.365738"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Guante VIRUTEX Multiuso corrugado talla M",
+      "precio": "S/ 9.90 un",
+      "precio_numerico": 9.9,
+      "link": "https://www.plazavea.com.pe/guante-virutex-multiuso-corrugado-talla-m/p",
+      "fecha_scraping": "2025-08-25T21:18:52.382356"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Trapeador BOREAL Felpa 70cm x 50cm",
+      "precio": "S/ 11.90 un",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/trapeador-de-felpa-boreal/p",
+      "fecha_scraping": "2025-08-25T21:18:52.397369"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja Fibra Verde VIRUTEX bolsa x3un",
+      "precio": "S/ 5.90 un",
+      "precio_numerico": 5.9,
+      "link": "https://www.plazavea.com.pe/esponja-fibra-verde-virutex-bolsa-x3un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.428482"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Fibra Esponja Clasica VIRUTEX bolsa x6un",
+      "precio": "S/ 13.90 un",
+      "precio_numerico": 13.9,
+      "link": "https://www.plazavea.com.pe/fibra-esponja-clasica-virutex-bolsa-x6un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.449413"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Papel Manteca BELLS Caja 1un",
+      "precio": "S/ 10.90 un",
+      "precio_numerico": 10.9,
+      "link": "https://www.plazavea.com.pe/papel-manteca-bells-caja-1un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.468266"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Esponja Fibra Verde BOREAL Bolsa 3un",
+      "precio": "S/ 4.50 un",
+      "precio_numerico": 4.5,
+      "link": "https://www.plazavea.com.pe/esponja-fibra-verde-boreal-bolsa-3un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.487334"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Paño Absorbente BOREAL Paquete 6un",
+      "precio": "S/ 10.50 un",
+      "precio_numerico": 10.5,
+      "link": "https://www.plazavea.com.pe/pano-absorbente-boreal-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:18:52.503463"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "limpieza",
+      "nombre": "Guante de Cocina BOREAL Talla S",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/guante-de-cocina-boreal-talla-s/p",
+      "fecha_scraping": "2025-08-25T21:18:52.520478"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "jabones",
+      "nombre": "Jabón de Ropa MARSELLA Floral Paquete 175g",
+      "precio": "S/ 2.70 un",
+      "precio_numerico": 2.7,
+      "link": "https://www.plazavea.com.pe/jabon-de-ropa-marsella-floral-paquete-175g/p",
+      "fecha_scraping": "2025-08-25T21:19:06.723654"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "jabones",
+      "nombre": "Jabón para ropa DIAMANTE Escamas matic Bolsa 9...",
+      "precio": "S/ 29.50 un",
+      "precio_numerico": 29.5,
+      "link": "https://www.plazavea.com.pe/jabon-para-ropa-diamante-escamas-matic-bolsa-900gr/p",
+      "fecha_scraping": "2025-08-25T21:19:06.748116"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche UHT LAIVE Entera Light Bolsa 900ml",
+      "precio": "S/ 4.90 un",
+      "precio_numerico": 4.9,
+      "link": "https://www.plazavea.com.pe/leche-fresca-laive-light-bolsa-900ml/p",
+      "fecha_scraping": "2025-08-25T21:19:22.325658"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos Pardos LA CALERA Paquete 30un",
+      "precio": "S/ 18.90 un",
+      "precio_numerico": 18.9,
+      "link": "https://www.plazavea.com.pe/huevos-pardos-la-calera-paquete-30un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.339804"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Bebida de Almendra SILK Caja 946ml",
+      "precio": "S/ 16.70 un",
+      "precio_numerico": 16.7,
+      "link": "https://www.plazavea.com.pe/bebida-de-almendra-silk-caja-946ml/p",
+      "fecha_scraping": "2025-08-25T21:19:22.350769"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Bebida de Almendra SILK Vainilla Caja 946ml",
+      "precio": "S/ 16 un",
+      "precio_numerico": 16.0,
+      "link": "https://www.plazavea.com.pe/bebida-de-almendra-silk-vainilla-caja-946ml/p",
+      "fecha_scraping": "2025-08-25T21:19:22.361819"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos Pardos BELL'S Bandeja 30un",
+      "precio": "S/ 20.90 un",
+      "precio_numerico": 20.9,
+      "link": "https://www.plazavea.com.pe/huevos-pardos-bells-bandeja-30un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.373168"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche UHT sin Lactosa GLORIA Zero Caja 946ml P...",
+      "precio": "S/ 16.50 un",
+      "precio_numerico": 16.5,
+      "link": "https://www.plazavea.com.pe/leche-uht-sin-lactosa-gloria-zero-caja-946ml-paquete-3un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.384936"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche Reconstituida Entera GLORIA Lata 390g Pa...",
+      "precio": "S/ 23.30 un",
+      "precio_numerico": 23.3,
+      "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.395105"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche GLORIA Zero Lacto Lata 390g Paquete 6un",
+      "precio": "S/ 24.50 un",
+      "precio_numerico": 24.5,
+      "link": "https://www.plazavea.com.pe/leche-gloria-zero-lactosa-lata-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.406335"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mantequilla con Sal GLORIA Paquete 180g",
+      "precio": "S/ 9.90 un",
+      "precio_numerico": 9.9,
+      "link": "https://www.plazavea.com.pe/mantequilla-con-sal-gloria-paquete-180g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.416459"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mantequilla GLORIA Pote 390g",
+      "precio": "S/ 17.90 un",
+      "precio_numerico": 17.9,
+      "link": "https://www.plazavea.com.pe/mantequilla-gloria-pote-390g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.427931"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos de Gallina BELL'S Pardos Bandeja 15un",
+      "precio": "S/ 11 un",
+      "precio_numerico": 11.0,
+      "link": "https://www.plazavea.com.pe/huevos-de-gallina-bells-pardos-bandeja-15un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.439048"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche GLORIA UHT Fresca Entera Caja 946ml Paqu...",
+      "precio": "S/ 16.20 un",
+      "precio_numerico": 16.2,
+      "link": "https://www.plazavea.com.pe/leche-uht-gloria-entera-pack-3un-x-1l/p",
+      "fecha_scraping": "2025-08-25T21:19:22.449341"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche Light GLORIA Lata 390g Paquete 6un",
+      "precio": "S/ 24.50 un",
+      "precio_numerico": 24.5,
+      "link": "https://www.plazavea.com.pe/leche-light-gloria-lata-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.459062"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche sin Lactosa LAIVE Botella 390g Paquete 6...",
+      "precio": "S/ 23.90 un",
+      "precio_numerico": 23.9,
+      "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-botella-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.470478"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche sin Lactosa LAIVE Light Botella 390g Paq...",
+      "precio": "S/ 23.90 un",
+      "precio_numerico": 23.9,
+      "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-light-botella-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.481223"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Parcialmente Descremado GLORIA Fresa Ga...",
+      "precio": "S/ 10.20 un",
+      "precio_numerico": 10.2,
+      "link": "https://www.plazavea.com.pe/yogurt-parcialmente-descremado-gloria-fresa-galonera-1-6kg/p",
+      "fecha_scraping": "2025-08-25T21:19:22.491220"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mantequilla con Sal LAIVE Barra 180g",
+      "precio": "S/ 10.40 un",
+      "precio_numerico": 10.4,
+      "link": "https://www.plazavea.com.pe/mantequilla-con-sal-laive-barra-180g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.502822"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mezcla Láctea LAIVE Sin Lactosa Caja 480g Paqu...",
+      "precio": "S/ 23.20 un",
+      "precio_numerico": 23.2,
+      "link": "https://www.plazavea.com.pe/mezcla-lactea-laive-sin-lactosa-caja-480g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.512978"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Griego VAKIMU Original Balde 1Kg",
+      "precio": "S/ 15.90 un",
+      "precio_numerico": 15.9,
+      "link": "https://www.plazavea.com.pe/yogurt-griego-vakimu-original-balde-1kg/p",
+      "fecha_scraping": "2025-08-25T21:19:22.524080"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche UHT GLORIA Light Pack 3un x 1L",
+      "precio": "S/ 16.50 un",
+      "precio_numerico": 16.5,
+      "link": "https://www.plazavea.com.pe/leche-uht-gloria-light-pack-3un-x-1l/p",
+      "fecha_scraping": "2025-08-25T21:19:22.535186"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche Reconstituida Entera GLORIA Lata 390g Pa...",
+      "precio": "S/ 45 un",
+      "precio_numerico": 45.0,
+      "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g-paquete-12un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.547703"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche Evaporada Entera GLORIA Lata 390g Paquet...",
+      "precio": "S/ 23.30 un",
+      "precio_numerico": 23.3,
+      "link": "https://www.plazavea.com.pe/leche-evaporada-entera-gloria-lata-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.561862"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche Reconstituida Entera GLORIA Lata 390g",
+      "precio": "S/ 4.20 un",
+      "precio_numerico": 4.2,
+      "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.574350"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos Pardos ARTISAN Bandeja 15un",
+      "precio": "S/ 12.80 un",
+      "precio_numerico": 12.8,
+      "link": "https://www.plazavea.com.pe/huevos-pardos-artisan-bandeja-15un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.586468"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche sin Lactosa LAIVE Botella 390g",
+      "precio": "S/ 4.40 un",
+      "precio_numerico": 4.4,
+      "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-botella-390g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.596432"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos Pardos LA CALERA Bandeja 15un",
+      "precio": "S/ 11 un",
+      "precio_numerico": 11.0,
+      "link": "https://www.plazavea.com.pe/huevos-pardos-la-calera-bandeja-15un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.607910"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche Descremada GLORIA Slim UHT Triple Zero C...",
+      "precio": "S/ 16.50 un",
+      "precio_numerico": 16.5,
+      "link": "https://www.plazavea.com.pe/leche-descremada-gloria-slim-uht-triple-zero-caja-946ml-paquete-3un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.621990"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche sin Lactosa LAIVE UHT Caja 946ml Paquete...",
+      "precio": "S/ 24.50 un",
+      "precio_numerico": 24.5,
+      "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-uht-caja-946ml-paquete-4un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.634711"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche sin Lactosa LAIVE UHT Light Caja 946ml P...",
+      "precio": "S/ 23.10 un",
+      "precio_numerico": 23.1,
+      "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-uht-light-caja-946ml-paquete-4un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.647814"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mezcla Láctea Light sin Lactosa LAIVE Tetrapac...",
+      "precio": "S/ 22.90 un",
+      "precio_numerico": 22.9,
+      "link": "https://www.plazavea.com.pe/mezcla-lactea-light-sin-lactosa-laive-tetrapack-480g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.663508"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mezcla Láctea BONLÉ sin Lactosa Caja 480g Paqu...",
+      "precio": "S/ 19.90 un",
+      "precio_numerico": 19.9,
+      "link": "https://www.plazavea.com.pe/mezcla-lactea-bonle-sin-lactosa-caja-480g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.677109"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Parcialmente Descremado GLORIA Vainilla...",
+      "precio": "S/ 10.20 un",
+      "precio_numerico": 10.2,
+      "link": "https://www.plazavea.com.pe/yogurt-parcialmente-descremado-gloria-vainilla-galonera-1-6kg/p",
+      "fecha_scraping": "2025-08-25T21:19:22.691488"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Batido GLORIA Griego Sabor Natural Bols...",
+      "precio": "S/ 7.60 un",
+      "precio_numerico": 7.6,
+      "link": "https://www.plazavea.com.pe/yogurt-batido-gloria-griego-sabor-natural-bolsa-800g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.703869"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt GLORIA Battimix Vainilla con Arroz Cruj...",
+      "precio": "S/ 3.20 un",
+      "precio_numerico": 3.2,
+      "link": "https://www.plazavea.com.pe/yogurt-gloria-battimix-vainilla-con-arroz-crujiente-banado-en-chocolate-vaso-146g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.715706"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Parcialmente Descremado GLORIA Sabor a ...",
+      "precio": "S/ 10.50 un",
+      "precio_numerico": 10.5,
+      "link": "https://www.plazavea.com.pe/yogurt-parcialmente-descremado-gloria-sabor-a-fresa-botella-180g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.727848"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mezcla Láctea IDEAL Cremosita Lata 390g Paquet...",
+      "precio": "S/ 23.50 un",
+      "precio_numerico": 23.5,
+      "link": "https://www.plazavea.com.pe/mezcla-lactea-ideal-cremosita-lata-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.740986"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche GLORIA UHT Entera Bolsa 800ml Paquete 3u...",
+      "precio": "S/ 12.50 un",
+      "precio_numerico": 12.5,
+      "link": "https://www.plazavea.com.pe/leche-gloria-uht-entera-bolsa-800ml-paquete-3un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.754521"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Griego VAKIMU Frutos del Bosque Balde 1...",
+      "precio": "S/ 15.90 un",
+      "precio_numerico": 15.9,
+      "link": "https://www.plazavea.com.pe/yogurt-griego-vakimu-frutos-del-bosque-balde-1kg/p",
+      "fecha_scraping": "2025-08-25T21:19:22.767828"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos de Gallina LA CALERA de Corral Paquete ...",
+      "precio": "S/ 13.90 un",
+      "precio_numerico": 13.9,
+      "link": "https://www.plazavea.com.pe/huevos-de-gallina-la-calera-de-corral-bandeja-12un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.780668"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos de Codorniz LA CALERA Bandeja 18un",
+      "precio": "S/ 7.49 un",
+      "precio_numerico": 7.49,
+      "link": "https://www.plazavea.com.pe/huevos-de-codorniz-la-calera-bandeja-18un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.794399"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos de Gallina LA CALERA Pardos Jumbo Bande...",
+      "precio": "S/ 12.90 un",
+      "precio_numerico": 12.9,
+      "link": "https://www.plazavea.com.pe/huevos-de-gallina-la-calera-pardos-jumbo-bandeja-15un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.806659"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Huevos de Codorniz BELL'S Bandeja 24un",
+      "precio": "S/ 8.90 un",
+      "precio_numerico": 8.9,
+      "link": "https://www.plazavea.com.pe/huevos-de-codorniz-bells-bandeja-24un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.820501"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Mantequilla con Sal LAIVE Pote 350g",
+      "precio": "S/ 19.50 un",
+      "precio_numerico": 19.5,
+      "link": "https://www.plazavea.com.pe/mantequilla-con-sal-laive-pote-350g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.832234"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche Fermentada GLORIA Yofresh Sabor a Fresa ...",
+      "precio": "S/ 11.50 un",
+      "precio_numerico": 11.5,
+      "link": "https://www.plazavea.com.pe/leche-fermentada-gloria-yofresh-sabor-a-fresa-caja-180ml-tetrapack-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.842625"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Bebible DANLAC Estilo Kéfir Botella 900...",
+      "precio": "S/ 18.90 un",
+      "precio_numerico": 18.9,
+      "link": "https://www.plazavea.com.pe/yogurt-bebible-danlac-estilo-kefir-botella-900g/p",
+      "fecha_scraping": "2025-08-25T21:19:22.855188"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Yogurt Probiótico LAIVE Sabor a Mora Galonera ...",
+      "precio": "S/ 11.50 un",
+      "precio_numerico": 11.5,
+      "link": "https://www.plazavea.com.pe/yogurt-probiotico-laive-sabor-a-mora-galonera-1-7kg/p",
+      "fecha_scraping": "2025-08-25T21:19:22.865014"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche sin Lactosa LAIVE Sabor a Chocolate Caja...",
+      "precio": "S/ 10.20 un",
+      "precio_numerico": 10.2,
+      "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-sabor-a-chocolate-caja-180ml-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.876259"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Bebida de Almendra sin Azúcar NATURES HEART Ca...",
+      "precio": "S/ 19 un",
+      "precio_numerico": 19.0,
+      "link": "https://www.plazavea.com.pe/bebida-de-almendra-sin-azucar-natures-heart-caja-946ml-paquete-2un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.886847"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Leche GLORIA Niños Lata 390g Paquete 6un",
+      "precio": "S/ 24.50 un",
+      "precio_numerico": 24.5,
+      "link": "https://www.plazavea.com.pe/leche-gloria-ninos-lata-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.896323"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "lacteos",
+      "nombre": "Bebida de Soya SOY VIDA Lata 390g Paquete 6un",
+      "precio": "S/ 16.40 un",
+      "precio_numerico": 16.4,
+      "link": "https://www.plazavea.com.pe/bebida-de-soya-soy-vida-lata-390g-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:19:22.908031"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Waflera + Sandwichera ATMA Disney Rojo",
+      "precio": "S/ 148 un",
+      "precio_numerico": 148.0,
+      "link": "https://www.plazavea.com.pe/waflerasandwichera-atma-disney-rojo/p",
+      "fecha_scraping": "2025-08-25T21:19:39.163174"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Tostadora ATMA 2 Panes Disney TOAT39PE Negro",
+      "precio": "S/ 130 un",
+      "precio_numerico": 130.0,
+      "link": "https://www.plazavea.com.pe/tostadora-atma-2-panes-disney-toat39pe-negro/p",
+      "fecha_scraping": "2025-08-25T21:19:39.186291"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Cafetera Personal ATMA 225ml Disney CAAT8018PE...",
+      "precio": "S/ 99 un",
+      "precio_numerico": 99.0,
+      "link": "https://www.plazavea.com.pe/cafetera-personal-atma-225ml-disney-caat8018pe-negro/p",
+      "fecha_scraping": "2025-08-25T21:19:39.202155"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Tostadas BIMBO Integrales Paquete 10un",
+      "precio": "S/ 7.50 un",
+      "precio_numerico": 7.5,
+      "link": "https://www.plazavea.com.pe/tostadas-bimbo-integrales-paquete-10un/p",
+      "fecha_scraping": "2025-08-25T21:19:39.215034"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Avena con Chocolate SANTA CATALINA Bolsa 150g",
+      "precio": "S/ 5.50 un",
+      "precio_numerico": 5.5,
+      "link": "https://www.plazavea.com.pe/avena-con-chocolate-santa-catalina-bolsa-150g/p",
+      "fecha_scraping": "2025-08-25T21:19:39.225563"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Cereal de Avena Maíz y Trigo ÁNGEL Meli Bolsa ...",
+      "precio": "S/ 15.70 un",
+      "precio_numerico": 15.7,
+      "link": "https://www.plazavea.com.pe/cereal-de-avena-maiz-y-trigo-angel-meli-bolsa-420g/p",
+      "fecha_scraping": "2025-08-25T21:19:39.241021"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Blend Proteico TARWI FOODS Super Desayuno Doyp...",
+      "precio": "S/ 14.90 un",
+      "precio_numerico": 14.9,
+      "link": "https://www.plazavea.com.pe/blend-proteico-tarwi-foods-super-desayuno-doypack-300gr/p",
+      "fecha_scraping": "2025-08-25T21:19:39.254706"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Bandeja de Desayuno Bambú 45 cm x 25 cm",
+      "precio": "S/ 34 un",
+      "precio_numerico": 34.0,
+      "link": "https://www.plazavea.com.pe/bandeja-de-desayuno-bambu-45-cm-x-25-cm-101540014/p",
+      "fecha_scraping": "2025-08-25T21:19:39.267219"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Set Didáctico Desayuno Divertido Montessori de...",
+      "precio": "S/ 75 un",
+      "precio_numerico": 75.0,
+      "link": "https://www.plazavea.com.pe/set-didactico-desayuno-divertido-montessori-de-madera-101499975/p",
+      "fecha_scraping": "2025-08-25T21:19:39.281324"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Set de 2 Vajillas Plato para Desayuno Forma de...",
+      "precio": "S/ 35 un",
+      "precio_numerico": 35.0,
+      "link": "https://www.plazavea.com.pe/set-de-2-vajillas-plato-para-desayuno-forma-de-tostada-101391797/p",
+      "fecha_scraping": "2025-08-25T21:19:39.291828"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Bandeja Decorativa de Bambú para Desayunos, Se...",
+      "precio": "S/ 39 un",
+      "precio_numerico": 39.0,
+      "link": "https://www.plazavea.com.pe/bandeja-decorativa-de-bambu-para-desayunos-set-de-2-para-picnic-etc-101375354/p",
+      "fecha_scraping": "2025-08-25T21:19:39.306728"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Bandeja Decorativa de Bambú para Desayunos, Se...",
+      "precio": "S/ 39 un",
+      "precio_numerico": 39.0,
+      "link": "https://www.plazavea.com.pe/bandeja-decorativa-de-bambu-para-desayunos-set-de-2-para-picnic-etc-101375350/p",
+      "fecha_scraping": "2025-08-25T21:19:39.315769"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Mesa Bandeja para Desayunos de Bambú 50 x 30",
+      "precio": "S/ 49 un",
+      "precio_numerico": 49.0,
+      "link": "https://www.plazavea.com.pe/mesa-bandeja-para-desayunos-de-bambu-50-x-30-101185006/p",
+      "fecha_scraping": "2025-08-25T21:19:39.325865"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "MÁQUINA PARA HACER DESAYUNOS DSP KC1239",
+      "precio": "S/ 129 un",
+      "precio_numerico": 129.0,
+      "link": "https://www.plazavea.com.pe/maquina-para-hacer-desayunos-dsp-kc1239-101183577/p",
+      "fecha_scraping": "2025-08-25T21:19:39.354163"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Taza para Desayuno en Color Transparente Y+Pap...",
+      "precio": "S/ 49.90 un",
+      "precio_numerico": 49.9,
+      "link": "https://www.plazavea.com.pe/taza-para-desayuno-en-color-transparente-y-papel-de-regalo-101128255/p",
+      "fecha_scraping": "2025-08-25T21:19:39.364657"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Taza para Desayuno de Color Transparente Y+Pap...",
+      "precio": "S/ 49.90 un",
+      "precio_numerico": 49.9,
+      "link": "https://www.plazavea.com.pe/taza-para-desayuno-de-color-transparente-y-papel-de-regalo-101128032/p",
+      "fecha_scraping": "2025-08-25T21:19:39.736108"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Taza para Desayuno Transparente Y+Agendita",
+      "precio": "S/ 47.90 un",
+      "precio_numerico": 47.9,
+      "link": "https://www.plazavea.com.pe/taza-para-desayuno-transparente-y-agendita-101126194/p",
+      "fecha_scraping": "2025-08-25T21:19:39.756349"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Juego Grupo De Comida Desayuno Melissa & Doug",
+      "precio": "S/ 45.95 un",
+      "precio_numerico": 45.95,
+      "link": "https://www.plazavea.com.pe/juego-grupo-de-comida-desayuno-melissa---doug-101084572/p",
+      "fecha_scraping": "2025-08-25T21:19:39.770988"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Máquina Sandwichera de Hamburguesas Panini par...",
+      "precio": "S/ 109.90 un",
+      "precio_numerico": 109.9,
+      "link": "https://www.plazavea.com.pe/maquina-sandwichera-de-hamburguesas-panini-para-el-desayuno-100987828/p",
+      "fecha_scraping": "2025-08-25T21:19:39.789177"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Estación de Desayuno Vivibox Portatil 1450w Be...",
+      "precio": "S/ 478 un",
+      "precio_numerico": 478.0,
+      "link": "https://www.plazavea.com.pe/estacion-de-desayuno-vivibox-portatil-1450w-beige-100977864/p",
+      "fecha_scraping": "2025-08-25T21:19:39.802087"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Masas y Plastilinas Play Doh Kitchen Creations...",
+      "precio": "S/ 41.90 un",
+      "precio_numerico": 41.9,
+      "link": "https://www.plazavea.com.pe/masas-y-plastilinas-play-doh-kitchen-creations-deliciosos-desayunos-100847244/p",
+      "fecha_scraping": "2025-08-25T21:19:39.816085"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Panquequera para Desayunos Rapidos Novedosos N...",
+      "precio": "S/ 149 un",
+      "precio_numerico": 149.0,
+      "link": "https://www.plazavea.com.pe/panquequera-para-desayunos-rapidos-novedosos-negro-100818877/p",
+      "fecha_scraping": "2025-08-25T21:19:39.825009"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Aparato Electrodomestico Mini Donas para el De...",
+      "precio": "S/ 251 un",
+      "precio_numerico": 251.0,
+      "link": "https://www.plazavea.com.pe/aparato-electrodomestico-mini-donas-para-el-desayuno-100805694/p",
+      "fecha_scraping": "2025-08-25T21:19:39.833492"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Tostadora para Desayunos Rapidos Antiadherente...",
+      "precio": "S/ 123 un",
+      "precio_numerico": 123.0,
+      "link": "https://www.plazavea.com.pe/tostadora-para-desayunos-rapidos-antiadherente-negro-100804232/p",
+      "fecha_scraping": "2025-08-25T21:19:39.843260"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Tostadora de Desayunos Rapidos Saludables Negr...",
+      "precio": "S/ 103 un",
+      "precio_numerico": 103.0,
+      "link": "https://www.plazavea.com.pe/tostadora-de-desayunos-rapidos-saludables-negro-100804230/p",
+      "fecha_scraping": "2025-08-25T21:19:39.850827"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Sandwichera de Desayunos Rapidos Antiadherente...",
+      "precio": "S/ 149 un",
+      "precio_numerico": 149.0,
+      "link": "https://www.plazavea.com.pe/sandwichera-de-desayunos-rapidos-antiadherente-negro-100804222/p",
+      "fecha_scraping": "2025-08-25T21:19:39.859049"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Panquequera de Desayunos Divertidos Antiadhere...",
+      "precio": "S/ 167 un",
+      "precio_numerico": 167.0,
+      "link": "https://www.plazavea.com.pe/panquequera-de-desayunos-divertidos-antiadherente-negro-100804219/p",
+      "fecha_scraping": "2025-08-25T21:19:39.867389"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Maquina para Desayunos Rapidos Antiadherente N...",
+      "precio": "S/ 197 un",
+      "precio_numerico": 197.0,
+      "link": "https://www.plazavea.com.pe/maquina-para-desayunos-rapidos-antiadherente-negro-100804214/p",
+      "fecha_scraping": "2025-08-25T21:19:39.879033"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Maquina de Preparar Donas al Instante para el ...",
+      "precio": "S/ 107 un",
+      "precio_numerico": 107.0,
+      "link": "https://www.plazavea.com.pe/maquina-de-preparar-donas-al-instante-para-el-desayuno-100804184/p",
+      "fecha_scraping": "2025-08-25T21:19:39.891441"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Resiste Waflera DobleNegro para Desayunos Gurm...",
+      "precio": "S/ 93 un",
+      "precio_numerico": 93.0,
+      "link": "https://www.plazavea.com.pe/resiste-waflera-doblenegro-para-desayunos-gurmet-100787585/p",
+      "fecha_scraping": "2025-08-25T21:19:39.900525"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Desayuno Ideal con Waflera Negro de 2 Espacios",
+      "precio": "S/ 157 un",
+      "precio_numerico": 157.0,
+      "link": "https://www.plazavea.com.pe/desayuno-ideal-con-waflera-negro-de-2-espacios-100787582/p",
+      "fecha_scraping": "2025-08-25T21:19:39.910262"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Maquina de Desayuno Multifuncional Horno Cafet...",
+      "precio": "S/ 198.99 un",
+      "precio_numerico": 198.99,
+      "link": "https://www.plazavea.com.pe/maquina-de-desayuno-multifuncional-horno-cafetera-y-freidora-100781328/p",
+      "fecha_scraping": "2025-08-25T21:19:39.918995"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Taza desayuno de cerámica de 400 ml de Minnie ...",
+      "precio": "S/ 35 un",
+      "precio_numerico": 35.0,
+      "link": "https://www.plazavea.com.pe/taza-desayuno-de-ceramica-de-400-ml-de-minnie-mouse-100751189/p",
+      "fecha_scraping": "2025-08-25T21:19:39.930570"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Bandeja de Cama Acurel Mesa Plegable Desayuno ...",
+      "precio": "S/ 145 un",
+      "precio_numerico": 145.0,
+      "link": "https://www.plazavea.com.pe/bandeja-de-cama-acurel-mesa-plegable-desayuno-en-caoba-100737986/p",
+      "fecha_scraping": "2025-08-25T21:19:39.938724"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Bandeja de Cama Acurel Mesa Plegable Desayuno ...",
+      "precio": "S/ 145 un",
+      "precio_numerico": 145.0,
+      "link": "https://www.plazavea.com.pe/bandeja-de-cama-acurel-mesa-plegable-desayuno-en-natural-100737985/p",
+      "fecha_scraping": "2025-08-25T21:19:39.946673"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Combo Desayuno Mini Wafflera y Set Taza Rosada...",
+      "precio": "S/ 75.99 un",
+      "precio_numerico": 75.99,
+      "link": "https://www.plazavea.com.pe/combo-desayuno-mini-wafflera-y-set-taza-rosada-calentadora-100423591/p",
+      "fecha_scraping": "2025-08-25T21:19:39.958164"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Combo Desayuno Mini Wafflera y Set Taza Verde ...",
+      "precio": "S/ 75.99 un",
+      "precio_numerico": 75.99,
+      "link": "https://www.plazavea.com.pe/combo-desayuno-mini-wafflera-y-set-taza-verde-calentadora-100423588/p",
+      "fecha_scraping": "2025-08-25T21:19:39.966718"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "desayuno",
+      "nombre": "Juguete Bandeja de Desayuno Plantoys",
+      "precio": "S/ 165 un",
+      "precio_numerico": 165.0,
+      "link": "https://www.plazavea.com.pe/juguete-bandeja-de-desayuno-plantoys-100174134/p",
+      "fecha_scraping": "2025-08-25T21:19:39.978475"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Acondicionador PANTENE con Keratina Frasco 510...",
+      "precio": "S/ 32.90 un",
+      "precio_numerico": 32.9,
+      "link": "https://www.plazavea.com.pe/acondicionador-pantene-con-keratina-frasco-510ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.013524"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Shampoo Equilibrante PANTENE Pro-V Miracles Eq...",
+      "precio": "S/ 32.90 un",
+      "precio_numerico": 32.9,
+      "link": "https://www.plazavea.com.pe/shampoo-equilibrante-pantene-prov-miracles-equilibrio-raiz-y-puntas-frasco-510ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.037077"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Acondicionador Hidratante para Cabello Mixto P...",
+      "precio": "S/ 32.90 un",
+      "precio_numerico": 32.9,
+      "link": "https://www.plazavea.com.pe/acondicionador-hidratante-para-cabello-mixto-pantene-equilibrio-raiz-y-puntas-510ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.067066"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Crema para Peinar PANTENE Keratina Frasco 300m...",
+      "precio": "S/ 19.90 un",
+      "precio_numerico": 19.9,
+      "link": "https://www.plazavea.com.pe/crema-para-peinar-pantene-keratina-frasco-300ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.095837"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Crema para Peinar HERBAL ESSENCES Bio:Renew Pe...",
+      "precio": "S/ 34.90 un",
+      "precio_numerico": 34.9,
+      "link": "https://www.plazavea.com.pe/crema-para-peinar-herbal-essences-biorenew-pequiaguacate-nutre-e-hidrata-frasco-300ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.119788"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Crema para peinar PANTENE Bambú Frasco 300ml",
+      "precio": "S/ 20.90 un",
+      "precio_numerico": 20.9,
+      "link": "https://www.plazavea.com.pe/crema-para-peinar-pantene-bambu-frasco-300ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.148207"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Fórmula Nutricional GLUCERNA Vainilla para Dia...",
+      "precio": "S/ 137.69 un",
+      "precio_numerico": 137.69,
+      "link": "https://www.plazavea.com.pe/fortificante-en-polvo-glucerna-vainilla-lata-900g/p",
+      "fecha_scraping": "2025-08-25T21:19:56.173440"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Alimento Nutricional SUSTAGEN Pro Sabor a Vain...",
+      "precio": "S/ 89.90 un",
+      "precio_numerico": 89.9,
+      "link": "https://www.plazavea.com.pe/alimento-nutricional-sustagen-pro-sabor-a-vainilla-lata-900g/p",
+      "fecha_scraping": "2025-08-25T21:19:56.197347"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Toallas Higiénicas NOSOTRAS Invisible Rapigel ...",
+      "precio": "S/ 19.60 un",
+      "precio_numerico": 19.6,
+      "link": "https://www.plazavea.com.pe/toallas-higienicas-nosotras-invisible-rapigel-paquete-40un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.223205"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Toalla Higiénica NOSOTRAS Buenas Noches Mayor ...",
+      "precio": "S/ 9.80 un",
+      "precio_numerico": 9.8,
+      "link": "https://www.plazavea.com.pe/toalla-higienica-nosotras-buenas-noches-mayor-proteccion-paquete-10un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.246861"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Gel de Ducha PALMOLIVE Sandía y Lychee 390ml",
+      "precio": "S/ 15.90 un",
+      "precio_numerico": 15.9,
+      "link": "https://www.plazavea.com.pe/gel-de-ducha-palmolive-sandia-y-lychee-390ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.267105"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Gel para Hombre EGO Attraction Pote 110ml",
+      "precio": "S/ 5.90 un",
+      "precio_numerico": 5.9,
+      "link": "https://www.plazavea.com.pe/gel-para-hombre-ego-attraction-pote-110ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.290748"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Tinte para Cabello en Shampoo JUST FOR MEN Neg...",
+      "precio": "S/ 49.09 un",
+      "precio_numerico": 49.09,
+      "link": "https://www.plazavea.com.pe/tinte-para-cabello-en-shampoo-just-for-men-negro-caja-1un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.316363"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Shampoo HEAD & SHOULDERS Men Con Old Spice Con...",
+      "precio": "S/ 39.90 un",
+      "precio_numerico": 39.9,
+      "link": "https://www.plazavea.com.pe/shampoo-head-shoulders-men-con-old-spice-control-caspa-frasco-850ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.343664"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Shampoo EGO Men Black Frasco 400ml",
+      "precio": "S/ 18.50 un",
+      "precio_numerico": 18.5,
+      "link": "https://www.plazavea.com.pe/shampoo-ego-men-black-frasco-400ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.367503"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Desodorante para mujer SECRET Spray Antitransp...",
+      "precio": "S/ 15.50 un",
+      "precio_numerico": 15.5,
+      "link": "https://www.plazavea.com.pe/desodorante-para-mujer-secret-spray-antitranspirante-powder-protect-cotton-93g/p",
+      "fecha_scraping": "2025-08-25T21:19:56.389501"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pack HERBAL ESSENCES Acondicionador Argan Oil ...",
+      "precio": "S/ 74.90 un",
+      "precio_numerico": 74.9,
+      "link": "https://www.plazavea.com.pe/pack-herbal-essences-acondicionador-renew-argan-oil-of-morocco-400ml-shampoo-aceite-de-argan-400ml-mascarilla-tratamiento-capilar-argan-oil-300ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.413533"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pasta Dental COLGATE Triple Acción Pack 3x100m...",
+      "precio": "S/ 18.90 un",
+      "precio_numerico": 18.9,
+      "link": "https://www.plazavea.com.pe/crema-dental-colgate-triple-accion-tubo-100ml-caja-3un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.438727"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Toallas Higiénicas NOSOTRAS Buenas Noches Noct...",
+      "precio": "S/ 16.90 un",
+      "precio_numerico": 16.9,
+      "link": "https://www.plazavea.com.pe/toallas-higienicas-nosotras-buenas-noches-nocturna-natural-paquete-30un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.459550"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pack Desodorante en Barra para Hombre GILLETTE...",
+      "precio": "S/ 31.50 un",
+      "precio_numerico": 31.5,
+      "link": "https://www.plazavea.com.pe/pack-desodorante-en-barra-para-hombre-gillette-hydra-gel-aloe-82g-frasco-2un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.481280"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Suplemento CENTRUM Multivitáminico Silver 30un",
+      "precio": "S/ 34.90 un",
+      "precio_numerico": 34.9,
+      "link": "https://www.plazavea.com.pe/suplemento-centrum-multivitaminico-silver-30un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.503891"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Protectores Diarios NOSOTRAS Sensiti-V Paquete...",
+      "precio": "S/ 5.90 un",
+      "precio_numerico": 5.9,
+      "link": "https://www.plazavea.com.pe/protectores-diarios-nosotras-sensitiv-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.524179"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Hgh Releasing - Xtralife Natural Products - 12...",
+      "precio": "S/ 185 un",
+      "precio_numerico": 185.0,
+      "link": "https://www.plazavea.com.pe/hgh-releasing-xtralife-natural-products-120-tabletas-100472355/p",
+      "fecha_scraping": "2025-08-25T21:19:56.544901"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Jabón Íntimo NOSOTRAS Agua De Rosas Frasco 200...",
+      "precio": "S/ 17.90 un",
+      "precio_numerico": 17.9,
+      "link": "https://www.plazavea.com.pe/jabon-intimo-nosotras-agua-de-rosas-frasco-200ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.566646"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Shampoo TÍO NACHO Anti Caída Herbolaria Frasco...",
+      "precio": "S/ 39.90 un",
+      "precio_numerico": 39.9,
+      "link": "https://www.plazavea.com.pe/shampoo-tio-nacho-anti-caida-herbolaria-frasco-1l/p",
+      "fecha_scraping": "2025-08-25T21:19:56.587614"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Jabón Íntimo NOSOTRAS Frescura Extrema Frasco ...",
+      "precio": "S/ 17.90 un",
+      "precio_numerico": 17.9,
+      "link": "https://www.plazavea.com.pe/jabon-intimo-nosotras-frescura-extrema-frasco-200ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.609426"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Jabón Íntimo NOSOTRAS Herbal Frasco 200ml",
+      "precio": "S/ 17.90 un",
+      "precio_numerico": 17.9,
+      "link": "https://www.plazavea.com.pe/jabon-intimo-nosotras-herbal-frasco-200ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.632516"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Espuma de Afeitar NIVEA Men Sensitive Frasco 2...",
+      "precio": "S/ 36.50 un",
+      "precio_numerico": 36.5,
+      "link": "https://www.plazavea.com.pe/espuma-de-afeitar-nivea-men-sensitive-frasco-200ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.654220"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Tinte para Cabello en Shampoo JUST FOR MEN Cas...",
+      "precio": "S/ 49.09 un",
+      "precio_numerico": 49.09,
+      "link": "https://www.plazavea.com.pe/tinte-para-cabello-en-shampoo-just-for-men-castano-oscuro-caja-1un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.676353"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales Premium COTIDIAN Protección Adulta Tal...",
+      "precio": "S/ 61.90 un",
+      "precio_numerico": 61.9,
+      "link": "https://www.plazavea.com.pe/panales-premium-cotidian-proteccion-adulta-talla-g-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.696914"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales COTIDIAN Premium Incontinencia Fuerte ...",
+      "precio": "S/ 61.90 un",
+      "precio_numerico": 61.9,
+      "link": "https://www.plazavea.com.pe/panales-cotidian-premium-incontinencia-fuerte-talla-m-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.718378"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales COTIDIAN Protección Adulta Talla M Paq...",
+      "precio": "S/ 48.90 un",
+      "precio_numerico": 48.9,
+      "link": "https://www.plazavea.com.pe/panales-cotidian-proteccion-adulta-talla-m-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.734761"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Calostro - Xtralife Natural Products - 60 Cáps...",
+      "precio": "S/ 79 un",
+      "precio_numerico": 79.0,
+      "link": "https://www.plazavea.com.pe/calostro-xtralife-natural-products-60-capsulas-100472361/p",
+      "fecha_scraping": "2025-08-25T21:19:56.754195"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales COTIDIAN Protección Adulta Talla G Paq...",
+      "precio": "S/ 48.90 un",
+      "precio_numerico": 48.9,
+      "link": "https://www.plazavea.com.pe/panales-cotidian-proteccion-adulta-talla-g-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.772906"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Practipañal Multiuso COTIDIAN Apósito Paquete ...",
+      "precio": "S/ 22 un",
+      "precio_numerico": 22.0,
+      "link": "https://www.plazavea.com.pe/practipanal-multiuso-cotidian-aposito-paquete-40un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.791565"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Practipañal Multiuso COTIDIAN Apósito Paquete ...",
+      "precio": "S/ 11.20 un",
+      "precio_numerico": 11.2,
+      "link": "https://www.plazavea.com.pe/practipanal-multiuso-cotidian-aposito-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.810518"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Apósito Practiuso PRUDENTIAL Paquete 20un",
+      "precio": "S/ 10 un",
+      "precio_numerico": 10.0,
+      "link": "https://www.plazavea.com.pe/aposito-practiuso-prudential-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:19:56.829575"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Flexacil Ultra 3 Pack para Molestias Articular...",
+      "precio": "S/ 268 un",
+      "precio_numerico": 268.0,
+      "link": "https://www.plazavea.com.pe/flexacil-ultra-3-pack-para-molestias-articulares-y-oseas-100876299/p",
+      "fecha_scraping": "2025-08-25T21:19:56.849614"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Acondicionador SEDAL Ceramidas Frasco 650ml",
+      "precio": "S/ 22 un",
+      "precio_numerico": 22.0,
+      "link": "https://www.plazavea.com.pe/acondicionador-sedal-ceramidas-frasco-650ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.877275"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pasta Dental ORAL B Pro-Salud Stages Disney Fr...",
+      "precio": "S/ 11.90 un",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/pasta-dental-oral-b-pro-salud-stages-disney-frozen-75ml/p",
+      "fecha_scraping": "2025-08-25T21:19:56.901649"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Cardiox para Presión Arterial 3 Pack",
+      "precio": "S/ 268 un",
+      "precio_numerico": 268.0,
+      "link": "https://www.plazavea.com.pe/cardiox-para-presion-arterial-3-pack-100882591/p",
+      "fecha_scraping": "2025-08-25T21:19:56.924061"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Practipañal Secos - Bolsa 20 UN",
+      "precio": "S/ 7.50 un",
+      "precio_numerico": 7.5,
+      "link": "https://www.plazavea.com.pe/practipanal-secos-bolsa-20-un-100208732/p",
+      "fecha_scraping": "2025-08-25T21:19:56.950099"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Lab Nut Hydroxycut Harcore Elit Cápsula",
+      "precio": "S/ 149 un",
+      "precio_numerico": 149.0,
+      "link": "https://www.plazavea.com.pe/lab-nut-hydroxycut-harcore-elit-capsula-100417365/p",
+      "fecha_scraping": "2025-08-25T21:19:56.988593"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales Adultos Talla M Secos Premium - Bolsa ...",
+      "precio": "S/ 67.90 un",
+      "precio_numerico": 67.9,
+      "link": "https://www.plazavea.com.pe/panales-adultos-talla-m-secos-premium-bolsa-21-un-100362083/p",
+      "fecha_scraping": "2025-08-25T21:19:57.006756"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Shampoo Anticaída ISDIN Lambdapil - Frasco 200...",
+      "precio": "S/ 83.90 un",
+      "precio_numerico": 83.9,
+      "link": "https://www.plazavea.com.pe/shampoo-anticaida-isdin-lambdapil-frasco-200-ml-100209438/p",
+      "fecha_scraping": "2025-08-25T21:19:57.024039"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales para Adultos Secos Pants Talla G - Bol...",
+      "precio": "S/ 29.90 un",
+      "precio_numerico": 29.9,
+      "link": "https://www.plazavea.com.pe/panales-para-adultos-secos-pants-talla-g-bolsa-10-un-100209018/p",
+      "fecha_scraping": "2025-08-25T21:19:57.046943"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales para Adultos Secos Pants Talla M - Bol...",
+      "precio": "S/ 29.90 un",
+      "precio_numerico": 29.9,
+      "link": "https://www.plazavea.com.pe/panales-para-adultos-secos-pants-talla-m-bolsa-10-un-100208335/p",
+      "fecha_scraping": "2025-08-25T21:19:57.068320"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Pañales para Adultos Secos Premium Talla G - B...",
+      "precio": "S/ 67.90 un",
+      "precio_numerico": 67.9,
+      "link": "https://www.plazavea.com.pe/panales-para-adultos-secos-premium-talla-g-bolsa-21-un-100208193/p",
+      "fecha_scraping": "2025-08-25T21:19:57.088887"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Crema Depilatoria VEET Bikini y Axilas Caja 10...",
+      "precio": "S/ 33.70 un",
+      "precio_numerico": 33.7,
+      "link": "https://www.plazavea.com.pe/crema-depilatoria-veet-bodycurve-axilas-y-bikini-caja-100ml/p",
+      "fecha_scraping": "2025-08-25T21:19:57.111593"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "cuidado_personal",
+      "nombre": "Cera Depilatoria DEPILÉ Olla Calendula y Orquí...",
+      "precio": "S/ 35.90 un",
+      "precio_numerico": 35.9,
+      "link": "https://www.plazavea.com.pe/cera-depilatoria-depile-olla-calendula-y-orquidea-caja-200g/p",
+      "fecha_scraping": "2025-08-25T21:19:57.135187"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa PEPSI Cola Botella 450ml",
+      "precio": "S/ 2 un",
+      "precio_numerico": 2.0,
+      "link": "https://www.plazavea.com.pe/gaseosa-pepsi-cola-botella-450ml/p",
+      "fecha_scraping": "2025-08-25T21:20:13.076223"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa FANTA Kola Inglesa Botella 500ml Paque...",
+      "precio": "S/ 13.50 un",
+      "precio_numerico": 13.5,
+      "link": "https://www.plazavea.com.pe/gaseosa-fanta-kola-inglesa-botella-500ml-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.086625"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Rehidratante POWERADE Sabor a Mora Botella 600...",
+      "precio": "S/ 11.40 un",
+      "precio_numerico": 11.4,
+      "link": "https://www.plazavea.com.pe/rehidratante-powerade-sabor-a-mora-botella-600ml-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.097941"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Jugo FRUGOS Fresh Tropical Punch Botella 500ml",
+      "precio": "S/ 1.70 un",
+      "precio_numerico": 1.7,
+      "link": "https://www.plazavea.com.pe/jugo-frugos-fresh-tropical-punch-botella-500-ml/p",
+      "fecha_scraping": "2025-08-25T21:20:13.108902"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Bebida Energizante RED BULL Lata 250ml Paquete...",
+      "precio": "S/ 26.90 un",
+      "precio_numerico": 26.9,
+      "link": "https://www.plazavea.com.pe/bebida-energizante-red-bull-paquete-4un-lata-250ml/p",
+      "fecha_scraping": "2025-08-25T21:20:13.119773"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Pack Agua SAN LUIS sin Gas Caja 20L Paquete 2u...",
+      "precio": "S/ 46 un",
+      "precio_numerico": 46.0,
+      "link": "https://www.plazavea.com.pe/pack-agua-san-luis-sin-gas-caja-20l-paquete-2un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.129385"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Bebida Energizante RED BULL Sugarfree Lata 250...",
+      "precio": "S/ 26.90 un",
+      "precio_numerico": 26.9,
+      "link": "https://www.plazavea.com.pe/bebida-energizante-red-bull-sugarfree-paquete-4un-lata-250ml/p",
+      "fecha_scraping": "2025-08-25T21:20:13.139538"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa INCA KOLA Sin Azúcar Botella 500ml",
+      "precio": "S/ 3 un",
+      "precio_numerico": 3.0,
+      "link": "https://www.plazavea.com.pe/gaseosa-inca-kola-zero-botella-500ml/p",
+      "fecha_scraping": "2025-08-25T21:20:13.148752"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa INCA KOLA Sabor Original Botella 1L",
+      "precio": "S/ 4.70 un",
+      "precio_numerico": 4.7,
+      "link": "https://www.plazavea.com.pe/gaseosa-inca-kola-sabor-original-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.158585"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa CRUSH Naranja Botella 3L",
+      "precio": "S/ 5.80 un",
+      "precio_numerico": 5.8,
+      "link": "https://www.plazavea.com.pe/gaseosa-crush-naranja-botella-3l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.168796"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa INCA KOLA Sin Azúcar Botella 1.5L",
+      "precio": "S/ 6.90 un",
+      "precio_numerico": 6.9,
+      "link": "https://www.plazavea.com.pe/gaseosa-inca-kola-sin-azucar-botella-1-5l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.178586"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa CONCORDIA Piña Botella 1.5L",
+      "precio": "S/ 3.90 un",
+      "precio_numerico": 3.9,
+      "link": "https://www.plazavea.com.pe/gaseosa-concordia-pina-botella-1-5l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.187289"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa Kola Inglesa FANTA Botella 2.25L",
+      "precio": "S/ 6.40 un",
+      "precio_numerico": 6.4,
+      "link": "https://www.plazavea.com.pe/gaseosa-kola-inglesa-fanta-botella-2-25l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.198748"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa SABOR DE ORO Botella 3.03L",
+      "precio": "S/ 5.90 un",
+      "precio_numerico": 5.9,
+      "link": "https://www.plazavea.com.pe/gaseosa-sabor-de-oro-botella-3-03l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.208513"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa BIG COLA Botella 3.03L",
+      "precio": "S/ 6.50 un",
+      "precio_numerico": 6.5,
+      "link": "https://www.plazavea.com.pe/gaseosa-big-cola-botella-3-03l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.217440"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa GUARANÁ Botella 1L",
+      "precio": "S/ 3.49 un",
+      "precio_numerico": 3.49,
+      "link": "https://www.plazavea.com.pe/gaseosa-guarana-botella-1l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.228625"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa SEVEN UP Lima limón Botella 1.5L",
+      "precio": "S/ 4 un",
+      "precio_numerico": 4.0,
+      "link": "https://www.plazavea.com.pe/gaseosa-seven-up-botella-1-5l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.238968"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa CONCORDIA Fresa Botella 3L",
+      "precio": "S/ 6.20 un",
+      "precio_numerico": 6.2,
+      "link": "https://www.plazavea.com.pe/gaseosa-concordia-fresa-botella-3l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.248788"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa SABOR DE ORO Botella 1.7L",
+      "precio": "S/ 4.30 un",
+      "precio_numerico": 4.3,
+      "link": "https://www.plazavea.com.pe/gaseosa-sabor-de-oro-botella-17l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.258799"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa KR Sabor a Piña Botella 1.7L",
+      "precio": "S/ 3.90 un",
+      "precio_numerico": 3.9,
+      "link": "https://www.plazavea.com.pe/gaseosa-kr-sabor-a-pina-botella-1-7l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.267199"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa BIG COLA Botella 1.7L",
+      "precio": "S/ 4.30 un",
+      "precio_numerico": 4.3,
+      "link": "https://www.plazavea.com.pe/gaseosa-big-cola-botella-1-7l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.277133"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa KR Piña Botella 3.03L",
+      "precio": "S/ 6.40 un",
+      "precio_numerico": 6.4,
+      "link": "https://www.plazavea.com.pe/gaseosa-kr-pina-botella-3-03l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.287241"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa Personal SABOR DE ORO Botella 1.035L",
+      "precio": "S/ 3.20 un",
+      "precio_numerico": 3.2,
+      "link": "https://www.plazavea.com.pe/gaseosa-personal-sabor-de-oro-botella-1-035l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.296967"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa KR Lima Limón Botella 1.7L",
+      "precio": "S/ 3.90 un",
+      "precio_numerico": 3.9,
+      "link": "https://www.plazavea.com.pe/gaseosa-kr-lima-limon-botella-1-7l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.307331"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa CONCORDIA Naranja Botella 3L",
+      "precio": "S/ 6.20 un",
+      "precio_numerico": 6.2,
+      "link": "https://www.plazavea.com.pe/gaseosa-concordia-naranja-botella-3l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.319872"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Bebida Energizante VOLT Sabores Surtidos Botel...",
+      "precio": "S/ 20.50 un",
+      "precio_numerico": 20.5,
+      "link": "https://www.plazavea.com.pe/bebida-energizante-volt-sabores-surtidos-botella-300ml-paquete-12un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.330779"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua Mineral SAN MATEO Sin Gas Bidón 7L",
+      "precio": "S/ 7.50 un",
+      "precio_numerico": 7.5,
+      "link": "https://www.plazavea.com.pe/agua-mineral-san-mateo-sin-gas-bidon-7l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.342772"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua sin Gas BELL'S Bidón 7L",
+      "precio": "S/ 5.40 un",
+      "precio_numerico": 5.4,
+      "link": "https://www.plazavea.com.pe/agua-sin-gas-bells-bidon-7l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.353161"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua sin Gas CIELO Botella 2.5L Paquete 6un",
+      "precio": "S/ 14.50 un",
+      "precio_numerico": 14.5,
+      "link": "https://www.plazavea.com.pe/agua-sin-gas-cielo-botella-2-5l-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.365280"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua de Mesa SAN CARLOS sin Gas Botella 500ml ...",
+      "precio": "S/ 12.90 un",
+      "precio_numerico": 12.9,
+      "link": "https://www.plazavea.com.pe/agua-de-mesa-san-carlos-sin-gas-botella-500ml-paquete-20un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.377059"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa INCA KOLA Sin Azúcar Botella 300ml Paq...",
+      "precio": "S/ 10 un",
+      "precio_numerico": 10.0,
+      "link": "https://www.plazavea.com.pe/gaseosa-inca-kola-sin-azucar-botella-300ml-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.387352"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa COCA COLA Sin Azúcar Botella 300ml Paq...",
+      "precio": "S/ 10 un",
+      "precio_numerico": 10.0,
+      "link": "https://www.plazavea.com.pe/gaseosa-coca-cola-sin-azucar-botella-300ml-paquete-6-un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.399080"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua Mineral SAN MATEO sin Gas Botella 2.5L",
+      "precio": "S/ 3 un",
+      "precio_numerico": 3.0,
+      "link": "https://www.plazavea.com.pe/agua-mineral-san-mateo-sin-gas-botella-2-5l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.410950"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa COCA COLA Sin Azúcar 2Pack Botella 1.5...",
+      "precio": "S/ 10.50 un",
+      "precio_numerico": 10.5,
+      "link": "https://www.plazavea.com.pe/gaseosa-coca-cola-sin-azucar-2-pack-botella-1-5l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.423456"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa COCA COLA Sabor Original + INCA KOLA S...",
+      "precio": "S/ 20.90 un",
+      "precio_numerico": 20.9,
+      "link": "https://www.plazavea.com.pe/gaseosa-coca-cola-inca-kola-2-pack-botella-3l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.433755"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua de Mesa SAN LUIS Sin Gas Bidón 7L",
+      "precio": "S/ 6.90 un",
+      "precio_numerico": 6.9,
+      "link": "https://www.plazavea.com.pe/agua-de-mesa-san-luis-sin-gas-bidon-7l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.444646"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua SAN LUIS sin Gas Caja 20L",
+      "precio": "S/ 23.40 un",
+      "precio_numerico": 23.4,
+      "link": "https://www.plazavea.com.pe/agua-de-mesa-san-luis-sin-gas-caja-20l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.455570"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua sin Gas CIELO Caja 20L",
+      "precio": "S/ 23.90 un",
+      "precio_numerico": 23.9,
+      "link": "https://www.plazavea.com.pe/agua-de-mesa-cielo-sin-gas-caja-20l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.467673"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua sin Gas CIELO Bidón 7L",
+      "precio": "S/ 7.20 un",
+      "precio_numerico": 7.2,
+      "link": "https://www.plazavea.com.pe/agua-de-mesa-cielo-sin-gas-bidon-7l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.480008"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua con Gas SAN LUIS Sabor a Manzana Botella ...",
+      "precio": "S/ 11 un",
+      "precio_numerico": 11.0,
+      "link": "https://www.plazavea.com.pe/agua-con-gas-san-luis-sabor-a-manzana-botella-625ml-paquete-6un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.491809"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa COCA COLA Sabor Original Botella 1L Tw...",
+      "precio": "S/ 8 un",
+      "precio_numerico": 8.0,
+      "link": "https://www.plazavea.com.pe/pack-gaseosa-coca-cola-botella-1l-paquete-2un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.503080"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Pack Gaseosa COCA COLA sin Azúcar Botella 1.5L...",
+      "precio": "S/ 10.50 un",
+      "precio_numerico": 10.5,
+      "link": "https://www.plazavea.com.pe/pack-gaseosa-coca-cola-sin-azucar-botella-1-5lgaseosa-inca-kola-sin-azucar-botella-1-5l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.514385"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua sin Gas SAN CARLOS Botella 3L Paquete 2un",
+      "precio": "S/ 5.50 un",
+      "precio_numerico": 5.5,
+      "link": "https://www.plazavea.com.pe/agua-sin-gas-san-carlos-botella-3l-paquete-2un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.527287"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua sin Gas BELL'S Caja 20L",
+      "precio": "S/ 18.90 un",
+      "precio_numerico": 18.9,
+      "link": "https://www.plazavea.com.pe/agua-sin-gas-bells-caja-20l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.538920"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Agua de Mesa SAN CARLOS Sin Gas Caja 20L",
+      "precio": "S/ 22.90 un",
+      "precio_numerico": 22.9,
+      "link": "https://www.plazavea.com.pe/agua-de-mesa-san-carlos-sin-gas-caja-20l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.551659"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa INCA KOLA Sabor Original Botella 500ml...",
+      "precio": "S/ 15 un",
+      "precio_numerico": 15.0,
+      "link": "https://www.plazavea.com.pe/gaseosa-inca-kola-sabor-original-botella-500ml-six-pack/p",
+      "fecha_scraping": "2025-08-25T21:20:13.563687"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa INCA KOLA + COCA COLA + FANTA Botella ...",
+      "precio": "S/ 26.10 un",
+      "precio_numerico": 26.1,
+      "link": "https://www.plazavea.com.pe/gaseosa-inca-kola-coca-cola-fanta-paquete-3un-botella-3l/p",
+      "fecha_scraping": "2025-08-25T21:20:13.576060"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa EVERVESS Ginger Ale Botella 1.5L Pack ...",
+      "precio": "S/ 10.50 un",
+      "precio_numerico": 10.5,
+      "link": "https://www.plazavea.com.pe/gaseosa-evervess-ginger-ale-botella-1-5l-pack-2un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.587341"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa INCA KOLA Sin Azúcar Botella 1.5L Paqu...",
+      "precio": "S/ 10.50 un",
+      "precio_numerico": 10.5,
+      "link": "https://www.plazavea.com.pe/gaseosa-inca-kola-sin-azucar-botella-1-5l-paquete-2un/p",
+      "fecha_scraping": "2025-08-25T21:20:13.599255"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "bebidas",
+      "nombre": "Gaseosa COCA COLA Sin Azúcar 6 Pack Botella 50...",
+      "precio": "S/ 15 un",
+      "precio_numerico": 15.0,
+      "link": "https://www.plazavea.com.pe/gaseosa-coca-cola-zero-6-pack-botella-500ml/p",
+      "fecha_scraping": "2025-08-25T21:20:13.610928"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Tomate Italiano",
+      "precio": "S/ 4.99 x kg",
+      "precio_numerico": 4.99,
+      "link": "https://www.plazavea.com.pe/tomate-italiano-zn/p",
+      "fecha_scraping": "2025-08-25T21:20:28.834728"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Champiñon Entero PACCU Crimmini Bandeja 200g",
+      "precio": "S/ 7 un",
+      "precio_numerico": 7.0,
+      "link": "https://www.plazavea.com.pe/champinon-entero-paccu-crimmini-bandeja-200g/p",
+      "fecha_scraping": "2025-08-25T21:20:28.847429"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Toronja Rosada Nacional",
+      "precio": "S/ 6.90 x kg",
+      "precio_numerico": 6.9,
+      "link": "https://www.plazavea.com.pe/toronja-rosada-nacional/p",
+      "fecha_scraping": "2025-08-25T21:20:28.859145"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Mango Edward",
+      "precio": "S/ 11.90 x kg",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/mango-edward/p",
+      "fecha_scraping": "2025-08-25T21:20:28.873962"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Ensalada de Piña, Sandía y Papaya BELL'S Bande...",
+      "precio": "S/ 5.69 un",
+      "precio_numerico": 5.69,
+      "link": "https://www.plazavea.com.pe/ensalada-de-pina-sandia-y-papaya-bells-bandeja-300g/p",
+      "fecha_scraping": "2025-08-25T21:20:28.887285"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Manzana Delicia",
+      "precio": "S/ 3.90 x kg",
+      "precio_numerico": 3.9,
+      "link": "https://www.plazavea.com.pe/manzana-delicia-b/p",
+      "fecha_scraping": "2025-08-25T21:20:28.900068"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Kion",
+      "precio": "S/ 6.90 x kg",
+      "precio_numerico": 6.9,
+      "link": "https://www.plazavea.com.pe/kion/p",
+      "fecha_scraping": "2025-08-25T21:20:28.912807"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Piña Hawai",
+      "precio": "S/ 3.10 x kg",
+      "precio_numerico": 3.1,
+      "link": "https://www.plazavea.com.pe/pina-hawai/p",
+      "fecha_scraping": "2025-08-25T21:20:28.925795"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Champiñones Enteros PACCU Bandeja 200g",
+      "precio": "S/ 5.20 un",
+      "precio_numerico": 5.2,
+      "link": "https://www.plazavea.com.pe/champinon-paccu-bandeja-200g/p",
+      "fecha_scraping": "2025-08-25T21:20:28.937056"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Melocotón Premium",
+      "precio": "S/ 11.90 x kg",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/melocoton-premium/p",
+      "fecha_scraping": "2025-08-25T21:20:28.949123"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Beterraga x Atado",
+      "precio": "S/ 3.40 un",
+      "precio_numerico": 3.4,
+      "link": "https://www.plazavea.com.pe/beterraga-x-unidad/p",
+      "fecha_scraping": "2025-08-25T21:20:28.961046"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Tomate Italiano BELL'S Bolsa 1Kg",
+      "precio": "S/ 4.70 un",
+      "precio_numerico": 4.7,
+      "link": "https://www.plazavea.com.pe/tomate-italiano-bells-bolsa-1kg/p",
+      "fecha_scraping": "2025-08-25T21:20:28.972304"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Rabanito BELL'S Bolsa 400g",
+      "precio": "S/ 3.99 un",
+      "precio_numerico": 3.99,
+      "link": "https://www.plazavea.com.pe/rabanito-bells-bolsa-400g/p",
+      "fecha_scraping": "2025-08-25T21:20:28.983607"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Ensalada Rusa BELL'S Bandeja 500g",
+      "precio": "S/ 9.49 un",
+      "precio_numerico": 9.49,
+      "link": "https://www.plazavea.com.pe/ensalada-rusa-bells-bandeja-500g/p",
+      "fecha_scraping": "2025-08-25T21:20:28.995932"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Tomate Italiano",
+      "precio": "S/ 3.88 x kg",
+      "precio_numerico": 3.88,
+      "link": "https://www.plazavea.com.pe/tomate-italiano/p",
+      "fecha_scraping": "2025-08-25T21:20:29.007193"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Zanahoria",
+      "precio": "S/ 3.48 x kg",
+      "precio_numerico": 3.48,
+      "link": "https://www.plazavea.com.pe/zanahoria-b/p",
+      "fecha_scraping": "2025-08-25T21:20:29.019098"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Plátano de Seda",
+      "precio": "S/ 3 x kg",
+      "precio_numerico": 3.0,
+      "link": "https://www.plazavea.com.pe/platano--de--seda/p",
+      "fecha_scraping": "2025-08-25T21:20:29.032200"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Mandarina W MURCOTT",
+      "precio": "S/ 2.30 x kg",
+      "precio_numerico": 2.3,
+      "link": "https://www.plazavea.com.pe/mandarina-w-murcott-x-kg-pv/p",
+      "fecha_scraping": "2025-08-25T21:20:29.045698"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Zapallo Macre",
+      "precio": "S/ 2.19 x kg",
+      "precio_numerico": 2.19,
+      "link": "https://www.plazavea.com.pe/zapallo-macre-1un-1-tajada/p",
+      "fecha_scraping": "2025-08-25T21:20:29.058752"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Palta Fuerte",
+      "precio": "S/ 7.30 x kg",
+      "precio_numerico": 7.3,
+      "link": "https://www.plazavea.com.pe/palta-fuerte-b/p",
+      "fecha_scraping": "2025-08-25T21:20:29.070441"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Cebolla Roja",
+      "precio": "S/ 2.18 x kg",
+      "precio_numerico": 2.18,
+      "link": "https://www.plazavea.com.pe/cebolla-roja/p",
+      "fecha_scraping": "2025-08-25T21:20:29.083296"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Limón Ácido",
+      "precio": "S/ 3.08 x kg",
+      "precio_numerico": 3.08,
+      "link": "https://www.plazavea.com.pe/limon-acido-pro/p",
+      "fecha_scraping": "2025-08-25T21:20:29.095566"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Camote Amarillo Procesado",
+      "precio": "S/ 1.90 x kg",
+      "precio_numerico": 1.9,
+      "link": "https://www.plazavea.com.pe/camote-amarillo-procesado/p",
+      "fecha_scraping": "2025-08-25T21:20:29.107723"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Papa Blanca Yungay",
+      "precio": "S/ 2.20 x kg",
+      "precio_numerico": 2.2,
+      "link": "https://www.plazavea.com.pe/papa-blanca-yungay/p",
+      "fecha_scraping": "2025-08-25T21:20:29.119766"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Blueberries BELL'S FRESCOS Bandeja 500g",
+      "precio": "S/ 11.90 un",
+      "precio_numerico": 11.9,
+      "link": "https://www.plazavea.com.pe/blueberries-bells-frescos-bandeja-500g/p",
+      "fecha_scraping": "2025-08-25T21:20:29.129048"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Papaya",
+      "precio": "S/ 4.50 x kg",
+      "precio_numerico": 4.5,
+      "link": "https://www.plazavea.com.pe/papaya/p",
+      "fecha_scraping": "2025-08-25T21:20:29.140146"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Naranja para Jugo",
+      "precio": "S/ 1.90 x kg",
+      "precio_numerico": 1.9,
+      "link": "https://www.plazavea.com.pe/naranja-para-jugo-b/p",
+      "fecha_scraping": "2025-08-25T21:20:29.150052"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Vainita Americana",
+      "precio": "S/ 6 x kg",
+      "precio_numerico": 6.0,
+      "link": "https://www.plazavea.com.pe/vainita-americana-b/p",
+      "fecha_scraping": "2025-08-25T21:20:29.160664"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Ají Amarillo",
+      "precio": "S/ 4.68 x kg",
+      "precio_numerico": 4.68,
+      "link": "https://www.plazavea.com.pe/aji-amarillo-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:20:29.170797"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Lechuga Americana BELL's Bolsa 300g",
+      "precio": "S/ 2.30 un",
+      "precio_numerico": 2.3,
+      "link": "https://www.plazavea.com.pe/lechuga-americana-bells-bolsa-300g/p",
+      "fecha_scraping": "2025-08-25T21:20:29.181108"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Choclo Entero un",
+      "precio": "S/ 1.80 un",
+      "precio_numerico": 1.8,
+      "link": "https://www.plazavea.com.pe/choclo-x-unidad/p",
+      "fecha_scraping": "2025-08-25T21:20:29.191617"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Papa Blanca",
+      "precio": "S/ 2.28 x kg",
+      "precio_numerico": 2.28,
+      "link": "https://www.plazavea.com.pe/papa-blanca-procesada/p",
+      "fecha_scraping": "2025-08-25T21:20:29.202518"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Espinaca BELL'S Bolsa 350g",
+      "precio": "S/ 3.50 un",
+      "precio_numerico": 3.5,
+      "link": "https://www.plazavea.com.pe/espinaca-bells-bolsa-350g/p",
+      "fecha_scraping": "2025-08-25T21:20:29.214407"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Zapallo Italiano x unidad",
+      "precio": "S/ 1.70 un",
+      "precio_numerico": 1.7,
+      "link": "https://www.plazavea.com.pe/zapallo-italiano-x-unidad/p",
+      "fecha_scraping": "2025-08-25T21:20:29.225522"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Pepinillo",
+      "precio": "S/ 2 x kg",
+      "precio_numerico": 2.0,
+      "link": "https://www.plazavea.com.pe/pepinillo/p",
+      "fecha_scraping": "2025-08-25T21:20:29.237432"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Brócoli",
+      "precio": "S/ 5.50 x kg",
+      "precio_numerico": 5.5,
+      "link": "https://www.plazavea.com.pe/brocoli-b/p",
+      "fecha_scraping": "2025-08-25T21:20:29.248038"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Ajo Entero",
+      "precio": "S/ 15.08 x kg",
+      "precio_numerico": 15.08,
+      "link": "https://www.plazavea.com.pe/ajo-entero/p",
+      "fecha_scraping": "2025-08-25T21:20:29.258824"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Apio Atado",
+      "precio": "S/ 1.90 un",
+      "precio_numerico": 1.9,
+      "link": "https://www.plazavea.com.pe/apio-x-unidad/p",
+      "fecha_scraping": "2025-08-25T21:20:29.269709"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Papa Amarilla Peruanita",
+      "precio": "S/ 5.48 x kg",
+      "precio_numerico": 5.48,
+      "link": "https://www.plazavea.com.pe/papa-amarilla-peruanita/p",
+      "fecha_scraping": "2025-08-25T21:20:29.280872"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Lechuga Crespa BELL'S",
+      "precio": "S/ 1.70 un",
+      "precio_numerico": 1.7,
+      "link": "https://www.plazavea.com.pe/lechuga-crespa-bells-bolsa/p",
+      "fecha_scraping": "2025-08-25T21:20:29.291287"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Granadilla Oxapampa x unidad",
+      "precio": "S/ 0.80 un",
+      "precio_numerico": 0.8,
+      "link": "https://www.plazavea.com.pe/granadilla-oxapampa-x-unidad/p",
+      "fecha_scraping": "2025-08-25T21:20:29.301060"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Cebolla Blanca",
+      "precio": "S/ 2.19 x kg",
+      "precio_numerico": 2.19,
+      "link": "https://www.plazavea.com.pe/cebolla-blanca/p",
+      "fecha_scraping": "2025-08-25T21:20:29.312224"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Plátano Bizcochito BELL'S",
+      "precio": "S/ 5.40 x kg",
+      "precio_numerico": 5.4,
+      "link": "https://www.plazavea.com.pe/platano-bizcochito-bells/p",
+      "fecha_scraping": "2025-08-25T21:20:29.324389"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Plátano de Isla BELL'S",
+      "precio": "S/ 3.50 x kg",
+      "precio_numerico": 3.5,
+      "link": "https://www.plazavea.com.pe/platano-de-isla-bells/p",
+      "fecha_scraping": "2025-08-25T21:20:29.336543"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Palta Fuerte BELL'S Madura",
+      "precio": "S/ 10.30 x kg",
+      "precio_numerico": 10.3,
+      "link": "https://www.plazavea.com.pe/palta-fuerte-bells-madura/p",
+      "fecha_scraping": "2025-08-25T21:20:29.348142"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Espinaca Bebé BELL'S Bolsa 150g",
+      "precio": "S/ 3.10 un",
+      "precio_numerico": 3.1,
+      "link": "https://www.plazavea.com.pe/espinaca-bebe-bells-bolsa-150g/p",
+      "fecha_scraping": "2025-08-25T21:20:29.358969"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Albahaca BELL'S Bolsa 80g",
+      "precio": "S/ 1.90 un",
+      "precio_numerico": 1.9,
+      "link": "https://www.plazavea.com.pe/albahaca-bells-bolsa-80g/p",
+      "fecha_scraping": "2025-08-25T21:20:29.370253"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Champiñon Entero BELL'S Bandeja 200g",
+      "precio": "S/ 4.70 un",
+      "precio_numerico": 4.7,
+      "link": "https://www.plazavea.com.pe/champinon-entero-bells-bandeja-200g/p",
+      "fecha_scraping": "2025-08-25T21:20:29.382356"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Papa Amarilla Tumbay",
+      "precio": "S/ 6.88 x kg",
+      "precio_numerico": 6.88,
+      "link": "https://www.plazavea.com.pe/papa-amarilla-tumbay-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:20:29.393641"
+    },
+    {
+      "tienda": "Plaza Vea",
+      "categoria": "frutas_verduras",
+      "nombre": "Piña Golden",
+      "precio": "S/ 4.09 x kg",
+      "precio_numerico": 4.09,
+      "link": "https://www.plazavea.com.pe/pina-golden/p",
+      "fecha_scraping": "2025-08-25T21:20:29.405172"
+    }
+  ]
+}

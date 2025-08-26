@@ -1,0 +1,720 @@
+{
+  "tienda": "Plaza Vea",
+  "fecha_actualizacion": "2025-08-25T19:38:30.725256",
+  "total_productos": 78,
+  "productos": {
+    "arroz": [
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Pack Arroz Extra VALLENORTE Gran Reserva 5Kg +...",
+        "precio": "S/ 27.40 un",
+        "link": "https://www.plazavea.com.pe/pack-arroz-extra-vallenorte-gran-reserva-5kg-aceite-vegetal-bells-900ml/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 27.4
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra Añejo FARAON Naranja Bolsa 5kg",
+        "precio": "S/ 25.50 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-faraon-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 25.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra COSTEÑO Bolsa 5Kg",
+        "precio": "S/ 23.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-costeno-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra PAISANA Bolsa 5Kg",
+        "precio": "S/ 22.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-paisana-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra BELL'S Bolsa 5Kg",
+        "precio": "S/ 18.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-bell-s-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 18.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra COSTEÑO Bolsa 750g",
+        "precio": "S/ 4.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-costeno-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 4.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra Añejo VALLENORTE Gran Reserva Bols...",
+        "precio": "S/ 24.50 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-vallenorte-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra FARAON Bolsa 750g",
+        "precio": "S/ 4.50 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-faraon-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Añejo Extra COSTEÑO Bolsa 5Kg",
+        "precio": "S/ 24.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-anejo-extra-costeno-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra GRAN CHALAN Bolsa 5Kg",
+        "precio": "S/ 24.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-gran-chalan-bolsa-5-kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Familiar COSECHA NORTEÑA Bolsa 5Kg",
+        "precio": "S/ 16.50 un",
+        "link": "https://www.plazavea.com.pe/arroz-familiar-cosecha-nortena-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra VALLENORTE Gran Reserva Bolsa 750g",
+        "precio": "S/ 4.80 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-vallenorte-gran-reserva-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 4.8
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz FARAON Añejo Amarillo G3 Bolsa 5kg",
+        "precio": "S/ 21.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-superior-faraon-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Superior PAISANA Bolsa 5Kg",
+        "precio": "S/ 17.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-superior-paisana-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 17.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Integral BELL'S Bolsa 5Kg",
+        "precio": "S/ 23.60 un",
+        "link": "https://www.plazavea.com.pe/arroz-integral-bells-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 23.6
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra BELL'S Bolsa 750g",
+        "precio": "S/ 3.60 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-bells-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 3.6
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Integral BELL'S Bolsa 750g",
+        "precio": "S/ 3.79 un",
+        "link": "https://www.plazavea.com.pe/arroz-integral-bells-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 3.79
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra Añejo Premium FARAÓN Bolsa 10 Kg",
+        "precio": "S/ 47.49 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-anejo-premium-faraon-bolsa-10-kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 47.49
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz GRAN CHALAN Extra Añejo Bolsa 750gr",
+        "precio": "S/ 3.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-gran-chalan-extra-anejo-bolsa-750gr/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 3.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Superior GRAN CHALAN Gran Añejo Bolsa 5K...",
+        "precio": "S/ 21.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-superior-gran-chalan-gran-anejo-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Añejo Amarillo FARAÓN G3 Bolsa 1Kg",
+        "precio": "S/ 4.99 un",
+        "link": "https://www.plazavea.com.pe/arroz-anejo-amarillo-faraon-g3-bolsa-1kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 4.99
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Integral VALLENORTE Bolsa 750g",
+        "precio": "S/ 5.60 un",
+        "link": "https://www.plazavea.com.pe/arroz-integral-vallenorte-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 5.6
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Integral PAISANA Bolsa 1Kg",
+        "precio": "S/ 7.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-integral-paisana-bolsa-1kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 7.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Extra PAISANA Bolsa 1Kg",
+        "precio": "S/ 5.80 un",
+        "link": "https://www.plazavea.com.pe/arroz-extra-paisana-bolsa-1kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Superior BELL'S Bolsa 750g",
+        "precio": "S/ 3.40 un",
+        "link": "https://www.plazavea.com.pe/arroz-superior-bells-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 3.4
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Superior BELL'S Bolsa 5Kg",
+        "precio": "S/ 19.30 un",
+        "link": "https://www.plazavea.com.pe/arroz-superior-bells-bolas-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 19.3
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Superior VALLENORTE Bolsa 5Kg",
+        "precio": "S/ 20.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-superior-vallenorte-bolsa-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Integral COSTEÑO Bolsa 750g",
+        "precio": "S/ 5.80 un",
+        "link": "https://www.plazavea.com.pe/arroz-integral-costeno-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Superior FARAON Rojo x 5Kg",
+        "precio": "S/ 24.90 un",
+        "link": "https://www.plazavea.com.pe/arroz-superior-faraon-rojo-x-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Arroz Añejo Extra COSTEÑO Bolsa 750g",
+        "precio": "S/ 4.70 un",
+        "link": "https://www.plazavea.com.pe/arroz-anejo-extra-costeno-bolsa-750g/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:36:54.109814",
+        "precio_numerico": 4.7
+      }
+    ],
+    "azucar": [],
+    "papel_higienico": [
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Papel Higiénico NOBLE Plus 30mts Paquete 12un",
+        "precio": "S/ 14.90 un",
+        "link": "https://www.plazavea.com.pe/papel-higienico-noble-plus-30mts-paquete-12un/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:37:33.510051",
+        "precio_numerico": 14.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Papel Higiénico SUAVE Esencias Elegance Paquet...",
+        "precio": "S/ 33.90 un",
+        "link": "https://www.plazavea.com.pe/papel-higienico-suave-gentle-care-elegance-32-rollos/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:37:33.510051",
+        "precio_numerico": 33.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Papel Higiénico ELITE Clásico Doble Hoja Paque...",
+        "precio": "S/ 21.90 un",
+        "link": "https://www.plazavea.com.pe/papel-higienico-elite-clasico-doble-hoja-paquete-40un/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:37:33.510051",
+        "precio_numerico": 21.9
+      }
+    ],
+    "leche": [
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche UHT LAIVE Entera Light Bolsa 900ml",
+        "precio": "S/ 4.90 un",
+        "link": "https://www.plazavea.com.pe/leche-fresca-laive-light-bolsa-900ml/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 4.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche UHT sin Lactosa GLORIA Zero Caja 946ml P...",
+        "precio": "S/ 16.50 un",
+        "link": "https://www.plazavea.com.pe/leche-uht-sin-lactosa-gloria-zero-caja-946ml-paquete-3un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Reconstituida Entera GLORIA Lata 390g Pa...",
+        "precio": "S/ 23.30 un",
+        "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g-paquete-6un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche GLORIA Zero Lacto Lata 390g Paquete 6un",
+        "precio": "S/ 24.50 un",
+        "link": "https://www.plazavea.com.pe/leche-gloria-zero-lactosa-lata-390g-paquete-6un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche GLORIA UHT Fresca Entera Caja 946ml Paqu...",
+        "precio": "S/ 16.20 un",
+        "link": "https://www.plazavea.com.pe/leche-uht-gloria-entera-pack-3un-x-1l/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 16.2
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Light GLORIA Lata 390g Paquete 6un",
+        "precio": "S/ 24.50 un",
+        "link": "https://www.plazavea.com.pe/leche-light-gloria-lata-390g-paquete-6un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE Botella 390g Paquete 6...",
+        "precio": "S/ 23.90 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-botella-390g-paquete-6un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE UHT Caja 946ml Paquete...",
+        "precio": "S/ 24.50 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-uht-caja-946ml-paquete-4un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE Light Botella 390g Paq...",
+        "precio": "S/ 23.90 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-light-botella-390g-paquete-6un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche UHT GLORIA Light Pack 3un x 1L",
+        "precio": "S/ 16.50 un",
+        "link": "https://www.plazavea.com.pe/leche-uht-gloria-light-pack-3un-x-1l/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Reconstituida Entera GLORIA Lata 390g Pa...",
+        "precio": "S/ 45 un",
+        "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g-paquete-12un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 45.0
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Evaporada Entera GLORIA Lata 390g Paquet...",
+        "precio": "S/ 23.30 un",
+        "link": "https://www.plazavea.com.pe/leche-evaporada-entera-gloria-lata-390g-paquete-6un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Reconstituida Entera GLORIA Lata 390g",
+        "precio": "S/ 4.20 un",
+        "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 4.2
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE Botella 390g",
+        "precio": "S/ 4.40 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-botella-390g/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Descremada GLORIA Slim UHT Triple Zero C...",
+        "precio": "S/ 16.50 un",
+        "link": "https://www.plazavea.com.pe/leche-descremada-gloria-slim-uht-triple-zero-caja-946ml-paquete-3un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE UHT Light Caja 946ml P...",
+        "precio": "S/ 23.10 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-uht-light-caja-946ml-paquete-4un/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:37:54.024362",
+        "precio_numerico": 23.1
+      }
+    ],
+    "detergentes": [
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Suavizante BOLIVAR Aroma Activo Frasco Floral ...",
+        "precio": "S/ 43.50 un",
+        "link": "https://www.plazavea.com.pe/suavizante-bolivar-aroma-activo-frasco-floral-5l/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:38:12.476068",
+        "precio_numerico": 43.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Detergente en Polvo BOREAL Explosión Floral Bo...",
+        "precio": "S/ 29.90 un",
+        "link": "https://www.plazavea.com.pe/detergente-en-polvo-boreal-explosion-floral-bolsa-4kg/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:38:12.476068",
+        "precio_numerico": 29.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Pack Detergente en Polvo ARIEL Pro Cuidado 4 k...",
+        "precio": "S/ 104.90 un",
+        "link": "https://www.plazavea.com.pe/pack-detergente-en-polvo-ariel-pro-cuidado-4-kg-x-2un/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:38:12.476068",
+        "precio_numerico": 104.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Detergente FROSCH Ecoamigable Paquete 1.8L",
+        "precio": "S/ 50.50 un",
+        "link": "https://www.plazavea.com.pe/detergente-frosch-ecoamigable-paquete-1-8l/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:38:12.476068",
+        "precio_numerico": 50.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Detergente en Polvo SAPOLIO Bebé Bolsa 2Kg",
+        "precio": "S/ 15.50 un",
+        "link": "https://www.plazavea.com.pe/detergente-en-polvo-sapolio-bebe-bolsa-2kg/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:38:12.476068",
+        "precio_numerico": 15.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Quitamanchas SAPOLIO Ropa Color Botella 1800ml",
+        "precio": "S/ 15.70 un",
+        "link": "https://www.plazavea.com.pe/quitamanchas-sapolio-ropa-color-botella-1800ml/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:38:12.476068",
+        "precio_numerico": 15.7
+      }
+    ],
+    "yogures": [
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche UHT LAIVE Entera Light Bolsa 900ml",
+        "precio": "S/ 4.90 un",
+        "link": "https://www.plazavea.com.pe/leche-fresca-laive-light-bolsa-900ml/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 4.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche UHT sin Lactosa GLORIA Zero Caja 946ml P...",
+        "precio": "S/ 16.50 un",
+        "link": "https://www.plazavea.com.pe/leche-uht-sin-lactosa-gloria-zero-caja-946ml-paquete-3un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Reconstituida Entera GLORIA Lata 390g Pa...",
+        "precio": "S/ 23.30 un",
+        "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche GLORIA Zero Lacto Lata 390g Paquete 6un",
+        "precio": "S/ 24.50 un",
+        "link": "https://www.plazavea.com.pe/leche-gloria-zero-lactosa-lata-390g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Mantequilla con Sal GLORIA Paquete 180g",
+        "precio": "S/ 9.90 un",
+        "link": "https://www.plazavea.com.pe/mantequilla-con-sal-gloria-paquete-180g/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 9.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Mantequilla GLORIA Pote 390g",
+        "precio": "S/ 17.90 un",
+        "link": "https://www.plazavea.com.pe/mantequilla-gloria-pote-390g/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 17.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche GLORIA UHT Fresca Entera Caja 946ml Paqu...",
+        "precio": "S/ 16.20 un",
+        "link": "https://www.plazavea.com.pe/leche-uht-gloria-entera-pack-3un-x-1l/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 16.2
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Light GLORIA Lata 390g Paquete 6un",
+        "precio": "S/ 24.50 un",
+        "link": "https://www.plazavea.com.pe/leche-light-gloria-lata-390g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE Botella 390g Paquete 6...",
+        "precio": "S/ 23.90 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-botella-390g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE UHT Caja 946ml Paquete...",
+        "precio": "S/ 24.50 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-uht-caja-946ml-paquete-4un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE Light Botella 390g Paq...",
+        "precio": "S/ 23.90 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-light-botella-390g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Yogurt Parcialmente Descremado GLORIA Fresa Ga...",
+        "precio": "S/ 10.20 un",
+        "link": "https://www.plazavea.com.pe/yogurt-parcialmente-descremado-gloria-fresa-galonera-1-6kg/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 10.2
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Mantequilla con Sal LAIVE Barra 180g",
+        "precio": "S/ 10.40 un",
+        "link": "https://www.plazavea.com.pe/mantequilla-con-sal-laive-barra-180g/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 10.4
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Mezcla Láctea LAIVE Sin Lactosa Caja 480g Paqu...",
+        "precio": "S/ 23.20 un",
+        "link": "https://www.plazavea.com.pe/mezcla-lactea-laive-sin-lactosa-caja-480g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 23.2
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Yogurt Griego VAKIMU Original Balde 1Kg",
+        "precio": "S/ 15.90 un",
+        "link": "https://www.plazavea.com.pe/yogurt-griego-vakimu-original-balde-1kg/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 15.9
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche UHT GLORIA Light Pack 3un x 1L",
+        "precio": "S/ 16.50 un",
+        "link": "https://www.plazavea.com.pe/leche-uht-gloria-light-pack-3un-x-1l/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Reconstituida Entera GLORIA Lata 390g Pa...",
+        "precio": "S/ 45 un",
+        "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g-paquete-12un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 45.0
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Evaporada Entera GLORIA Lata 390g Paquet...",
+        "precio": "S/ 23.30 un",
+        "link": "https://www.plazavea.com.pe/leche-evaporada-entera-gloria-lata-390g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Reconstituida Entera GLORIA Lata 390g",
+        "precio": "S/ 4.20 un",
+        "link": "https://www.plazavea.com.pe/leche-reconstituida-entera-gloria-lata-390g/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 4.2
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE Botella 390g",
+        "precio": "S/ 4.40 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-botella-390g/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche Descremada GLORIA Slim UHT Triple Zero C...",
+        "precio": "S/ 16.50 un",
+        "link": "https://www.plazavea.com.pe/leche-descremada-gloria-slim-uht-triple-zero-caja-946ml-paquete-3un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Leche sin Lactosa LAIVE UHT Light Caja 946ml P...",
+        "precio": "S/ 23.10 un",
+        "link": "https://www.plazavea.com.pe/leche-sin-lactosa-laive-uht-light-caja-946ml-paquete-4un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 23.1
+      },
+      {
+        "tienda": "Plaza Vea",
+        "nombre": "Mezcla Láctea Light sin Lactosa LAIVE Tetrapac...",
+        "precio": "S/ 22.90 un",
+        "link": "https://www.plazavea.com.pe/mezcla-lactea-light-sin-lactosa-laive-tetrapack-480g-paquete-6un/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:38:30.723754",
+        "precio_numerico": 22.9
+      }
+    ]
+  }
+}

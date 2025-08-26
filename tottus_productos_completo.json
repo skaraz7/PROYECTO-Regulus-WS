@@ -1,0 +1,1639 @@
+{
+  "tienda": "Tottus",
+  "fecha_actualizacion": "2025-08-25T19:41:07.732900",
+  "total_productos": 180,
+  "productos": {
+    "arroz": [
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 26.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.819441",
+        "precio_numerico": 26.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 4.49\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.49
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 20.90\nUN\n-19%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.75\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 3.75
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.80\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.60\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 3.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.50\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 5.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 5.60\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 5.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 21.90\nUN\n-15%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 25.30\nUN\n-4%\nS/ 26.30\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 25.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 24.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.70\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.7
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.40\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.40\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 3.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 7.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 7.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 22.90\nUN\n-10%\nS/ 25.50\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 5.10\nUN\n-14%\nS/ 5.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 5.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 23.20\nUN\n-7%\nS/ 24.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 23.2
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 42.90\nUN\n-4%\nS/ 44.50\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 42.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 4.10\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 4.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 23.30\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 23.60\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 23.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.80\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "INVERNI",
+        "precio": "S/ 35.90\nUN",
+        "link": "",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:39:48.820441",
+        "precio_numerico": 35.9
+      }
+    ],
+    "azucar": [
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 26.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 26.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 4.49\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.49
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 20.90\nUN\n-19%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.75\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 3.75
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.80\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.60\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 3.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.50\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 5.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 5.60\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 5.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 21.90\nUN\n-15%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 25.30\nUN\n-4%\nS/ 26.30\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 25.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 24.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.70\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.7
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.40\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.40\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 3.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 7.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 7.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 22.90\nUN\n-10%\nS/ 25.50\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 5.10\nUN\n-14%\nS/ 5.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 5.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 23.20\nUN\n-7%\nS/ 24.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 23.2
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 42.90\nUN\n-4%\nS/ 44.50\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 42.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 4.10\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 4.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 23.30\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 23.60\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 23.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.80\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "INVERNI",
+        "precio": "S/ 35.90\nUN",
+        "link": "",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:40:05.385065",
+        "precio_numerico": 35.9
+      }
+    ],
+    "papel_higienico": [
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 26.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 26.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 4.49\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.49
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 20.90\nUN\n-19%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.75\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 3.75
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.80\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.60\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 3.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.50\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 5.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 5.60\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 5.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 21.90\nUN\n-15%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 25.30\nUN\n-4%\nS/ 26.30\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 25.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 24.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.70\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.7
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.40\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.40\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 3.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 7.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 7.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 22.90\nUN\n-10%\nS/ 25.50\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 5.10\nUN\n-14%\nS/ 5.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 5.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 23.20\nUN\n-7%\nS/ 24.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 23.2
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 42.90\nUN\n-4%\nS/ 44.50\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 42.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 4.10\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 4.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 23.30\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 23.60\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 23.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.80\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "INVERNI",
+        "precio": "S/ 35.90\nUN",
+        "link": "",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:40:21.127962",
+        "precio_numerico": 35.9
+      }
+    ],
+    "leche": [
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 26.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 26.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 4.49\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.49
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 20.90\nUN\n-19%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.75\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 3.75
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.80\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.60\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 3.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.50\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 5.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 5.60\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 5.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 21.90\nUN\n-15%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 25.30\nUN\n-4%\nS/ 26.30\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 25.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 24.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.70\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.7
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.40\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.40\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 3.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 7.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 7.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 22.90\nUN\n-10%\nS/ 25.50\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 5.10\nUN\n-14%\nS/ 5.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 5.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 23.20\nUN\n-7%\nS/ 24.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 23.2
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 42.90\nUN\n-4%\nS/ 44.50\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 42.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 4.10\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 4.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 23.30\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 23.60\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 23.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.80\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "INVERNI",
+        "precio": "S/ 35.90\nUN",
+        "link": "",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:40:36.620454",
+        "precio_numerico": 35.9
+      }
+    ],
+    "detergentes": [
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 26.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 26.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 4.49\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.49
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 20.90\nUN\n-19%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.75\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 3.75
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.80\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.60\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 3.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.50\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 5.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 5.60\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 5.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 21.90\nUN\n-15%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 25.30\nUN\n-4%\nS/ 26.30\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 25.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 24.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.70\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.7
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.40\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.40\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 3.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 7.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 7.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 22.90\nUN\n-10%\nS/ 25.50\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 5.10\nUN\n-14%\nS/ 5.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 5.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 23.20\nUN\n-7%\nS/ 24.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 23.2
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 42.90\nUN\n-4%\nS/ 44.50\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 42.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 4.10\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 4.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 23.30\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 23.60\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 23.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.80\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "INVERNI",
+        "precio": "S/ 35.90\nUN",
+        "link": "",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:40:52.758701",
+        "precio_numerico": 35.9
+      }
+    ],
+    "yogures": [
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 26.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 26.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 4.49\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.49
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 20.90\nUN\n-19%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.75\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 3.75
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.80\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.60\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 3.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.50\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 5.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 5.60\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 5.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 21.90\nUN\n-15%\nS/ 25.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "VALLENORTE",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 25.30\nUN\n-4%\nS/ 26.30\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 25.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "FARAON",
+        "precio": "S/ 24.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.70\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.7
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.40\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 4.50\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 3.40\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 3.4
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 7.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 7.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PACASMAYO",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "COSTENO",
+        "precio": "S/ 22.90\nUN\n-10%\nS/ 25.50\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 5.10\nUN\n-14%\nS/ 5.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 5.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 23.20\nUN\n-7%\nS/ 24.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 23.2
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 4.60\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "GRAN CHALAN",
+        "precio": "S/ 42.90\nUN\n-4%\nS/ 44.50\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 42.9
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 4.10\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 4.1
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS PREMIUM",
+        "precio": "S/ 23.30\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 23.3
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "TOTTUS",
+        "precio": "S/ 23.60\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 23.6
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "PAISANA",
+        "precio": "S/ 5.80\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 5.8
+      },
+      {
+        "tienda": "Tottus",
+        "nombre": "INVERNI",
+        "precio": "S/ 35.90\nUN",
+        "link": "",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:41:07.732398",
+        "precio_numerico": 35.9
+      }
+    ]
+  }
+}

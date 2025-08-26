@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "NESTLE",
+    "precio": "S/ 6.50\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "GLORIA",
+    "precio": "S/ 6\nUN\n-13%\nS/ 6.90\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "BELLA HOLANDESA",
+    "precio": "S/ 7.60\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "NESTLE",
+    "precio": "S/ 5.50\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "NESTLE",
+    "precio": "S/ 3\nUN",
+    "link": ""
+  },
+  {
+    "nombre": "GLORIA",
+    "precio": "S/ 20.50",
+    "link": ""
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "nombre": "Abarrotes",
+    "url": "https://www.plazavea.com.pe/abarrotes"
+  },
+  {
+    "nombre": "Frutas y Verduras",
+    "url": "https://www.plazavea.com.pe/frutas-y-verduras"
+  },
+  {
+    "nombre": "Carnes y Pollos",
+    "url": "https://www.plazavea.com.pe/carnes-y-pollos"
+  },
+  {
+    "nombre": "Lácteos y Huevos",
+    "url": "https://www.plazavea.com.pe/lacteos-y-huevos"
+  },
+  {
+    "nombre": "Limpieza",
+    "url": "https://www.plazavea.com.pe/limpieza"
+  },
+  {
+    "nombre": "Cuidado Personal",
+    "url": "https://www.plazavea.com.pe/cuidado-personal"
+  },
+  {
+    "nombre": "Bebidas",
+    "url": "https://www.plazavea.com.pe/bebidas"
+  },
+  {
+    "nombre": "Desayuno",
+    "url": "https://www.plazavea.com.pe/desayuno"
+  },
+  {
+    "nombre": "Aceites",
+    "url": "https://www.plazavea.com.pe/abarrotes/aceites"
+  },
+  {
+    "nombre": "Jabones",
+    "url": "https://www.plazavea.com.pe/limpieza/jabones"
+  },
+  {
+    "nombre": "Arroz",
+    "url": "https://www.plazavea.com.pe/abarrotes/arroz"
+  }
+]

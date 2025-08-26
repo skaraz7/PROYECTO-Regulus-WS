@@ -1,0 +1,4741 @@
+{
+  "tienda": "Metro",
+  "fecha_actualizacion": "2025-08-25T21:17:47.350621",
+  "total_productos": 526,
+  "productos": [
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Twopack Aceite Vegetal Primor Premium 900ml",
+      "precio": "S/ 18.40",
+      "precio_numerico": 18.4,
+      "link": "https://www.metro.pe/twopack-aceite-vegetal-primor-premium-900ml-1011430/p",
+      "fecha_scraping": "2025-08-25T21:10:44.943687"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Metro 900ml",
+      "precio": "S/ 5.60",
+      "precio_numerico": 5.6,
+      "link": "https://www.metro.pe/aceite-vegetal-metro-botella-900-ml-717239/p",
+      "fecha_scraping": "2025-08-25T21:10:44.956295"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Twopack Aceite Vegetal Primor Clásico 900ml",
+      "precio": "S/ 16.40",
+      "precio_numerico": 16.4,
+      "link": "https://www.metro.pe/twopack-aceite-vegetal-primor-cl-sico-900ml-1011431/p",
+      "fecha_scraping": "2025-08-25T21:10:44.967391"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Primor Premium Botella 900ml",
+      "precio": "S/ 9.10",
+      "precio_numerico": 9.1,
+      "link": "https://www.metro.pe/aceite-vegetal-primor-premium-botella-900ml-3198/p",
+      "fecha_scraping": "2025-08-25T21:10:44.979624"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Soya Sao Botella 900ml",
+      "precio": "S/ 5.90",
+      "precio_numerico": 5.9,
+      "link": "https://www.metro.pe/aceite-de-soya-sao-botella-900ml-31484/p",
+      "fecha_scraping": "2025-08-25T21:10:44.991523"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Primor Clásico Botella 1.8L",
+      "precio": "S/ 15.99",
+      "precio_numerico": 15.99,
+      "link": "https://www.metro.pe/aceite-vegetal-primor-cl-sico-botella-1-8l-929686/p",
+      "fecha_scraping": "2025-08-25T21:10:45.003232"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Máxima 900ml",
+      "precio": "S/ 5.90",
+      "precio_numerico": 5.9,
+      "link": "https://www.metro.pe/aceite-vegetal-maxima-botella-900-ml-717238/p",
+      "fecha_scraping": "2025-08-25T21:10:45.015462"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Twopack Aceite Vegetal Cocinero 900ml",
+      "precio": "S/ 15.20",
+      "precio_numerico": 15.2,
+      "link": "https://www.metro.pe/twopack-aceite-vegetal-cocinero-900ml-1039748/p",
+      "fecha_scraping": "2025-08-25T21:10:45.027009"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva Extra Virgen Cuisine & Co 1L",
+      "precio": "S/ 66.90",
+      "precio_numerico": 66.9,
+      "link": "https://www.metro.pe/aceite-de-oliva-extra-virgen-cuisine-co-botella-1-lt-769516/p",
+      "fecha_scraping": "2025-08-25T21:10:45.037988"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Cuisine & Co 900ml",
+      "precio": "S/ 7.50",
+      "precio_numerico": 7.5,
+      "link": "https://www.metro.pe/aceite-vegetal-cuisine-co-900ml-786936/p",
+      "fecha_scraping": "2025-08-25T21:10:45.048529"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Cocinero 900ml",
+      "precio": "S/ 7.60",
+      "precio_numerico": 7.6,
+      "link": "https://www.metro.pe/aceite-cocinero-botella-1-litro-11946/p",
+      "fecha_scraping": "2025-08-25T21:10:45.062032"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Primor Clásico Botella 900ml",
+      "precio": "S/ 8.50",
+      "precio_numerico": 8.5,
+      "link": "https://www.metro.pe/aceite-vegetal-primor-cl-sico-botella-900ml-3201/p",
+      "fecha_scraping": "2025-08-25T21:10:45.074591"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Primor Premium 900ml + Mayonesa AlaCena 850g",
+      "precio": "S/ 26.50",
+      "precio_numerico": 26.5,
+      "link": "https://www.metro.pe/aceite-vegetal-primor-premium-900ml-mayonesa-alacena-850g-1019232/p",
+      "fecha_scraping": "2025-08-25T21:10:45.085519"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal de Soya Máxima 5L",
+      "precio": "S/ 31.90",
+      "precio_numerico": 31.9,
+      "link": "https://www.metro.pe/aceite-vegetal-de-soya-maxima-5l-973623/p",
+      "fecha_scraping": "2025-08-25T21:10:45.095084"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva Extra Virgen Carbonell Botella 1 Lt",
+      "precio": "S/ 89.50",
+      "precio_numerico": 89.5,
+      "link": "https://www.metro.pe/aceite-de-oliva-extra-virgen-carbonell-botella-1-lt-39846/p",
+      "fecha_scraping": "2025-08-25T21:10:45.104986"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Girasol Cuisine & Co 900ml",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/aceite-de-girasol-cuisine-co-900ml-952936/p",
+      "fecha_scraping": "2025-08-25T21:10:45.123031"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva La Española Puro Botella 1 L",
+      "precio": "S/ 64.50",
+      "precio_numerico": 64.5,
+      "link": "https://www.metro.pe/aceite-de-oliva-la-espanola-puro-botella-1-l-36454/p",
+      "fecha_scraping": "2025-08-25T21:10:45.136929"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Sacha Inchi Nutriomega Extra Virgen Botella 250 ml",
+      "precio": "S/ 25.80",
+      "precio_numerico": 25.8,
+      "link": "https://www.metro.pe/aceite-sacha-inchi-nutriomega-extra-virgen-botella-250-ml-295706/p",
+      "fecha_scraping": "2025-08-25T21:10:45.148983"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva Olivos del Sur Extra Virgen Botella 500 ml",
+      "precio": "S/ 48.80",
+      "precio_numerico": 48.8,
+      "link": "https://www.metro.pe/aceite-de-oliva-olivos-del-sur-extra-virgen-botella-500-ml-47118/p",
+      "fecha_scraping": "2025-08-25T21:10:45.160977"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva Cuisine & Co Botella 500 ml",
+      "precio": "S/ 35.80",
+      "precio_numerico": 35.8,
+      "link": "https://www.metro.pe/aceite-de-oliva-cuisine-co-botella-500-ml-927803/p",
+      "fecha_scraping": "2025-08-25T21:10:45.172226"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Vegetal Cocinero Botella 5 Litros",
+      "precio": "S/ 54.50",
+      "precio_numerico": 54.5,
+      "link": "https://www.metro.pe/aceite-vegetal-cocinero-botella-5-litros-244442/p",
+      "fecha_scraping": "2025-08-25T21:10:45.182413"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Girasol Spray Cuisine & Co 120g",
+      "precio": "S/ 12.90",
+      "precio_numerico": 12.9,
+      "link": "https://www.metro.pe/aceite-de-girasol-spray-cuisine-co-120g-1027083/p",
+      "fecha_scraping": "2025-08-25T21:10:45.195064"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite de Oliva El Olivar Puro Botella 1 L",
+      "precio": "S/ 77.80",
+      "precio_numerico": 77.8,
+      "link": "https://www.metro.pe/aceite-de-oliva-el-olivar-puro-botella-1-l-75911/p",
+      "fecha_scraping": "2025-08-25T21:10:45.205816"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aceites",
+      "nombre": "Aceite Carbonell Sol & Oliva 500ml",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/aceite-carbonell-sol-oliva-500ml-1027722/p",
+      "fecha_scraping": "2025-08-25T21:10:45.215444"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Costeño 5kg",
+      "precio": "S/ 25.90",
+      "precio_numerico": 25.9,
+      "link": "https://www.metro.pe/arroz-extra-costeno-5kg-14974/p",
+      "fecha_scraping": "2025-08-25T21:11:05.700456"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Blanco Extra Añejo Faraón Naranja 5kg",
+      "precio": "S/ 25.20",
+      "precio_numerico": 25.2,
+      "link": "https://www.metro.pe/arroz-blanco-extra-anejo-faraon-naranja-5kg-570522/p",
+      "fecha_scraping": "2025-08-25T21:11:05.712050"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Paisana Bolsa 5 kg",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/arroz-superior-paisana-x-5kg/p",
+      "fecha_scraping": "2025-08-25T21:11:05.721831"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Blanco Extra Añejo Faraón Naranja 10kg",
+      "precio": "S/ 47.49",
+      "precio_numerico": 47.49,
+      "link": "https://www.metro.pe/arroz-blanco-extra-anejo-faraon-naranja-10kg-570569/p",
+      "fecha_scraping": "2025-08-25T21:11:05.731802"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Metro 5kg",
+      "precio": "S/ 18.90",
+      "precio_numerico": 18.9,
+      "link": "https://www.metro.pe/arroz-extra-metro-5kg-391214/p",
+      "fecha_scraping": "2025-08-25T21:11:05.742333"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Costeño Añejo Extra 5kg",
+      "precio": "S/ 25.90",
+      "precio_numerico": 25.9,
+      "link": "https://www.metro.pe/arroz-costeno-anejo-extra-x-5-kg-1000184/p",
+      "fecha_scraping": "2025-08-25T21:11:05.753687"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg",
+      "precio": "S/ 24.50",
+      "precio_numerico": 24.5,
+      "link": "https://www.metro.pe/arroz-extra-valle-norte-mejorado-bolsa-5-kg-107169/p",
+      "fecha_scraping": "2025-08-25T21:11:05.764535"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Gran Chalán 5kg",
+      "precio": "S/ 24.80",
+      "precio_numerico": 24.8,
+      "link": "https://www.metro.pe/arroz-extra-natural-gran-chalan-bolsa-5-kg-792210/p",
+      "fecha_scraping": "2025-08-25T21:11:05.774673"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Metro 10kg",
+      "precio": "S/ 38.40",
+      "precio_numerico": 38.4,
+      "link": "https://www.metro.pe/arroz-superior-metro-10kg-760287/p",
+      "fecha_scraping": "2025-08-25T21:11:05.783712"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Metro 750g",
+      "precio": "S/ 3.60",
+      "precio_numerico": 3.6,
+      "link": "https://www.metro.pe/arroz-extra-metro-750g-391213/p",
+      "fecha_scraping": "2025-08-25T21:11:05.792890"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Valle Norte Primera cosecha Bolsa 5 Kg",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/arroz-superior-valle-norte-primera-cosecha-bolsa-5-kg-356980/p",
+      "fecha_scraping": "2025-08-25T21:11:05.802838"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Saquillo De Arroz Maxima Contenido 10 kg",
+      "precio": "S/ 33.90",
+      "precio_numerico": 33.9,
+      "link": "https://www.metro.pe/saquillo-de-arroz-maxima-contenido-10-kg/p",
+      "fecha_scraping": "2025-08-25T21:11:05.812601"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral Costeño 750g",
+      "precio": "S/ 5.80",
+      "precio_numerico": 5.8,
+      "link": "https://www.metro.pe/arroz-integral-costeno-750g-368383/p",
+      "fecha_scraping": "2025-08-25T21:11:05.822059"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral Cuisine & Co 750g",
+      "precio": "S/ 3.70",
+      "precio_numerico": 3.7,
+      "link": "https://www.metro.pe/arroz-integral-cuisine-co-750g-981437/p",
+      "fecha_scraping": "2025-08-25T21:11:05.831408"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Blanco Añejo Faraon Mostaza 3kg",
+      "precio": "S/ 13.65",
+      "precio_numerico": 13.65,
+      "link": "https://www.metro.pe/arroz-blanco-anejo-faraon-mostaza-3kg-1022354/p",
+      "fecha_scraping": "2025-08-25T21:11:05.840550"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Añejo Campo Norte 750g",
+      "precio": "S/ 4.40",
+      "precio_numerico": 4.4,
+      "link": "https://www.metro.pe/arroz-extra-a-ejo-campo-norte-750g-1011402/p",
+      "fecha_scraping": "2025-08-25T21:11:05.850090"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Blanco Extra Añejo Faraon Verde 5kg",
+      "precio": "S/ 24.90",
+      "precio_numerico": 24.9,
+      "link": "https://www.metro.pe/arroz-blanco-extra-anejo-faraon-verde-5kg-1022353/p",
+      "fecha_scraping": "2025-08-25T21:11:05.859249"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Añejo Faraón Rojo 750g",
+      "precio": "S/ 3.95",
+      "precio_numerico": 3.95,
+      "link": "https://www.metro.pe/arroz-superior-anejo-faraon-rojo-750g-733916/p",
+      "fecha_scraping": "2025-08-25T21:11:05.869916"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral Paisana Bolsa 1 kg",
+      "precio": "S/ 6.50",
+      "precio_numerico": 6.5,
+      "link": "https://www.metro.pe/arroz-integral-paisana-bolsa-1-kg-576343/p",
+      "fecha_scraping": "2025-08-25T21:11:05.879485"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Reserva Extra Campero 5kg",
+      "precio": "S/ 24.00",
+      "precio_numerico": 24.0,
+      "link": "https://www.metro.pe/arroz-reserva-extra-campero-5kg-1037327/p",
+      "fecha_scraping": "2025-08-25T21:11:05.889807"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Paisana Bolsa 1 kg",
+      "precio": "S/ 5.90",
+      "precio_numerico": 5.9,
+      "link": "https://www.metro.pe/arroz-extra-paisana-bolsa-1-kg-576342/p",
+      "fecha_scraping": "2025-08-25T21:11:05.899359"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Gran Chalán 5kg",
+      "precio": "S/ 22.90",
+      "precio_numerico": 22.9,
+      "link": "https://www.metro.pe/arroz-superior-natural-gran-chalan-bolsa-5-kg-792212/p",
+      "fecha_scraping": "2025-08-25T21:11:05.909165"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Gran Chalán 750g",
+      "precio": "S/ 5.00",
+      "precio_numerico": 5.0,
+      "link": "https://www.metro.pe/arroz-extra-natural-gran-chalan-bolsa-750-gr-792209/p",
+      "fecha_scraping": "2025-08-25T21:11:05.917751"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Extra Cuisine & Co 5kg",
+      "precio": "S/ 22.50",
+      "precio_numerico": 22.5,
+      "link": "https://www.metro.pe/arroz-extra-cuisine-co-5kg-981123/p",
+      "fecha_scraping": "2025-08-25T21:11:05.927627"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Parbolizado Costeño 750g",
+      "precio": "S/ 5.60",
+      "precio_numerico": 5.6,
+      "link": "https://www.metro.pe/arroz-parbolizado-costeno-750g-79474/p",
+      "fecha_scraping": "2025-08-25T21:11:05.938385"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Valle Norte Primera Cosecha Bolsa 750 g",
+      "precio": "S/ 4.20",
+      "precio_numerico": 4.2,
+      "link": "https://www.metro.pe/arroz-superior-valle-norte-primera-cosecha-bolsa-750-g-356979/p",
+      "fecha_scraping": "2025-08-25T21:11:05.949542"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Superior Cuisine & Co 5kg",
+      "precio": "S/ 20.90",
+      "precio_numerico": 20.9,
+      "link": "https://www.metro.pe/arroz-superior-x-5kg-cuisine-co/p",
+      "fecha_scraping": "2025-08-25T21:11:05.958328"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "arroz",
+      "nombre": "Arroz Integral Vallenorte 750g",
+      "precio": "S/ 5.60",
+      "precio_numerico": 5.6,
+      "link": "https://www.metro.pe/arroz-integral-x750g-vallenorte/p",
+      "fecha_scraping": "2025-08-25T21:11:05.967707"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Twopack Fideo Spaghetti Don Vittorio 950g",
+      "precio": "S/ 10.30",
+      "precio_numerico": 10.3,
+      "link": "https://www.metro.pe/twopack-fideo-spaghetti-don-vittorio-950g-1011432/p",
+      "fecha_scraping": "2025-08-25T21:11:19.527768"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Mayonesa AlaCena 850g",
+      "precio": "S/ 17.50",
+      "precio_numerico": 17.5,
+      "link": "https://www.metro.pe/mayonesa-alacena-850g-29152/p",
+      "fecha_scraping": "2025-08-25T21:11:19.536960"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Fideo Spaghetti Nicolini 1kg",
+      "precio": "S/ 4.50",
+      "precio_numerico": 4.5,
+      "link": "https://www.metro.pe/fideo-spaghetti-nicolini-1kg-962247/p",
+      "fecha_scraping": "2025-08-25T21:11:19.545488"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Mayonesa AlaCena 475g",
+      "precio": "S/ 12.50",
+      "precio_numerico": 12.5,
+      "link": "https://www.metro.pe/mayonesa-alacena-475g-29153/p",
+      "fecha_scraping": "2025-08-25T21:11:19.554449"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Spaghetti Don Vittorio 950g",
+      "precio": "S/ 5.20",
+      "precio_numerico": 5.2,
+      "link": "https://www.metro.pe/spaghetti-don-vittorio-950g-962240/p",
+      "fecha_scraping": "2025-08-25T21:11:19.561998"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Spaguetti Molitalia 950g",
+      "precio": "S/ 5.40",
+      "precio_numerico": 5.4,
+      "link": "https://www.metro.pe/spaguetti-molitalia-950g-2/p",
+      "fecha_scraping": "2025-08-25T21:11:19.569714"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Fideo Tallarín Nicolini 1kg",
+      "precio": "S/ 4.50",
+      "precio_numerico": 4.5,
+      "link": "https://www.metro.pe/fideo-tallarin-nicolini-1kg-962248/p",
+      "fecha_scraping": "2025-08-25T21:11:19.576570"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fideos_pastas",
+      "nombre": "Twopack Fideo Linguini Grosso Don Vittorio 950g",
+      "precio": "S/ 10.30",
+      "precio_numerico": 10.3,
+      "link": "https://www.metro.pe/twopack-fideo-linguini-grosso-don-vittorio-950g-1011434/p",
+      "fecha_scraping": "2025-08-25T21:11:19.584183"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Trozos de Atún en Aceite Vegetal Metro 140g",
+      "precio": "S/ 3.90",
+      "precio_numerico": 3.9,
+      "link": "https://www.metro.pe/trozos-de-atun-en-aceite-vegetal-metro-140g-756794/p",
+      "fecha_scraping": "2025-08-25T21:11:34.083488"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Tripack Filete de Atún en Aceite Primor 140g",
+      "precio": "S/ 15.50",
+      "precio_numerico": 15.5,
+      "link": "https://www.metro.pe/tripack-filete-de-at-n-en-aceite-primor-140g-1038130/p",
+      "fecha_scraping": "2025-08-25T21:11:34.109919"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Tripack Trozos de Atún en Aceite Primor 140g",
+      "precio": "S/ 15.00",
+      "precio_numerico": 15.0,
+      "link": "https://www.metro.pe/tripack-trozos-de-at-n-en-aceite-primor-140g-1038128/p",
+      "fecha_scraping": "2025-08-25T21:11:34.134384"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Lomos de Atún en Aceite Campomar Lata 150g",
+      "precio": "S/ 5.50",
+      "precio_numerico": 5.5,
+      "link": "https://www.metro.pe/lomos-de-at-n-en-aceite-campomar-lata-150g-147017001/p",
+      "fecha_scraping": "2025-08-25T21:11:34.155955"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Filete de Atún en Aceite Florida 140g",
+      "precio": "S/ 5.40",
+      "precio_numerico": 5.4,
+      "link": "https://www.metro.pe/filete-de-at-n-en-aceite-florida-140g-960487/p",
+      "fecha_scraping": "2025-08-25T21:11:34.176611"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Filete de Atún en Agua y Sal Metro 140g",
+      "precio": "S/ 4.30",
+      "precio_numerico": 4.3,
+      "link": "https://www.metro.pe/filete-de-atun-en-agua-y-sal-metro-140g-756790/p",
+      "fecha_scraping": "2025-08-25T21:11:34.192209"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Trozos de Atún en Aceite Vegetal Campomar 150g",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/trozos-de-atun-en-aceite-vegetal-campomar-150g/p",
+      "fecha_scraping": "2025-08-25T21:11:34.204767"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "conservas",
+      "nombre": "Tripack Filete de Atún en Agua Primor 140g",
+      "precio": "S/ 15.50",
+      "precio_numerico": 15.5,
+      "link": "https://www.metro.pe/tripack-filete-de-at-n-en-agua-primor-140g-1038129/p",
+      "fecha_scraping": "2025-08-25T21:11:34.216781"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Bombones Surtidos Nestlé Multipack 45un",
+      "precio": "S/ 22.90",
+      "precio_numerico": 22.9,
+      "link": "https://www.metro.pe/bombones-surtidos-nestle-multipack-45un-566380/p",
+      "fecha_scraping": "2025-08-25T21:11:47.969495"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Besos de Moza Clásico 9un",
+      "precio": "S/ 8.90",
+      "precio_numerico": 8.9,
+      "link": "https://www.metro.pe/besos-de-moza-clasico-9un-5430/p",
+      "fecha_scraping": "2025-08-25T21:11:47.978983"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Chocolate con Leche Triángulo Barra 30 g Caja 10 unid",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/chocolate-con-leche-triangulo-barra-30-g-caja-10-unid/p",
+      "fecha_scraping": "2025-08-25T21:11:47.987680"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Chocolate con Leche con Maní Sublime Sonrisa 8un",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/chocolate-con-leche-con-mani-sublime-sonrisa-8un-935573/p",
+      "fecha_scraping": "2025-08-25T21:11:47.997354"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Chocolate Relleno con Crema de Maní Princesa Barra 30 g Caja 10 unid",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/chocolate-relleno-con-crema-de-mani-princesa-barra-30-g-caja-10-unid/p",
+      "fecha_scraping": "2025-08-25T21:11:48.005106"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Bombones Bon o Bon Minis 48g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/bombones-bon-o-bon-minis-48g-1033107/p",
+      "fecha_scraping": "2025-08-25T21:11:48.014837"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Chocolate con Leche sin Azúcar 40% Cacao Milky La Ibérica Barra 20 g Bolsa 10 unid",
+      "precio": "S/ 36.60",
+      "precio_numerico": 36.6,
+      "link": "https://www.metro.pe/chocolate-con-leche-sin-azucar-40-cacao-milky-la-iberica-barra-20-g-bolsa-10-unid/p",
+      "fecha_scraping": "2025-08-25T21:11:48.022069"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Bombones de Chocolate Sublime 136g",
+      "precio": "S/ 16.50",
+      "precio_numerico": 16.5,
+      "link": "https://www.metro.pe/bombones-de-chocolate-sublime-136g/p",
+      "fecha_scraping": "2025-08-25T21:11:48.030484"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Chocolate de Leche Snickers 53g",
+      "precio": "S/ 4.20",
+      "precio_numerico": 4.2,
+      "link": "https://www.metro.pe/chocolate-de-leche-snickers-53g/p",
+      "fecha_scraping": "2025-08-25T21:11:48.038641"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Chocolate Vizzio Grageas Mix 122g",
+      "precio": "S/ 10.90",
+      "precio_numerico": 10.9,
+      "link": "https://www.metro.pe/chocolate-vizzio-grageas-mix-122g-1004808/p",
+      "fecha_scraping": "2025-08-25T21:11:48.047396"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Chocolate de Leche Mauxion Salut 100g",
+      "precio": "S/ 5.90",
+      "precio_numerico": 5.9,
+      "link": "https://www.metro.pe/chocolate-de-leche-mauxion-salut-100g/p",
+      "fecha_scraping": "2025-08-25T21:11:48.055290"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Bombones con Relleno de Crema de Maní Bon o Bon Osito 5un Surtido",
+      "precio": "S/ 16.30",
+      "precio_numerico": 16.3,
+      "link": "https://www.metro.pe/bombones-con-relleno-de-crema-de-mani-bon-o-bon-osito-5un-surtido/p",
+      "fecha_scraping": "2025-08-25T21:11:48.063836"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Bombones de Chocolate Princesa 136g",
+      "precio": "S/ 16.20",
+      "precio_numerico": 16.2,
+      "link": "https://www.metro.pe/bombones-de-chocolate-princesa-136g-532639/p",
+      "fecha_scraping": "2025-08-25T21:11:48.071475"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Sixpack Chocolate Sublime Sin Azúcares Añadidos 38g",
+      "precio": "S/ 22.20",
+      "precio_numerico": 22.2,
+      "link": "https://www.metro.pe/sixpack-chocolate-sublime-sin-azucares-anadidos-38g-2/p",
+      "fecha_scraping": "2025-08-25T21:11:48.079696"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Almendras con Cobertura de Chocolate Vizzio 122g",
+      "precio": "S/ 11.60",
+      "precio_numerico": 11.6,
+      "link": "https://www.metro.pe/almendras-con-cobertura-de-chocolate-vizzio-122g/p",
+      "fecha_scraping": "2025-08-25T21:11:48.087547"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "chocolateria",
+      "nombre": "Bombones Bon o Bon Mochila Osito 90g",
+      "precio": "S/ 39.90",
+      "precio_numerico": 39.9,
+      "link": "https://www.metro.pe/bombones-bon-o-bon-mochila-osito-90g-1015367/p",
+      "fecha_scraping": "2025-08-25T21:11:48.096696"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Sal de Cocina Marina Emsal Bolsa 1 kg",
+      "precio": "S/ 2.40",
+      "precio_numerico": 2.4,
+      "link": "https://www.metro.pe/sal-de-cocina-marina-emsal-bolsa-1-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.218743"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Salsa de Tomate Pomarola 145g",
+      "precio": "S/ 1.60",
+      "precio_numerico": 1.6,
+      "link": "https://www.metro.pe/salsa-de-tomate-pomarola-145g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.228945"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Sal de Mesa Marina Emsal Bolsa 1 kg",
+      "precio": "S/ 2.40",
+      "precio_numerico": 2.4,
+      "link": "https://www.metro.pe/sal-de-mesa-marina-emsal-bolsa-1-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.238644"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Vinagre Blanco Cuisine & Co 1L",
+      "precio": "S/ 4.40",
+      "precio_numerico": 4.4,
+      "link": "https://www.metro.pe/vinagre-blanco-cuisine-co-1l-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.249774"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Salsa Roja Completa Don Vittorio 400g",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/salsa-roja-completa-don-vittorio-400g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.257348"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Salsa Clásica Molitalia Pomarola 290g",
+      "precio": "S/ 2.90",
+      "precio_numerico": 2.9,
+      "link": "https://www.metro.pe/salsa-clasica-molitalia-pomarola-290g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.266971"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Concentrado en Polvo Doña Gusta Sabor Gallina 6un",
+      "precio": "S/ 2.20",
+      "precio_numerico": 2.2,
+      "link": "https://www.metro.pe/concentrado-en-polvo-dona-gusta-sabor-gallina-6un-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.276433"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Vinagre Blanco Del Firme Doy Pack 1000 ml",
+      "precio": "S/ 4.80",
+      "precio_numerico": 4.8,
+      "link": "https://www.metro.pe/vinagre-blanco-del-firme-doy-pack-1000-ml-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.285809"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Sillao Aji-No-Sillao Botella 500 ml",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/sillao-aji-no-sillao-botella-500-ml-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.294296"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Sal Fina 600 g",
+      "precio": "S/ 8.90",
+      "precio_numerico": 8.9,
+      "link": "https://www.metro.pe/sal-fina-600-g-790002/p",
+      "fecha_scraping": "2025-08-25T21:12:00.303244"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Canela Entera Sibarita Sobre 10 g",
+      "precio": "S/ 3.50",
+      "precio_numerico": 3.5,
+      "link": "https://www.metro.pe/canela-entera-sibarita-sobre-10-g/p",
+      "fecha_scraping": "2025-08-25T21:12:00.311431"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Sopa Instantánea Ajinomen Sabor Gallina 80g",
+      "precio": "S/ 2.10",
+      "precio_numerico": 2.1,
+      "link": "https://www.metro.pe/sopa-instantanea-ajinomen-sabor-gallina-80g-187432002/p",
+      "fecha_scraping": "2025-08-25T21:12:00.320611"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Crema de Ají AlaCena Tarí 400g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/crema-de-aj-alacena-tar-400g-425823/p",
+      "fecha_scraping": "2025-08-25T21:12:00.329657"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Twopack Salsa Roja Completa Don Vittorio 400g",
+      "precio": "S/ 10.50",
+      "precio_numerico": 10.5,
+      "link": "https://www.metro.pe/twopack-salsa-roja-completa-don-vittorio-400g-1038480/p",
+      "fecha_scraping": "2025-08-25T21:12:00.338656"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Puré de Papa Knorr 125g",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/pure-de-papa-knorr-125g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.346981"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Pimienta Negra Molida Sibarita Sobre 6 Unid",
+      "precio": "S/ 4.10",
+      "precio_numerico": 4.1,
+      "link": "https://www.metro.pe/pimienta-negra-molida-sibarita-sobre-6-unid-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.356240"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Comino 24.3 g",
+      "precio": "S/ 1.75",
+      "precio_numerico": 1.75,
+      "link": "https://www.metro.pe/comino-24-3-g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.365074"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Cubito Sazonador Maggi Sabor Gallina 8un",
+      "precio": "S/ 3.50",
+      "precio_numerico": 3.5,
+      "link": "https://www.metro.pe/cubito-sazonador-maggi-sabor-gallina-8un-497686002/p",
+      "fecha_scraping": "2025-08-25T21:12:00.374423"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Ají Especial Panquita Sin Picante Sibarita Pack 3 Unid x 31.2 g",
+      "precio": "S/ 3.60",
+      "precio_numerico": 3.6,
+      "link": "https://www.metro.pe/aji-especial-panquita-sin-picante-sibarita-pack-3-unid-x-31-2-g/p",
+      "fecha_scraping": "2025-08-25T21:12:00.383153"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Ají Amarillo en Pasta Cuisine & Co 200g",
+      "precio": "S/ 8.50",
+      "precio_numerico": 8.5,
+      "link": "https://www.metro.pe/aji-amarillo-en-pasta-cuisine-co-200g/p",
+      "fecha_scraping": "2025-08-25T21:12:00.392445"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Orégano Molido Sibarita Pack 6 Unid x 3.5 g",
+      "precio": "S/ 2.30",
+      "precio_numerico": 2.3,
+      "link": "https://www.metro.pe/oregano-molido-sibarita-pack-6-unid-x-3-5-g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.400784"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Laurel Sibarita 5 g",
+      "precio": "S/ 2.50",
+      "precio_numerico": 2.5,
+      "link": "https://www.metro.pe/laurel-sibarita-5-g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:00.410645"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Sopa Instantánea Ajinomen Sabor Carne 80g",
+      "precio": "S/ 2.10",
+      "precio_numerico": 2.1,
+      "link": "https://www.metro.pe/sopa-instantanea-ajinomen-sabor-carne-80g-187432001/p",
+      "fecha_scraping": "2025-08-25T21:12:00.418989"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "condimentos",
+      "nombre": "Cubito Sazonador Maggi Sabor Gallina 25un",
+      "precio": "S/ 5.60",
+      "precio_numerico": 5.6,
+      "link": "https://www.metro.pe/cubito-sazonador-maggi-sabor-gallina-25un-558890001/p",
+      "fecha_scraping": "2025-08-25T21:12:00.427112"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Galletas San Jorge Soda Pack 7un",
+      "precio": "S/ 3.80",
+      "precio_numerico": 3.8,
+      "link": "https://www.metro.pe/galletas-san-jorge-soda-pack-7un-2/p",
+      "fecha_scraping": "2025-08-25T21:12:14.684406"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Papas Inka Chips Sal de Mar 135g",
+      "precio": "S/ 8.00",
+      "precio_numerico": 8.0,
+      "link": "https://www.metro.pe/papas-inka-chips-sal-de-mar-135g/p",
+      "fecha_scraping": "2025-08-25T21:12:14.694649"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Sixpack Galletas Field Sabor Vainilla 37g",
+      "precio": "S/ 5.00",
+      "precio_numerico": 5.0,
+      "link": "https://www.metro.pe/sixpack-galletas-field-sabor-vainilla-37g-348515/p",
+      "fecha_scraping": "2025-08-25T21:12:14.705641"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Papa en Hojuelas Inka Chips Jalapeño 135g",
+      "precio": "S/ 8.00",
+      "precio_numerico": 8.0,
+      "link": "https://www.metro.pe/papa-en-hojuelas-inka-chips-jalapeno-135g/p",
+      "fecha_scraping": "2025-08-25T21:12:14.715526"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Sixpack Galletas de Soda Field 32g",
+      "precio": "S/ 3.60",
+      "precio_numerico": 3.6,
+      "link": "https://www.metro.pe/sixpack-galletas-de-soda-field-32g-971596/p",
+      "fecha_scraping": "2025-08-25T21:12:14.723058"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Pack Field Galletas: Doña Pepa 6un + ChokoSoda 6un + Wafer Cua Cua 9un",
+      "precio": "S/ 14.00",
+      "precio_numerico": 14.0,
+      "link": "https://www.metro.pe/pack-field-galletas-do-a-pepa-6un-chokosoda-6un-wafer-cua-cua-9un-1033670/p",
+      "fecha_scraping": "2025-08-25T21:12:14.730795"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Sixpack Galletas Morochas 30g",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/sixpack-galletas-morochas-30g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:14.739008"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "galletas_snacks",
+      "nombre": "Pack 12 Galleta Oreo Rellena 432 g",
+      "precio": "S/ 8.70",
+      "precio_numerico": 8.7,
+      "link": "https://www.metro.pe/pack-12-galleta-oreo-rellena-432-g-958304/p",
+      "fecha_scraping": "2025-08-25T21:12:14.747687"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Lenteja Bebé Tesoro Del Campo Bolsa 500 g",
+      "precio": "S/ 5.50",
+      "precio_numerico": 5.5,
+      "link": "https://www.metro.pe/lenteja-bebe-tesoro-del-campo-bolsa-500-g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.234845"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Quinua Máxima 500g",
+      "precio": "S/ 6.70",
+      "precio_numerico": 6.7,
+      "link": "https://www.metro.pe/quinua-maxima-500g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.245551"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Maíz Pop Corn Costeño 500g",
+      "precio": "S/ 3.80",
+      "precio_numerico": 3.8,
+      "link": "https://www.metro.pe/maiz-pop-corn-costeno-500g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.254603"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Lenteja Costeño 500g",
+      "precio": "S/ 5.60",
+      "precio_numerico": 5.6,
+      "link": "https://www.metro.pe/lenteja-costeno-500g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.262914"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Lenteja Bebé Cuisine & Co 500g",
+      "precio": "S/ 4.70",
+      "precio_numerico": 4.7,
+      "link": "https://www.metro.pe/lenteja-bebe-cuisine-co-500g-753565/p",
+      "fecha_scraping": "2025-08-25T21:12:29.272428"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Frejol Canario Máxima 500g",
+      "precio": "S/ 6.70",
+      "precio_numerico": 6.7,
+      "link": "https://www.metro.pe/frejol-canario-maxima-500g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:29.280303"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Lenteja Máxima 500g",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/lenteja-maxima-500g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.289721"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Arveja Partida Costeño 500g",
+      "precio": "S/ 3.70",
+      "precio_numerico": 3.7,
+      "link": "https://www.metro.pe/arveja-partida-costeno-500g-30039/p",
+      "fecha_scraping": "2025-08-25T21:12:29.299288"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Trigo Mote Tesoro Del Campo Bolsa 500 g",
+      "precio": "S/ 3.90",
+      "precio_numerico": 3.9,
+      "link": "https://www.metro.pe/trigo-mote-tesoro-del-campo-bolsa-500-g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.306822"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Quinua Costeño 500g",
+      "precio": "S/ 8.50",
+      "precio_numerico": 8.5,
+      "link": "https://www.metro.pe/quinua-costeno-500g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.315862"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Frijol Panamito Cuisine & Co Bolsa 500 gr",
+      "precio": "S/ 5.70",
+      "precio_numerico": 5.7,
+      "link": "https://www.metro.pe/frijol-panamito-cuisine-co-bolsa-500-gr-2/p",
+      "fecha_scraping": "2025-08-25T21:12:29.324401"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Quinua Cuisine & Co 500g",
+      "precio": "S/ 9.50",
+      "precio_numerico": 9.5,
+      "link": "https://www.metro.pe/quinua-cuisine-co-500g-753561/p",
+      "fecha_scraping": "2025-08-25T21:12:29.334701"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Frijol Canario Costeño 500g",
+      "precio": "S/ 8.60",
+      "precio_numerico": 8.6,
+      "link": "https://www.metro.pe/frijol-canario-costeno-500g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.343294"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Arveja Verde Tesoro Del Campo Bolsa 500 g",
+      "precio": "S/ 3.90",
+      "precio_numerico": 3.9,
+      "link": "https://www.metro.pe/arveja-verde-tesoro-del-campo-bolsa-500-g-17444/p",
+      "fecha_scraping": "2025-08-25T21:12:29.352331"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Trigo Mote Maxima Bolsa 500 g",
+      "precio": "S/ 3.00",
+      "precio_numerico": 3.0,
+      "link": "https://www.metro.pe/trigo-mote-maxima-bolsa-500-g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.361029"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "menestras",
+      "nombre": "Garbanzo Maixma Bolsa 500 g",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/garbanzo-maixma-bolsa-500-g/p",
+      "fecha_scraping": "2025-08-25T21:12:29.369707"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Harina Preparada Blanca Flor 1kg",
+      "precio": "S/ 7.90",
+      "precio_numerico": 7.9,
+      "link": "https://www.metro.pe/harina-preparada-blanca-flor-1kg-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.415634"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Leche Condensada Nestlé Lata 393g",
+      "precio": "S/ 5.90",
+      "precio_numerico": 5.9,
+      "link": "https://www.metro.pe/leche-condensada-nestle-lata-393g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.427692"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Harina Sin Preparar Favorita 1kg",
+      "precio": "S/ 5.20",
+      "precio_numerico": 5.2,
+      "link": "https://www.metro.pe/harina-sin-preparar-favorita-1kg-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.442007"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Gelatina Universal de Fresa Sobre 130g",
+      "precio": "S/ 3.90",
+      "precio_numerico": 3.9,
+      "link": "https://www.metro.pe/gelatina-universal-de-fresa-sobre-130g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.453957"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Leche Condensada Gloria 393g",
+      "precio": "S/ 6.00",
+      "precio_numerico": 6.0,
+      "link": "https://www.metro.pe/leche-condensada-gloria-393g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.469904"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Harina de Trigo Preparada Nicolini 1kg",
+      "precio": "S/ 5.50",
+      "precio_numerico": 5.5,
+      "link": "https://www.metro.pe/harina-de-trigo-preparada-nicolini-1kg/p",
+      "fecha_scraping": "2025-08-25T21:12:42.482043"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Esencia de Vainilla Universal Frasco 100 ml",
+      "precio": "S/ 2.60",
+      "precio_numerico": 2.6,
+      "link": "https://www.metro.pe/esencia-de-vainilla-universal-frasco-100-ml-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.493674"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Chuño Universal Bolsa 180 g",
+      "precio": "S/ 3.50",
+      "precio_numerico": 3.5,
+      "link": "https://www.metro.pe/chuno-universal-bolsa-180-g/p",
+      "fecha_scraping": "2025-08-25T21:12:42.504431"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Turrón de Doña Pepa Cuisine & Co 250g",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/turron-de-dona-pepa-cuisine-co-250g-1018089/p",
+      "fecha_scraping": "2025-08-25T21:12:42.513957"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Mazamorra Morada en Polvo Royal 140g",
+      "precio": "S/ 4.50",
+      "precio_numerico": 4.5,
+      "link": "https://www.metro.pe/mazamorra-morada-en-polvo-royal-140g-294734/p",
+      "fecha_scraping": "2025-08-25T21:12:42.523964"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Sirope Sabor a Maple Spitze Cero Azúcar 350g",
+      "precio": "S/ 10.50",
+      "precio_numerico": 10.5,
+      "link": "https://www.metro.pe/sirope-sabor-a-maple-spitze-cero-azucar-350g-1033022/p",
+      "fecha_scraping": "2025-08-25T21:12:42.533472"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Maizena Duryea Caja 100 g",
+      "precio": "S/ 2.90",
+      "precio_numerico": 2.9,
+      "link": "https://www.metro.pe/maizena-duryea-caja-100-g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.543869"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Manjar blanco Bonlé 200g",
+      "precio": "S/ 4.50",
+      "precio_numerico": 4.5,
+      "link": "https://www.metro.pe/manjar-blanco-bonle-200g-19763/p",
+      "fecha_scraping": "2025-08-25T21:12:42.556613"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Colapiz en Polvo Universal Sobre 20 g",
+      "precio": "S/ 2.90",
+      "precio_numerico": 2.9,
+      "link": "https://www.metro.pe/colapiz-en-polvo-universal-sobre-20-g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.570308"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Gelatina Universal de Uva Sobre 130g",
+      "precio": "S/ 3.90",
+      "precio_numerico": 3.9,
+      "link": "https://www.metro.pe/gelatina-universal-de-uva-sobre-130g-2/p",
+      "fecha_scraping": "2025-08-25T21:12:42.584400"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "reposteria",
+      "nombre": "Turrón de Doña Pepa Cuisine & Co 500g",
+      "precio": "S/ 12.90",
+      "precio_numerico": 12.9,
+      "link": "https://www.metro.pe/turron-de-dona-pepa-cuisine-co-500g-985075/p",
+      "fecha_scraping": "2025-08-25T21:12:42.596551"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Metro 5kg",
+      "precio": "S/ 18.90",
+      "precio_numerico": 18.9,
+      "link": "https://www.metro.pe/azucar-rubia-metro-5kg-127643/p",
+      "fecha_scraping": "2025-08-25T21:12:54.901367"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Máxima Bolsa 5 kg",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/azucar-rubia-maxima-bolsa-5-kg-714287/p",
+      "fecha_scraping": "2025-08-25T21:12:54.918160"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Metro Bolsa 2 Kg",
+      "precio": "S/ 8.50",
+      "precio_numerico": 8.5,
+      "link": "https://www.metro.pe/azucar-rubia-metro-bolsa-2-kg-116646/p",
+      "fecha_scraping": "2025-08-25T21:12:54.934648"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Paramonga Bolsa 5 kg",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/azucar-rubia-paramonga-bolsa-5-kg-566556/p",
+      "fecha_scraping": "2025-08-25T21:12:54.946060"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Dulfina Bolsa 5 kg",
+      "precio": "S/ 20.50",
+      "precio_numerico": 20.5,
+      "link": "https://www.metro.pe/azucar-rubia-dulfina-bolsa-5-kg-465118/p",
+      "fecha_scraping": "2025-08-25T21:12:54.957600"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Máxima 1kg",
+      "precio": "S/ 4.20",
+      "precio_numerico": 4.2,
+      "link": "https://www.metro.pe/az-car-rubia-m-xima-1kg-459535/p",
+      "fecha_scraping": "2025-08-25T21:12:54.968524"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Metro 1kg",
+      "precio": "S/ 4.40",
+      "precio_numerico": 4.4,
+      "link": "https://www.metro.pe/azucar-rubia-metro-1kg-116642/p",
+      "fecha_scraping": "2025-08-25T21:12:54.980215"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Blanca Metro Bolsa 5 kg",
+      "precio": "S/ 22.90",
+      "precio_numerico": 22.9,
+      "link": "https://www.metro.pe/azucar-blanca-metro-bolsa-5-kg-127642/p",
+      "fecha_scraping": "2025-08-25T21:12:54.990291"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Blanca Metro Bolsa 1 kg",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/azucar-blanca-metro-bolsa-1-kg-116640/p",
+      "fecha_scraping": "2025-08-25T21:12:55.000137"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Dulfina Bolsa 2 kg",
+      "precio": "S/ 9.60",
+      "precio_numerico": 9.6,
+      "link": "https://www.metro.pe/azucar-rubia-dulfina-bolsa-2-kg-371932/p",
+      "fecha_scraping": "2025-08-25T21:12:55.010314"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Blanca Metro Bolsa 2 Kg",
+      "precio": "S/ 9.60",
+      "precio_numerico": 9.6,
+      "link": "https://www.metro.pe/azucar-blanca-metro-bolsa-2-kg-116644/p",
+      "fecha_scraping": "2025-08-25T21:12:55.020081"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Paramonga 1kg",
+      "precio": "S/ 5.10",
+      "precio_numerico": 5.1,
+      "link": "https://www.metro.pe/azucar-rubia-paramonga-bolsa-1-kg-178537/p",
+      "fecha_scraping": "2025-08-25T21:12:55.031076"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Endulzante en Polvo La Boliviana Stevia 150g",
+      "precio": "S/ 24.90",
+      "precio_numerico": 24.9,
+      "link": "https://www.metro.pe/endulzante-en-polvo-la-boliviana-stevia-150g-988719/p",
+      "fecha_scraping": "2025-08-25T21:12:55.040843"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Azúcar Rubia Dulfina Bolsa 1 kg",
+      "precio": "S/ 4.99",
+      "precio_numerico": 4.99,
+      "link": "https://www.metro.pe/azucar-rubia-dulfina-bolsa-1-kg-333705/p",
+      "fecha_scraping": "2025-08-25T21:12:55.050169"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Endulzante Líquido Stevia Cuisine & Co Botella 100 ml",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/endulzante-liquido-stevia-cuisine-co-botella-100-ml-2/p",
+      "fecha_scraping": "2025-08-25T21:12:55.070092"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Panela Orgánica Cuisine & Co 1kg",
+      "precio": "S/ 13.90",
+      "precio_numerico": 13.9,
+      "link": "https://www.metro.pe/panela-organica-cuisine-co-1kg/p",
+      "fecha_scraping": "2025-08-25T21:12:55.088423"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Endulzante en Polvo Splenda Libre de Calorías 50un",
+      "precio": "S/ 27.30",
+      "precio_numerico": 27.3,
+      "link": "https://www.metro.pe/endulzante-en-polvo-splenda-libre-de-calorias-50un-2/p",
+      "fecha_scraping": "2025-08-25T21:12:55.109865"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Panela Granulada Chuncho Superfoods 500g",
+      "precio": "S/ 8.00",
+      "precio_numerico": 8.0,
+      "link": "https://www.metro.pe/panela-granulada-chuncho-superfoods-500g-1012175/p",
+      "fecha_scraping": "2025-08-25T21:12:55.121656"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Edulcorante en Tabletas Sugafor 440un",
+      "precio": "S/ 50.30",
+      "precio_numerico": 50.3,
+      "link": "https://www.metro.pe/edulcorante-en-tabletas-sugafor-440un-295120/p",
+      "fecha_scraping": "2025-08-25T21:12:55.137119"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Edulcorante en Polvo Sugafor 200un",
+      "precio": "S/ 71.10",
+      "precio_numerico": 71.1,
+      "link": "https://www.metro.pe/edulcorante-en-polvo-sugafor-200un-2/p",
+      "fecha_scraping": "2025-08-25T21:12:55.150101"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Stevia Splenda 160 Sobres",
+      "precio": "S/ 77.70",
+      "precio_numerico": 77.7,
+      "link": "https://www.metro.pe/stevia-splenda-160-sobres-2/p",
+      "fecha_scraping": "2025-08-25T21:12:55.164376"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Endulzante en Polvo NutraStevia con Colágeno 50g",
+      "precio": "S/ 28.20",
+      "precio_numerico": 28.2,
+      "link": "https://www.metro.pe/endulzante-en-polvo-nutrastevia-con-colageno-50g-988721/p",
+      "fecha_scraping": "2025-08-25T21:12:55.174703"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Endulzante Líquido Nutrastevia Frasco 110 ml",
+      "precio": "S/ 32.70",
+      "precio_numerico": 32.7,
+      "link": "https://www.metro.pe/endulzante-liquido-nutrastevia-frasco-110-ml-2/p",
+      "fecha_scraping": "2025-08-25T21:12:55.189080"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "azucar",
+      "nombre": "Panela Paramonga 500g",
+      "precio": "S/ 7.99",
+      "precio_numerico": 7.99,
+      "link": "https://www.metro.pe/panela-paramonga-500g-1014161/p",
+      "fecha_scraping": "2025-08-25T21:12:55.204640"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Instantáneo Altomayo Gourmet 170g",
+      "precio": "S/ 32.90",
+      "precio_numerico": 32.9,
+      "link": "https://www.metro.pe/caf-instant-neo-altomayo-gourmet-170g-caf-instant-neo-altomayo-gourmet-170g/p",
+      "fecha_scraping": "2025-08-25T21:13:08.901473"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Instantáneo Nescafé Fina Selección 200g",
+      "precio": "S/ 27.90",
+      "precio_numerico": 27.9,
+      "link": "https://www.metro.pe/cafe-instantaneo-nescafe-fina-seleccion-200g/p",
+      "fecha_scraping": "2025-08-25T21:13:08.916846"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Instantáneo Liofilizado Cafetal 180g",
+      "precio": "S/ 24.90",
+      "precio_numerico": 24.9,
+      "link": "https://www.metro.pe/cafe-instantaneo-liofilizado-cafetal-180g/p",
+      "fecha_scraping": "2025-08-25T21:13:08.931573"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Instantáneo Kirma Clásico 190g",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/cafe-instantaneo-kirma-clasico-190g-4551/p",
+      "fecha_scraping": "2025-08-25T21:13:08.943882"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Instantáneo Altomayo Gourmet 150g",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/caf-instant-neo-altomayo-gourmet-150g-caf-instant-neo-altomayo-gourmet-150g/p",
+      "fecha_scraping": "2025-08-25T21:13:08.955907"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Molido Cafetal Selecto 454g",
+      "precio": "S/ 25.50",
+      "precio_numerico": 25.5,
+      "link": "https://www.metro.pe/cafe-molido-cafetal-selecto-454g/p",
+      "fecha_scraping": "2025-08-25T21:13:08.968119"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Instantáneo Nescafé Gold 190g",
+      "precio": "S/ 38.90",
+      "precio_numerico": 38.9,
+      "link": "https://www.metro.pe/caf-instant-neo-nescaf-gold-190g-544584/p",
+      "fecha_scraping": "2025-08-25T21:13:08.980371"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Molido Cafetal Selecto 900g",
+      "precio": "S/ 61.50",
+      "precio_numerico": 61.5,
+      "link": "https://www.metro.pe/cafe-molido-cafetal-selecto-900g/p",
+      "fecha_scraping": "2025-08-25T21:13:08.992630"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Molido Cafetal Gourmet Americano 450g",
+      "precio": "S/ 34.90",
+      "precio_numerico": 34.9,
+      "link": "https://www.metro.pe/cafe-molido-cafetal-gourmet-americano-450g-475537001/p",
+      "fecha_scraping": "2025-08-25T21:13:09.004997"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Anís para Infusión Cuisine & Co 20un",
+      "precio": "S/ 3.20",
+      "precio_numerico": 3.2,
+      "link": "https://www.metro.pe/anis-para-infusion-cuisine-co-20un/p",
+      "fecha_scraping": "2025-08-25T21:13:09.018935"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Té Puro McColins 100un",
+      "precio": "S/ 10.90",
+      "precio_numerico": 10.9,
+      "link": "https://www.metro.pe/te-puro-mccolins-100un-2/p",
+      "fecha_scraping": "2025-08-25T21:13:09.032937"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Instantáneo Descafeinado Altomayo 170g",
+      "precio": "S/ 42.50",
+      "precio_numerico": 42.5,
+      "link": "https://www.metro.pe/caf-instant-neo-descafeinado-altomayo-170g-caf-instant-neo-descafeinado-altomayo-170g/p",
+      "fecha_scraping": "2025-08-25T21:13:09.045662"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café Molido Leyenda Vainilla 200g",
+      "precio": "S/ 24.90",
+      "precio_numerico": 24.9,
+      "link": "https://www.metro.pe/caf-molido-leyenda-vainilla-200g-479428002/p",
+      "fecha_scraping": "2025-08-25T21:13:09.057243"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Infusión de Boldo McColin's 25un",
+      "precio": "S/ 3.90",
+      "precio_numerico": 3.9,
+      "link": "https://www.metro.pe/infusion-de-boldo-mccolin-s-25un-2/p",
+      "fecha_scraping": "2025-08-25T21:13:09.070589"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Café en Cápsulas Must Lungo 16un",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/cafe-en-capsulas-must-lungo-16un-991846/p",
+      "fecha_scraping": "2025-08-25T21:13:09.082701"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cafe",
+      "nombre": "Infusión Andina Wawasana Gripal 50un",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/infusion-andina-wawasana-gripal-50un-2/p",
+      "fecha_scraping": "2025-08-25T21:13:09.095050"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Avena Quaker Tradicional 900g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/avena-tradicional-quaker-bolsa-900-g-509768/p",
+      "fecha_scraping": "2025-08-25T21:13:22.611756"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Avena Tradicional Cuisine & Co 1kg",
+      "precio": "S/ 8.90",
+      "precio_numerico": 8.9,
+      "link": "https://www.metro.pe/hojuelas-de-avena-precocida-cuisine-co-bolsa-1-kg-891743/p",
+      "fecha_scraping": "2025-08-25T21:13:22.626142"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Avena Precocida 3 Ositos 900g",
+      "precio": "S/ 8.90",
+      "precio_numerico": 8.9,
+      "link": "https://www.metro.pe/avena-premium-clasica-bolsa-1-kg-518456/p",
+      "fecha_scraping": "2025-08-25T21:13:22.639609"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Granola con Miel de Abeja Unión 400g",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/granola-con-miel-de-abeja-union-400g-4575/p",
+      "fecha_scraping": "2025-08-25T21:13:22.650768"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Granola con Pasas y Almendras Unión 400g",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/granola-con-pasas-y-almendras-union-400g-462619/p",
+      "fecha_scraping": "2025-08-25T21:13:22.666227"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Cereal Corn Flakes Sin Gluten 740g",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/cereal-corn-flakes-sin-gluten-740g-700271/p",
+      "fecha_scraping": "2025-08-25T21:13:22.679669"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Quinua Avena 3 Ositos 900g",
+      "precio": "S/ 8.90",
+      "precio_numerico": 8.9,
+      "link": "https://www.metro.pe/quinua-avena-3-ositos-900g/p",
+      "fecha_scraping": "2025-08-25T21:13:22.696133"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Hojuelas de Maíz Kellogg's Corn Flakes 410g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/hojuelas-de-ma-z-kellogg-s-corn-flakes-410g-4955/p",
+      "fecha_scraping": "2025-08-25T21:13:22.713146"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Granola con Granos Andinos Unión 280g",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/granola-con-granos-andinos-union-280g-462618/p",
+      "fecha_scraping": "2025-08-25T21:13:22.729639"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Cereal Copix con Marshmallows Bolsa 740 g",
+      "precio": "S/ 17.50",
+      "precio_numerico": 17.5,
+      "link": "https://www.metro.pe/cereal-copix-con-marshmallows-bolsa-740-g/p",
+      "fecha_scraping": "2025-08-25T21:13:22.744726"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Avena Integral en Hojuelas Grano de Oro 500g",
+      "precio": "S/ 5.50",
+      "precio_numerico": 5.5,
+      "link": "https://www.metro.pe/avena-integral-grano-de-oro-x-500gr/p",
+      "fecha_scraping": "2025-08-25T21:13:22.758529"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Cereal Flakes Angel 1 kg",
+      "precio": "S/ 12.90",
+      "precio_numerico": 12.9,
+      "link": "https://www.metro.pe/cereal-flakes-angel-1-kg/p",
+      "fecha_scraping": "2025-08-25T21:13:22.771790"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Avena con Quinua Quaker 850g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/avena-con-quinua-quaker-850g-1004101/p",
+      "fecha_scraping": "2025-08-25T21:13:22.788081"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Cereal Zuck Bolsa 1 Kg",
+      "precio": "S/ 17.50",
+      "precio_numerico": 17.5,
+      "link": "https://www.metro.pe/cereal-zuck-bolsa-1-kg/p",
+      "fecha_scraping": "2025-08-25T21:13:22.800812"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Cereal Bar Display Costa Chips x12",
+      "precio": "S/ 6.30",
+      "precio_numerico": 6.3,
+      "link": "https://www.metro.pe/cereal-bar-display-costa-chips-x12/p",
+      "fecha_scraping": "2025-08-25T21:13:22.814989"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cereales",
+      "nombre": "Trigo con Miel Vita Plus Bolsa 140 gr",
+      "precio": "S/ 3.90",
+      "precio_numerico": 3.9,
+      "link": "https://www.metro.pe/trigo-con-miel-vita-plus-bolsa-140-gr-2/p",
+      "fecha_scraping": "2025-08-25T21:13:22.830774"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Fresa Gloria 310g",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/mermelada-de-fresa-gloria-310g-205057/p",
+      "fecha_scraping": "2025-08-25T21:13:35.550817"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Fresa Gloria 950g",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/mermelada-de-fresa-gloria-950g-68358/p",
+      "fecha_scraping": "2025-08-25T21:13:35.563695"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Miel de Abeja La Reyna de Oxapampa Frasco 300 g",
+      "precio": "S/ 23.90",
+      "precio_numerico": 23.9,
+      "link": "https://www.metro.pe/miel-de-abeja-la-reyna-de-oxapampa-frasco-300-g/p",
+      "fecha_scraping": "2025-08-25T21:13:35.575231"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mantequilla de Maní Cuisine&Co Frasco 410 g",
+      "precio": "S/ 20.90",
+      "precio_numerico": 20.9,
+      "link": "https://www.metro.pe/mantequilla-de-mani-cuisine-co-frasco-410-g/p",
+      "fecha_scraping": "2025-08-25T21:13:35.587574"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mantequilla de Maní Untable Pote 410 g",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/mantequilla-de-mani-untable-pote-410-g/p",
+      "fecha_scraping": "2025-08-25T21:13:35.602348"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Fresa Cuisine & Co Frasco 1 Kg",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/mermelada-de-fresa-cuisine-co-frasco-1-kg/p",
+      "fecha_scraping": "2025-08-25T21:13:35.614378"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Fresa Gloria Doypack 700g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/mermelada-de-fresa-gloria-doypack-700g-166337/p",
+      "fecha_scraping": "2025-08-25T21:13:35.625460"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Crema Avellanas con Cacao Cuisine & Co 350g",
+      "precio": "S/ 10.90",
+      "precio_numerico": 10.9,
+      "link": "https://www.metro.pe/crema-avellanas-con-cacao-cuisine-co-350g-495302/p",
+      "fecha_scraping": "2025-08-25T21:13:35.638061"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Fresa Fanny 950g",
+      "precio": "S/ 16.60",
+      "precio_numerico": 16.6,
+      "link": "https://www.metro.pe/mermelada-de-fresa-fanny-950g-4435/p",
+      "fecha_scraping": "2025-08-25T21:13:35.650793"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Aguaymanto De la Casa 250g",
+      "precio": "S/ 5.87",
+      "precio_numerico": 5.87,
+      "link": "https://www.metro.pe/mermelada-de-aguaymanto-de-la-casa-250g-993313/p",
+      "fecha_scraping": "2025-08-25T21:13:35.664120"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Sauco De la Casa 250g",
+      "precio": "S/ 7.50",
+      "precio_numerico": 7.5,
+      "link": "https://www.metro.pe/mermelada-de-sauco-de-la-casa-250g-993325/p",
+      "fecha_scraping": "2025-08-25T21:13:35.678406"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Crema de Maní & Panela Cuisine & Co 410g",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/crema-de-mani-panela-cuisine-co-410g-963991/p",
+      "fecha_scraping": "2025-08-25T21:13:35.693228"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Naranja Cuisine & Co Pote 350 g",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/mermelada-de-naranja-cuisine-co-pote-350-g/p",
+      "fecha_scraping": "2025-08-25T21:13:35.706664"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Miel de Abeja Cuisine&Co Frasco 1100 g",
+      "precio": "S/ 54.90",
+      "precio_numerico": 54.9,
+      "link": "https://www.metro.pe/miel-de-abeja-cuisine-co-frasco-1100-g/p",
+      "fecha_scraping": "2025-08-25T21:13:35.722120"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Membrillo De la Casa 250g",
+      "precio": "S/ 6.50",
+      "precio_numerico": 6.5,
+      "link": "https://www.metro.pe/mermelada-de-membrillo-de-la-casa-250g-993319/p",
+      "fecha_scraping": "2025-08-25T21:13:35.737513"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mermeladas",
+      "nombre": "Mermelada de Fresa Diet Crema & Nata frasco 330 g",
+      "precio": "S/ 33.90",
+      "precio_numerico": 33.9,
+      "link": "https://www.metro.pe/mermelada-de-fresa-diet-crema-nata-frasco-330-g/p",
+      "fecha_scraping": "2025-08-25T21:13:35.749841"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Cocoa Winter's 150g",
+      "precio": "S/ 13.90",
+      "precio_numerico": 13.9,
+      "link": "https://www.metro.pe/cocoa-winter-s-150g/p",
+      "fecha_scraping": "2025-08-25T21:13:48.658344"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Alimento Granulado Milo Activ-Go Chocolate 350g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/alimento-granulado-milo-activ-go-chocolate-350g-476421001/p",
+      "fecha_scraping": "2025-08-25T21:13:48.668270"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Alimento Granulado Milo Activ-Go 700g",
+      "precio": "S/ 28.90",
+      "precio_numerico": 28.9,
+      "link": "https://www.metro.pe/alimento-granulado-milo-activ-go-700g-1021549/p",
+      "fecha_scraping": "2025-08-25T21:13:48.676608"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Cocoa en Polvo Winter's La Abuelita 150g",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/cocoa-en-polvo-winter-s-la-abuelita-150g-75859/p",
+      "fecha_scraping": "2025-08-25T21:13:48.684575"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Tableta para Taza Sabor Chocolate Clavo y Canela 90g",
+      "precio": "S/ 3.20",
+      "precio_numerico": 3.2,
+      "link": "https://www.metro.pe/tableta-para-taza-sabor-chocolate-clavo-y-canela-90g-48485002/p",
+      "fecha_scraping": "2025-08-25T21:13:48.694386"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Saborizador de Leche Nesquik Chocolate 380g",
+      "precio": "S/ 13.80",
+      "precio_numerico": 13.8,
+      "link": "https://www.metro.pe/saborizador-de-leche-nesquik-chocolate-380g-48343001/p",
+      "fecha_scraping": "2025-08-25T21:13:48.703468"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Bebida Instantánea Winter's Granos Andinos 180g",
+      "precio": "S/ 11.50",
+      "precio_numerico": 11.5,
+      "link": "https://www.metro.pe/bebida-instant-nea-winter-s-granos-andinos-180g-1037960/p",
+      "fecha_scraping": "2025-08-25T21:13:48.711219"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Saborizador de Leche Nesquik Chocolate 470g",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/saborizador-de-leche-nesquik-chocolate-470g-889193/p",
+      "fecha_scraping": "2025-08-25T21:13:48.720031"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Chocolatada en Polvo Batiandino 200g",
+      "precio": "S/ 10.50",
+      "precio_numerico": 10.5,
+      "link": "https://www.metro.pe/chocolatada-en-polvo-batiandino-200g-1041042/p",
+      "fecha_scraping": "2025-08-25T21:13:48.727983"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Bebida Instantánea en Polvo Kiwigen Sabor Fresa 380g",
+      "precio": "S/ 23.10",
+      "precio_numerico": 23.1,
+      "link": "https://www.metro.pe/bebida-instant-nea-en-polvo-kiwigen-sabor-fresa-380g-48339003/p",
+      "fecha_scraping": "2025-08-25T21:13:48.736745"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Alimento Granulado Milo 350g + Pote",
+      "precio": "S/ 17.80",
+      "precio_numerico": 17.8,
+      "link": "https://www.metro.pe/alimento-granulado-milo-350g-pote-1017233/p",
+      "fecha_scraping": "2025-08-25T21:13:48.744079"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Chocolatada en Polvo Miskísimoo 190g",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/chocolatada-en-polvo-misk-simoo-190g-1044386/p",
+      "fecha_scraping": "2025-08-25T21:13:48.753572"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Chocolatada en Polvo Miskísimoo 380g",
+      "precio": "S/ 18.00",
+      "precio_numerico": 18.0,
+      "link": "https://www.metro.pe/chocolatada-en-polvo-misk-simoo-380g-1044387/p",
+      "fecha_scraping": "2025-08-25T21:13:48.761117"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "modificadores",
+      "nombre": "Choco Listo con Marshmallows 150g",
+      "precio": "S/ 12.00",
+      "precio_numerico": 12.0,
+      "link": "https://www.metro.pe/choco-listo-con-marshmallows-150g-1039652/p",
+      "fecha_scraping": "2025-08-25T21:13:48.769694"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Blanco Bimbo XL 770g",
+      "precio": "S/ 12.40",
+      "precio_numerico": 12.4,
+      "link": "https://www.metro.pe/pan-de-molde-blanco-bimbo-xl-770g-1033017/p",
+      "fecha_scraping": "2025-08-25T21:14:02.608939"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Integral Bimbo XL 810g",
+      "precio": "S/ 12.40",
+      "precio_numerico": 12.4,
+      "link": "https://www.metro.pe/pan-de-molde-integral-bimbo-xl-810g-1033018/p",
+      "fecha_scraping": "2025-08-25T21:14:02.618734"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Tortillas de Trigo Clásicas Rapiditas Bimbo Paquete 12 unid",
+      "precio": "S/ 8.50",
+      "precio_numerico": 8.5,
+      "link": "https://www.metro.pe/tortillas-de-trigo-clasicas-rapiditas-bimbo-paquete-12-unid-2/p",
+      "fecha_scraping": "2025-08-25T21:14:02.628198"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Don Mamino Blanco Sin Corteza Bolsa 560 g",
+      "precio": "S/ 13.70",
+      "precio_numerico": 13.7,
+      "link": "https://www.metro.pe/pan-de-molde-don-mamino-blanco-sin-corteza-bolsa-560-g/p",
+      "fecha_scraping": "2025-08-25T21:14:02.640041"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde de Semillas Bimbo Vital Bolsa 600 g",
+      "precio": "S/ 12.90",
+      "precio_numerico": 12.9,
+      "link": "https://www.metro.pe/pan-de-molde-de-semillas-bimbo-vital-bolsa-600-g/p",
+      "fecha_scraping": "2025-08-25T21:14:02.651514"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Tortillas Bimbo Rapiditas Cero Cero 280g",
+      "precio": "S/ 8.50",
+      "precio_numerico": 8.5,
+      "link": "https://www.metro.pe/tortillas-bimbo-rapiditas-cero-cero-280g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:02.661517"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Multicereal Bimbo Vital Bolsa 600 g",
+      "precio": "S/ 12.90",
+      "precio_numerico": 12.9,
+      "link": "https://www.metro.pe/pan-de-molde-multicereal-bimbo-vital-bolsa-600-g/p",
+      "fecha_scraping": "2025-08-25T21:14:02.669813"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Blanco Sin Corteza Bimbo 650g",
+      "precio": "S/ 16.50",
+      "precio_numerico": 16.5,
+      "link": "https://www.metro.pe/pan-de-molde-blanco-sin-corteza-bimbo-650g/p",
+      "fecha_scraping": "2025-08-25T21:14:02.679881"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Tortillas de Trigo Integrales Rapiditas Bimbo Paquete 12 unid",
+      "precio": "S/ 8.50",
+      "precio_numerico": 8.5,
+      "link": "https://www.metro.pe/tortillas-de-trigo-integrales-rapiditas-bimbo-paquete-12-unid-2/p",
+      "fecha_scraping": "2025-08-25T21:14:02.690224"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Unión Multisemillas con Avena 540g",
+      "precio": "S/ 12.90",
+      "precio_numerico": 12.9,
+      "link": "https://www.metro.pe/pan-de-molde-union-multisemillas-con-avena-540g/p",
+      "fecha_scraping": "2025-08-25T21:14:02.698806"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Tipo Artesanal Bimbo Artesano Original 560g",
+      "precio": "S/ 12.50",
+      "precio_numerico": 12.5,
+      "link": "https://www.metro.pe/pan-de-molde-tipo-artesanal-bimbo-artesano-original-560g/p",
+      "fecha_scraping": "2025-08-25T21:14:02.707948"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan Árabe Integral El Cedro 10un",
+      "precio": "S/ 7.90",
+      "precio_numerico": 7.9,
+      "link": "https://www.metro.pe/pan-arabe-integral-el-cedro-10un/p",
+      "fecha_scraping": "2025-08-25T21:14:02.716635"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan Pita Bimbo Cero Cero 240g",
+      "precio": "S/ 7.70",
+      "precio_numerico": 7.7,
+      "link": "https://www.metro.pe/pan-pita-bimbo-cero-cero-240g/p",
+      "fecha_scraping": "2025-08-25T21:14:02.727728"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Pan de Molde Blanco Cuisine & Co 600g",
+      "precio": "S/ 9.20",
+      "precio_numerico": 9.2,
+      "link": "https://www.metro.pe/pan-de-molde-blanco-cuisine-co-600g-115504/p",
+      "fecha_scraping": "2025-08-25T21:14:02.737710"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Galletas de Maíz Horneadas Salmas 144g",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/galletas-de-maiz-horneadas-salmas-144g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:02.746958"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "panes",
+      "nombre": "Tripack Tortillas de Trigo Rapiditas Clásicas 12un",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/tripack-tortillas-de-trigo-rapiditas-clasicas-12un-1016487/p",
+      "fecha_scraping": "2025-08-25T21:14:02.755478"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Semilla Chia Naturandes",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/semilla-chia-naturandes-710167/p",
+      "fecha_scraping": "2025-08-25T21:14:15.562882"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Cacao Criollo en Polvo Ecoandino Orgánico 200g",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/cacao-criollo-en-polvo-ecoandino-organico-200g/p",
+      "fecha_scraping": "2025-08-25T21:14:15.573866"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional Vainilla Ensure Advance: 850g + 400g",
+      "precio": "S/ 147.90",
+      "precio_numerico": 147.9,
+      "link": "https://www.metro.pe/suplemento-nutricional-vainilla-ensure-advance-850g-400g-712362/p",
+      "fecha_scraping": "2025-08-25T21:14:15.584263"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Chía Negra Orgánica Ecoandino 250g",
+      "precio": "S/ 18.50",
+      "precio_numerico": 18.5,
+      "link": "https://www.metro.pe/chia-negra-organica-ecoandino-250g-1007880/p",
+      "fecha_scraping": "2025-08-25T21:14:15.598928"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Cacao en Polvo Orgánico Inka Forest 150g",
+      "precio": "S/ 20.50",
+      "precio_numerico": 20.5,
+      "link": "https://www.metro.pe/cacao-en-polvo-organico-inka-forest-150g-786957/p",
+      "fecha_scraping": "2025-08-25T21:14:15.610338"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Pack x2 Suplemento Nutricional Chocolate Ensure Advance: 850g + 400g",
+      "precio": "S/ 147.90",
+      "precio_numerico": 147.9,
+      "link": "https://www.metro.pe/pack-x2-suplemento-nutricional-chocolate-ensure-advance-850g-400g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:15.624027"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional en Polvo Pediasure Chocolate 1.6kg",
+      "precio": "S/ 189.90",
+      "precio_numerico": 189.9,
+      "link": "https://www.metro.pe/suplemento-nutricional-en-polvo-pediasure-chocolate-1-6kg-1033635/p",
+      "fecha_scraping": "2025-08-25T21:14:15.635049"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional en Polvo Pediasure Vainilla 1.6kg",
+      "precio": "S/ 189.90",
+      "precio_numerico": 189.9,
+      "link": "https://www.metro.pe/suplemento-nutricional-en-polvo-pediasure-vainilla-1-6kg-1033634/p",
+      "fecha_scraping": "2025-08-25T21:14:15.646683"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional Glucerna Vainilla 850g",
+      "precio": "S/ 139.90",
+      "precio_numerico": 139.9,
+      "link": "https://www.metro.pe/suplemento-nutricional-glucerna-vainilla-850g-435376/p",
+      "fecha_scraping": "2025-08-25T21:14:15.659413"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Pack x13 Suplemento Nutricional Ensure Advance Sabor Vainilla 220ml",
+      "precio": "S/ 143.10",
+      "precio_numerico": 143.1,
+      "link": "https://www.metro.pe/pack-x13-suplemento-nutricional-ensure-advance-sabor-vainilla-220ml-1042581/p",
+      "fecha_scraping": "2025-08-25T21:14:15.673643"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Pack x13 Suplemento Nutricional Ensure Advance Chocolate 220ml",
+      "precio": "S/ 143.10",
+      "precio_numerico": 143.1,
+      "link": "https://www.metro.pe/pack-x13-suplemento-nutricional-ensure-advance-chocolate-220ml-1042582/p",
+      "fecha_scraping": "2025-08-25T21:14:15.686287"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional en Polvo Ensure Advance Vainilla 850g",
+      "precio": "S/ 111.90",
+      "precio_numerico": 111.9,
+      "link": "https://www.metro.pe/suplemento-nutricional-en-polvo-ensure-advance-vainilla-850g-406024/p",
+      "fecha_scraping": "2025-08-25T21:14:15.698379"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional en Polvo Pediasure 10+ Vainilla 850g",
+      "precio": "S/ 105.00",
+      "precio_numerico": 105.0,
+      "link": "https://www.metro.pe/suplemento-nutricional-en-polvo-pediasure-10-vainilla-850g-1042374/p",
+      "fecha_scraping": "2025-08-25T21:14:15.711004"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Pack x13 Suplemento Nutricional para Diabéticos Vainilla Glucerna 237ml",
+      "precio": "S/ 179.90",
+      "precio_numerico": 179.9,
+      "link": "https://www.metro.pe/pack-x13-suplemento-nutricional-para-diab-ticos-vainilla-glucerna-237ml-1042583/p",
+      "fecha_scraping": "2025-08-25T21:14:15.721891"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Bebida Nutricional Pediasure Vainilla 220ml",
+      "precio": "S/ 10.90",
+      "precio_numerico": 10.9,
+      "link": "https://www.metro.pe/bebida-nutricional-pediasure-vainilla-220ml-1033636/p",
+      "fecha_scraping": "2025-08-25T21:14:15.732992"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Maca Negra en Polvo Ecoandino Orgánico 200g",
+      "precio": "S/ 27.90",
+      "precio_numerico": 27.9,
+      "link": "https://www.metro.pe/maca-negra-en-polvo-ecoandino-organico-200g-938694/p",
+      "fecha_scraping": "2025-08-25T21:14:15.744695"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Complemento Nutricional Sabor Chocolate PVM Junior 360g",
+      "precio": "S/ 35.90",
+      "precio_numerico": 35.9,
+      "link": "https://www.metro.pe/complemento-nutricional-sabor-chocolate-pvm-junior-360g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:15.756159"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Pack x13 Bebida Nutricional Pediasure Vainilla 220ml",
+      "precio": "S/ 136.50",
+      "precio_numerico": 136.5,
+      "link": "https://www.metro.pe/pack-x13-bebida-nutricional-pediasure-vainilla-220ml-1042579/p",
+      "fecha_scraping": "2025-08-25T21:14:15.767081"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional en Polvo Ensure Advance Fresa y Plátano 850g",
+      "precio": "S/ 111.90",
+      "precio_numerico": 111.9,
+      "link": "https://www.metro.pe/suplemento-nutricional-en-polvo-ensure-advance-fresa-y-pl-tano-850g-946271/p",
+      "fecha_scraping": "2025-08-25T21:14:15.779257"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Chía Orgánica Vidandina Doypack 250 g",
+      "precio": "S/ 20.50",
+      "precio_numerico": 20.5,
+      "link": "https://www.metro.pe/chia-organica-vidandina-doypack-250-g/p",
+      "fecha_scraping": "2025-08-25T21:14:15.791663"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Apoyo Nutricional Sustagen Pro Altura y Peso Vainilla 400g",
+      "precio": "S/ 50.30",
+      "precio_numerico": 50.3,
+      "link": "https://www.metro.pe/apoyo-nutricional-sustagen-pro-altura-y-peso-vainilla-400g/p",
+      "fecha_scraping": "2025-08-25T21:14:15.801742"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Bebida Instantánea +Nutri Smuti Avena Chocolate 200g",
+      "precio": "S/ 15.50",
+      "precio_numerico": 15.5,
+      "link": "https://www.metro.pe/bebida-instant-nea-nutri-smuti-avena-chocolate-200g-1025868/p",
+      "fecha_scraping": "2025-08-25T21:14:15.813028"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nutricional en Polvo Pediasure Chocolate: 850g + 400g",
+      "precio": "S/ 189.40",
+      "precio_numerico": 189.4,
+      "link": "https://www.metro.pe/suplemento-nutricional-en-polvo-pediasure-chocolate-850g-400g-1042585/p",
+      "fecha_scraping": "2025-08-25T21:14:15.823819"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "suplementos",
+      "nombre": "Suplemento Nopal Mix Fibra Naturandes 200G",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/suplemento-nopal-mix-fibra-naturandes-200g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:15.834717"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Sixpack Leche Reconstituida Gloria Lata 390g",
+      "precio": "S/ 22.70",
+      "precio_numerico": 22.7,
+      "link": "https://www.metro.pe/sixpack-leche-reconstituida-gloria-lata-390g-975289/p",
+      "fecha_scraping": "2025-08-25T21:14:28.111867"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Sixpack Leche Ultrafiltrada Sin Lactosa Gloria Zero Lacto Lata 390g",
+      "precio": "S/ 23.90",
+      "precio_numerico": 23.9,
+      "link": "https://www.metro.pe/sixpack-leche-ultrafiltrada-sin-lactosa-gloria-zero-lacto-lata-390g-1013114/p",
+      "fecha_scraping": "2025-08-25T21:14:28.120691"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Sixpaxk Leche Reconstituida Gloria Light Lata 390g",
+      "precio": "S/ 23.90",
+      "precio_numerico": 23.9,
+      "link": "https://www.metro.pe/sixpack-leche-reconstituida-gloria-light-lata-390g-976625/p",
+      "fecha_scraping": "2025-08-25T21:14:28.136398"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Sixpack Leche Concentrada Sin Lactosa Laive Botella 390g",
+      "precio": "S/ 23.90",
+      "precio_numerico": 23.9,
+      "link": "https://www.metro.pe/sixpack-leche-concentrada-sin-lactosa-laive-botella-390g-923850/p",
+      "fecha_scraping": "2025-08-25T21:14:28.170232"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/tripack-leche-uht-sin-lactosa-gloria-zero-lacto-caja-1l-1013118/p",
+      "fecha_scraping": "2025-08-25T21:14:28.183885"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Pack x6 Mezcla Láctea Laive Sin Lactosa 480g",
+      "precio": "S/ 20.90",
+      "precio_numerico": 20.9,
+      "link": "https://www.metro.pe/pack-x6-mezcla-lactea-laive-sin-lactosa-480g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:28.192738"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Tripack Leche Entera UHT Gloria Caja 1L",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/tripack-leche-entera-uht-gloria-caja-946ml-100482/p",
+      "fecha_scraping": "2025-08-25T21:14:28.201993"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "leches",
+      "nombre": "Fourpack Leche Semidescremada UHT Laive Sin Lactosa Caja 946ml",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/fourpack-leche-semidescremada-uht-laive-sin-lactosa-caja-946ml-337344/p",
+      "fecha_scraping": "2025-08-25T21:14:28.210544"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Gloria Fresa Galonera 1.6kg",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/yogurt-bebible-gloria-fresa-galonera-1-6kg-110363002/p",
+      "fecha_scraping": "2025-08-25T21:14:40.463235"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Griego Vakimu Original 1 Kg",
+      "precio": "S/ 17.50",
+      "precio_numerico": 17.5,
+      "link": "https://www.metro.pe/yogurt-griego-vakimu-original-1-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.476681"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Griego Descremado Danlac Sabor Natural Frasco 900g",
+      "precio": "S/ 16.90",
+      "precio_numerico": 16.9,
+      "link": "https://www.metro.pe/yogurt-griego-descremado-danlac-sabor-natural-frasco-900g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.488364"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Gloria Vainilla Galonera 1.6kg",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/yogurt-bebible-gloria-vainilla-galonera-1-6kg-110363003/p",
+      "fecha_scraping": "2025-08-25T21:14:40.500614"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Estilo Kéfir Danlac Botella 900g",
+      "precio": "S/ 20.50",
+      "precio_numerico": 20.5,
+      "link": "https://www.metro.pe/yogurt-estilo-kefir-danlac-botella-900g-1031087/p",
+      "fecha_scraping": "2025-08-25T21:14:40.510524"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Griego Vakimu Frutos del Bosque 1 Kg",
+      "precio": "S/ 17.50",
+      "precio_numerico": 17.5,
+      "link": "https://www.metro.pe/yogurt-griego-vakimu-frutos-del-bosque-1-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.520213"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Gloria Battimix Vainilla 146g",
+      "precio": "S/ 3.20",
+      "precio_numerico": 3.2,
+      "link": "https://www.metro.pe/yogurt-gloria-battimix-vainilla-146g-49186001/p",
+      "fecha_scraping": "2025-08-25T21:14:40.531794"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Gloria Griego Sabor Frutos Rojos 800g",
+      "precio": "S/ 6.70",
+      "precio_numerico": 6.7,
+      "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-frutos-rojos-800g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.541354"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Natural SKYR Plusa 500g",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/yogurt-natural-skyr-plusa-500g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.552414"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Frutado con Fresa Danlac Botella 900g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/yogurt-frutado-con-fresa-danlac-botella-900g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.563290"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Gloria Griego Sabor Natural 800g",
+      "precio": "S/ 6.70",
+      "precio_numerico": 6.7,
+      "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-natural-800g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.575380"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Gloria Lúcuma Galonera 1.6kg",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/yogurt-bebible-gloria-l-cuma-galonera-1-6kg-110363004/p",
+      "fecha_scraping": "2025-08-25T21:14:40.585621"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Griego Descremado con Arándano Danlac Frasco 900g",
+      "precio": "S/ 17.75",
+      "precio_numerico": 17.75,
+      "link": "https://www.metro.pe/yogurt-griego-descremado-con-arandano-danlac-frasco-900g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.595506"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Frutado Danlac Maracumango 900g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/yogurt-frutado-danlac-maracumango-900g-511082005/p",
+      "fecha_scraping": "2025-08-25T21:14:40.607834"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Gloria Durazno Galonera 1.6kg",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/yogurt-bebible-gloria-durazno-galonera-1-6kg-110363001/p",
+      "fecha_scraping": "2025-08-25T21:14:40.619724"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Gloria Griego Sabor Frutos Rojos 120g",
+      "precio": "S/ 2.30",
+      "precio_numerico": 2.3,
+      "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-frutos-rojos-120g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.632524"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Gloria Slim Vainilla Galonera 1.7kg",
+      "precio": "S/ 12.10",
+      "precio_numerico": 12.1,
+      "link": "https://www.metro.pe/yogurt-bebible-gloria-slim-vainilla-galonera-1-7kg-470487002/p",
+      "fecha_scraping": "2025-08-25T21:14:40.644281"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Gloria Griego con Miel 800g",
+      "precio": "S/ 6.70",
+      "precio_numerico": 6.7,
+      "link": "https://www.metro.pe/yogurt-gloria-griego-con-miel-800g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.659780"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Gloria Griego Sabor Mango 120g",
+      "precio": "S/ 2.30",
+      "precio_numerico": 2.3,
+      "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-mango-120g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.671052"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Vakimu +Pro Fresa 500g",
+      "precio": "S/ 13.18",
+      "precio_numerico": 13.18,
+      "link": "https://www.metro.pe/yogurt-vakimu-pro-fresa-500g/p",
+      "fecha_scraping": "2025-08-25T21:14:40.682210"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Gloria Natural Botella 946g",
+      "precio": "S/ 6.30",
+      "precio_numerico": 6.3,
+      "link": "https://www.metro.pe/yogurt-bebible-gloria-natural-botella-946g-48255006/p",
+      "fecha_scraping": "2025-08-25T21:14:40.707287"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Laive Sbelt Sabor Durazno 1.7kg",
+      "precio": "S/ 12.20",
+      "precio_numerico": 12.2,
+      "link": "https://www.metro.pe/yogurt-bebible-laive-sbelt-sabor-durazno-1-7kg-183009003/p",
+      "fecha_scraping": "2025-08-25T21:14:40.730703"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Gloria Vainilla Botella 180 g",
+      "precio": "S/ 2.10",
+      "precio_numerico": 2.1,
+      "link": "https://www.metro.pe/yogurt-bebible-gloria-vainilla-botella-180-g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:40.742472"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "yogures",
+      "nombre": "Yogurt Bebible Laive Sbelt Sabor Fresa 946g",
+      "precio": "S/ 6.30",
+      "precio_numerico": 6.3,
+      "link": "https://www.metro.pe/yogurt-bebible-laive-sbelt-sabor-fresa-946g-49114001/p",
+      "fecha_scraping": "2025-08-25T21:14:40.750797"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla con Sal Gloria 390g",
+      "precio": "S/ 17.90",
+      "precio_numerico": 17.9,
+      "link": "https://www.metro.pe/mantequilla-con-sal-gloria-390g/p",
+      "fecha_scraping": "2025-08-25T21:14:51.972426"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla con Sal Gloria 180g",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/mantequilla-con-sal-gloria-180g-42081/p",
+      "fecha_scraping": "2025-08-25T21:14:51.982488"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla con Sal Laive 180g",
+      "precio": "S/ 11.40",
+      "precio_numerico": 11.4,
+      "link": "https://www.metro.pe/mantequilla-con-sal-laive-180g-2/p",
+      "fecha_scraping": "2025-08-25T21:14:51.990858"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Margarina Sello de Oro Barra 200g",
+      "precio": "S/ 4.60",
+      "precio_numerico": 4.6,
+      "link": "https://www.metro.pe/margarina-sello-de-oro-barra-200g-39319/p",
+      "fecha_scraping": "2025-08-25T21:14:52.001193"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla Plusa Con Sal Barra 200 g",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/mantequilla-plusa-con-sal-barra-200-g/p",
+      "fecha_scraping": "2025-08-25T21:14:52.011610"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla Gloria Sin Sal 180g",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/mantequilla-gloria-sin-sal-180g-455388/p",
+      "fecha_scraping": "2025-08-25T21:14:52.021803"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Margarina Manty Clásica 300g",
+      "precio": "S/ 5.70",
+      "precio_numerico": 5.7,
+      "link": "https://www.metro.pe/margarina-manty-clasica-300g/p",
+      "fecha_scraping": "2025-08-25T21:14:52.031845"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla con Sal Gloria 180g",
+      "precio": "S/ 11.80",
+      "precio_numerico": 11.8,
+      "link": "https://www.metro.pe/mantequilla-con-sal-gloria-180g-359806/p",
+      "fecha_scraping": "2025-08-25T21:14:52.040846"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla La Chuguranita Barra 150 g",
+      "precio": "S/ 17.90",
+      "precio_numerico": 17.9,
+      "link": "https://www.metro.pe/mantequilla-la-chuguranita-barra-150-g/p",
+      "fecha_scraping": "2025-08-25T21:14:52.050911"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla con Sal Arias 235g",
+      "precio": "S/ 35.90",
+      "precio_numerico": 35.9,
+      "link": "https://www.metro.pe/mantequilla-con-sal-arias-235g-767264/p",
+      "fecha_scraping": "2025-08-25T21:14:52.060143"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla Sin Sal Paysan Breton Barra 200 g",
+      "precio": "S/ 28.90",
+      "precio_numerico": 28.9,
+      "link": "https://www.metro.pe/mantequilla-sin-sal-paysan-breton-barra-200-g/p",
+      "fecha_scraping": "2025-08-25T21:14:52.069987"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla Con Sal Paysan Breton Barra 200 g",
+      "precio": "S/ 28.90",
+      "precio_numerico": 28.9,
+      "link": "https://www.metro.pe/mantequilla-con-sal-paysan-breton-barra-200-g/p",
+      "fecha_scraping": "2025-08-25T21:14:52.078866"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla Sin Sal Arias 235g",
+      "precio": "S/ 35.90",
+      "precio_numerico": 35.9,
+      "link": "https://www.metro.pe/mantequilla-sin-sal-arias-235g-767265/p",
+      "fecha_scraping": "2025-08-25T21:14:52.087490"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "mantequillas",
+      "nombre": "Mantequilla Asturiana 125g",
+      "precio": "S/ 16.70",
+      "precio_numerico": 16.7,
+      "link": "https://www.metro.pe/mantequilla-asturiana-125g/p",
+      "fecha_scraping": "2025-08-25T21:14:52.097512"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam Laive en Tajadas 440g",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/queso-edam-laive-en-tajadas-440g-878610/p",
+      "fecha_scraping": "2025-08-25T21:15:04.625287"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Fresco Bonlé x kg",
+      "precio": "S/ 33.90",
+      "precio_numerico": 33.9,
+      "link": "https://www.metro.pe/queso-fresco-bonle-x-kg-432076/p",
+      "fecha_scraping": "2025-08-25T21:15:04.638423"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Philadelphia Kraft Original Caja 180 g",
+      "precio": "S/ 10.90",
+      "precio_numerico": 10.9,
+      "link": "https://www.metro.pe/queso-philadelphia-kraft-original-caja-180-g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.650860"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam Bonlé en Tajadas 500g",
+      "precio": "S/ 23.50",
+      "precio_numerico": 23.5,
+      "link": "https://www.metro.pe/queso-edam-bonle-en-tajadas-500g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.664432"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Mozzarella Bonlé bola 250 g",
+      "precio": "S/ 12.50",
+      "precio_numerico": 12.5,
+      "link": "https://www.metro.pe/queso-mozzarella-bonle-bola-250-g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.677036"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam Laive + Jamón Americano Suiza 300g",
+      "precio": "S/ 11.50",
+      "precio_numerico": 11.5,
+      "link": "https://www.metro.pe/queso-edam-laive-jamon-americano-suiza-300g-768128/p",
+      "fecha_scraping": "2025-08-25T21:15:04.688707"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Fresco Light Cuisine & Co x kg",
+      "precio": "S/ 37.00",
+      "precio_numerico": 37.0,
+      "link": "https://www.metro.pe/queso-fresco-light-cuisine-co-x-kg-404744/p",
+      "fecha_scraping": "2025-08-25T21:15:04.700431"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Fresco Cuisine & Co x kg",
+      "precio": "S/ 37.00",
+      "precio_numerico": 37.0,
+      "link": "https://www.metro.pe/queso-fresco-cuisine-co-x-kg-3/p",
+      "fecha_scraping": "2025-08-25T21:15:04.714039"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Parmesano Bonlé Sobre 35 g",
+      "precio": "S/ 4.40",
+      "precio_numerico": 4.4,
+      "link": "https://www.metro.pe/queso-parmesano-bonle-sobre-35-g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.728269"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam en Tajadas Braedt 180g",
+      "precio": "S/ 10.99",
+      "precio_numerico": 10.99,
+      "link": "https://www.metro.pe/queso-edam-en-tajadas-braedt-180g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.745078"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Fresco Sin Lactosa Laive x kg",
+      "precio": "S/ 39.00",
+      "precio_numerico": 39.0,
+      "link": "https://www.metro.pe/queso-fresco-sin-lactosa-laive-x-kg-903367/p",
+      "fecha_scraping": "2025-08-25T21:15:04.760495"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam Gloria en Tajadas 500g",
+      "precio": "S/ 24.90",
+      "precio_numerico": 24.9,
+      "link": "https://www.metro.pe/queso-edam-gloria-en-tajadas-500g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.776554"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam Laive Sin Lactosa 180g",
+      "precio": "S/ 13.50",
+      "precio_numerico": 13.5,
+      "link": "https://www.metro.pe/queso-edam-laive-sin-lactosa-180g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.791653"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam Braedt 440g",
+      "precio": "S/ 23.50",
+      "precio_numerico": 23.5,
+      "link": "https://www.metro.pe/queso-edam-braedt-440g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.806082"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Gouda en Tajadas Braedt 180g",
+      "precio": "S/ 10.99",
+      "precio_numerico": 10.99,
+      "link": "https://www.metro.pe/queso-gouda-en-tajadas-braedt-180g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.821002"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Cottage Plusa pote 225 g",
+      "precio": "S/ 11.70",
+      "precio_numerico": 11.7,
+      "link": "https://www.metro.pe/queso-cottage-plusa-pote-225-g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.834993"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Parmesano Rallado Pote 100 g",
+      "precio": "S/ 10.70",
+      "precio_numerico": 10.7,
+      "link": "https://www.metro.pe/queso-parmesano-rallado-pote-100-g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.848479"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso tipo Suizo Cajamarca El Prado molde redondo x kg",
+      "precio": "S/ 52.90",
+      "precio_numerico": 52.9,
+      "link": "https://www.metro.pe/queso-tipo-suizo-cajamarca-el-prado-molde-redondo-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.861940"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Mozzarella Ligth Cuisine & Co Bola 200g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/queso-mozzarella-ligth-cuisine-co-bola-200g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.875843"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Blando Mascarpone Zanetti Pote 250 gr",
+      "precio": "S/ 28.90",
+      "precio_numerico": 28.9,
+      "link": "https://www.metro.pe/queso-blando-mascarpone-zanetti-pote-250-gr-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.887555"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Paria Arequipa x kg",
+      "precio": "S/ 55.50",
+      "precio_numerico": 55.5,
+      "link": "https://www.metro.pe/queso-paria-arequipa-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.899381"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Edam Laive 90g",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/queso-edam-laive-90g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:04.911407"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Andino Gloria Cajamarca 500g",
+      "precio": "S/ 33.90",
+      "precio_numerico": 33.9,
+      "link": "https://www.metro.pe/queso-andino-gloria-cajamarca-500g-1041647/p",
+      "fecha_scraping": "2025-08-25T21:15:04.927192"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "queseria",
+      "nombre": "Queso Duro Parmesano Rallado Crystal Farms Frasco 226 gr",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/queso-duro-parmesano-rallado-crystal-farms-frasco-226-gr-363884/p",
+      "fecha_scraping": "2025-08-25T21:15:04.944098"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico Suave Resistemax 40un",
+      "precio": "S/ 20.50",
+      "precio_numerico": 20.5,
+      "link": "https://www.metro.pe/papel-higi-nico-suave-resistemax-40un-768396/p",
+      "fecha_scraping": "2025-08-25T21:15:13.853962"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico Doble Hoja Elite Cuidado Clásico 40un",
+      "precio": "S/ 24.50",
+      "precio_numerico": 24.5,
+      "link": "https://www.metro.pe/papel-higienico-doble-hoja-elite-cuidado-clasico-40un/p",
+      "fecha_scraping": "2025-08-25T21:15:13.864928"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Papel Toalla Nova Clásica Megarrollo 6un",
+      "precio": "S/ 13.90",
+      "precio_numerico": 13.9,
+      "link": "https://www.metro.pe/papel-toalla-nova-cl-sica-megarrollo-6un-990942/p",
+      "fecha_scraping": "2025-08-25T21:15:13.875267"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico Doble Hoja Higienol 24un",
+      "precio": "S/ 38.90",
+      "precio_numerico": 38.9,
+      "link": "https://www.metro.pe/papel-higienico-doble-hoja-higienol-24un-756659/p",
+      "fecha_scraping": "2025-08-25T21:15:13.886135"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico Paracas Doble Hoja 18un",
+      "precio": "S/ 32.90",
+      "precio_numerico": 32.9,
+      "link": "https://www.metro.pe/papel-higienico-paracas-doble-hoja-18un-1019399/p",
+      "fecha_scraping": "2025-08-25T21:15:13.897045"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Detergente en Polvo Marsella Lavanda y Rosas 4kg",
+      "precio": "S/ 32.90",
+      "precio_numerico": 32.9,
+      "link": "https://www.metro.pe/detergente-en-polvo-marsella-lavanda-y-rosas-4kg-415669/p",
+      "fecha_scraping": "2025-08-25T21:15:13.907088"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Lavavajillas Líquido Home Care Limón 4L",
+      "precio": "S/ 20.90",
+      "precio_numerico": 20.9,
+      "link": "https://www.metro.pe/lavavajillas-liquido-home-care-limon-4l-1011390/p",
+      "fecha_scraping": "2025-08-25T21:15:13.915861"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Jabón para Ropa Bolívar Floral 380g",
+      "precio": "S/ 5.10",
+      "precio_numerico": 5.1,
+      "link": "https://www.metro.pe/jabon-para-ropa-bolivar-floral-380g-78756002/p",
+      "fecha_scraping": "2025-08-25T21:15:13.925906"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Servilletas Dobladas en 2 Elite Práctica Paquete 500 Unidades",
+      "precio": "S/ 12.50",
+      "precio_numerico": 12.5,
+      "link": "https://www.metro.pe/servilletas-dobladas-en-2-elite-practica-paquete-500-unidades-2/p",
+      "fecha_scraping": "2025-08-25T21:15:13.936917"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Lavavajilla en Pasta Sapolio Limón 800g",
+      "precio": "S/ 5.50",
+      "precio_numerico": 5.5,
+      "link": "https://www.metro.pe/lavavajilla-en-pasta-sapolio-lim-n-800g-136482001/p",
+      "fecha_scraping": "2025-08-25T21:15:13.948733"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Detergente Líquido Home Care Matic Floral 3L",
+      "precio": "S/ 20.90",
+      "precio_numerico": 20.9,
+      "link": "https://www.metro.pe/detergente-l-quido-home-care-matic-floral-3l-1017377/p",
+      "fecha_scraping": "2025-08-25T21:15:13.960640"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Detergente en Polvo Sapolio Aros de Poder Feria de Flores 2kg",
+      "precio": "S/ 15.50",
+      "precio_numerico": 15.5,
+      "link": "https://www.metro.pe/detergente-en-polvo-sapolio-aros-de-poder-feria-de-flores-2kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:13.974882"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Papel Toalla Elite Triple Absorción 4un",
+      "precio": "S/ 16.00",
+      "precio_numerico": 16.0,
+      "link": "https://www.metro.pe/papel-toalla-elite-triple-absorcion-4un-1016915/p",
+      "fecha_scraping": "2025-08-25T21:15:13.986946"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Detergente en Polvo Sapolio Aros de Poder Bebé 4kg",
+      "precio": "S/ 28.50",
+      "precio_numerico": 28.5,
+      "link": "https://www.metro.pe/detergente-en-polvo-sapolio-aros-de-poder-bebe-4kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:13.998585"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Quitamanchas Líquido Sapolio Ropa Color 1.8L",
+      "precio": "S/ 15.70",
+      "precio_numerico": 15.7,
+      "link": "https://www.metro.pe/quitamanchas-liquido-sapolio-ropa-color-1-8l-2/p",
+      "fecha_scraping": "2025-08-25T21:15:14.013190"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "limpieza",
+      "nombre": "Papel Higiénico Suave Resistemax 40m 12un",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/papel-higi-nico-suave-resistemax-40m-12un-987067/p",
+      "fecha_scraping": "2025-08-25T21:15:14.029833"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Huevos Pardos Metro 30un",
+      "precio": "S/ 20.90",
+      "precio_numerico": 20.9,
+      "link": "https://www.metro.pe/huevos-pardos-metro-30un-1009776/p",
+      "fecha_scraping": "2025-08-25T21:15:28.027779"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Pollo Entero con Menudencia Metro x kg",
+      "precio": "S/ 9.40",
+      "precio_numerico": 9.4,
+      "link": "https://www.metro.pe/pollo-entero-con-menudencia-metro-x-kg-26334/p",
+      "fecha_scraping": "2025-08-25T21:15:28.038903"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Huevos Clásicos Pardos La Calera 30un",
+      "precio": "S/ 20.50",
+      "precio_numerico": 20.5,
+      "link": "https://www.metro.pe/huevos-clasicos-pardos-la-calera-30un-2/p",
+      "fecha_scraping": "2025-08-25T21:15:28.052212"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Huevos Pardos Metro 15un",
+      "precio": "S/ 8.90",
+      "precio_numerico": 8.9,
+      "link": "https://www.metro.pe/huevos-pardos-metro-15un-2/p",
+      "fecha_scraping": "2025-08-25T21:15:28.062708"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Filete de Pechuga Pollo Redondos x kg",
+      "precio": "S/ 25.40",
+      "precio_numerico": 25.4,
+      "link": "https://www.metro.pe/filete-de-pechuga-pollo-redondos-x-kg-1001791/p",
+      "fecha_scraping": "2025-08-25T21:15:28.074402"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Huevos Pardos Metro Bandeja 90 Unid",
+      "precio": "S/ 41.90",
+      "precio_numerico": 41.9,
+      "link": "https://www.metro.pe/huevos-pardos-metro-bandeja-90-unid-2/p",
+      "fecha_scraping": "2025-08-25T21:15:28.085632"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Pechuga Especial de Pollo Redondos x kg",
+      "precio": "S/ 17.50",
+      "precio_numerico": 17.5,
+      "link": "https://www.metro.pe/pechuga-especial-de-pollo-redondos-x-kg-1001794/p",
+      "fecha_scraping": "2025-08-25T21:15:28.095311"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Pollo con Menudencia Redondos x kg",
+      "precio": "S/ 8.30",
+      "precio_numerico": 8.3,
+      "link": "https://www.metro.pe/pollo-con-menudencia-redondos-x-kg-1007298/p",
+      "fecha_scraping": "2025-08-25T21:15:28.105680"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Molleja de Pollo Importada Congelada x kg",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/molleja-de-pollo-importada-congelada-x-kg-470773/p",
+      "fecha_scraping": "2025-08-25T21:15:28.115222"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Alitas Búfalo Redondos Caja 400 g",
+      "precio": "S/ 15.70",
+      "precio_numerico": 15.7,
+      "link": "https://www.metro.pe/alitas-bufalo-redondos-caja-400-g-469854/p",
+      "fecha_scraping": "2025-08-25T21:15:28.125433"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Medallón de Muslo de Pavita x kg",
+      "precio": "S/ 22.70",
+      "precio_numerico": 22.7,
+      "link": "https://www.metro.pe/medallon-de-muslo-de-pavita-x-kg-5930/p",
+      "fecha_scraping": "2025-08-25T21:15:28.136592"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Muslo de Pollo Light Redondos x kg",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/muslo-de-pollo-light-redondos-x-kg-1001803/p",
+      "fecha_scraping": "2025-08-25T21:15:28.145618"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Brazuelo de Pavita San Fernando x kg",
+      "precio": "S/ 13.20",
+      "precio_numerico": 13.2,
+      "link": "https://www.metro.pe/brazuelo-de-pavita-san-fernando-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:28.156185"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Alitas de Pollo Redondo Sabor Brasa Caja 400g",
+      "precio": "S/ 15.70",
+      "precio_numerico": 15.7,
+      "link": "https://www.metro.pe/alitas-sabor-brasa-redondos-x400g/p",
+      "fecha_scraping": "2025-08-25T21:15:28.165733"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Alas Pollo Congeladas San Fernando x kg",
+      "precio": "S/ 16.30",
+      "precio_numerico": 16.3,
+      "link": "https://www.metro.pe/alas-pollo-congeladas-san-fernando-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:28.176258"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "aves_huevos",
+      "nombre": "Pollo al Horno San Fernando Bolsa 800 g / Medio pollo en 4 Piezas",
+      "precio": "S/ 17.80",
+      "precio_numerico": 17.8,
+      "link": "https://www.metro.pe/pollo-al-horno-san-fernando-bolsa-800-g-medio-pollo-en-4-piezas/p",
+      "fecha_scraping": "2025-08-25T21:15:28.186287"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Tilapia en Filetes Congelada Cuisine & Co 1kg",
+      "precio": "S/ 23.31",
+      "precio_numerico": 23.31,
+      "link": "https://www.metro.pe/tilapia-en-filetes-congelada-cuisine-co-1kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.794601"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Tilapia en Filetes Congelada Cuisine & Co 500g",
+      "precio": "S/ 11.61",
+      "precio_numerico": 11.61,
+      "link": "https://www.metro.pe/tilapia-en-filetes-congelada-cuisine-co-500g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.805455"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Trucha Arco Iris Bolsa 500 g",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/filete-de-trucha-arco-iris-bolsa-500-g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.817233"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Trucha x kg",
+      "precio": "S/ 44.90",
+      "precio_numerico": 44.9,
+      "link": "https://www.metro.pe/filete-de-trucha-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.827602"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Trucha Entera Eviscerada x kg",
+      "precio": "S/ 20.90",
+      "precio_numerico": 20.9,
+      "link": "https://www.metro.pe/trucha-entera-eviscerada-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:40.843467"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Porciones de Bonito Congelado Bolsa 500 g",
+      "precio": "S/ 9.50",
+      "precio_numerico": 9.5,
+      "link": "https://www.metro.pe/porciones-de-bonito-congelado-bolsa-500-g/p",
+      "fecha_scraping": "2025-08-25T21:15:40.863421"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Trucha Cuisine & Co 500g",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/filete-de-trucha-cuisine-co-500g-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.886896"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Salmón Atlántico Aqua 500g",
+      "precio": "S/ 52.50",
+      "precio_numerico": 52.5,
+      "link": "https://www.metro.pe/filete-de-salmon-atlantico-aqua-500g/p",
+      "fecha_scraping": "2025-08-25T21:15:40.898066"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Salmón Fresco x kg",
+      "precio": "S/ 72.50",
+      "precio_numerico": 72.5,
+      "link": "https://www.metro.pe/filete-de-salmon-fresco-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.909153"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Porciones de Trucha Piscis 500g",
+      "precio": "S/ 27.50",
+      "precio_numerico": 27.5,
+      "link": "https://www.metro.pe/porciones-de-trucha-piscis-500g-1016307/p",
+      "fecha_scraping": "2025-08-25T21:15:40.919621"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Tilapia Umi Foods 1kg",
+      "precio": "S/ 19.50",
+      "precio_numerico": 19.5,
+      "link": "https://www.metro.pe/filete-de-tilapia-umi-foods-1kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.931723"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Bonito Entero x kg",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/bonito-entero-x-kg-142366/p",
+      "fecha_scraping": "2025-08-25T21:15:40.943347"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Porciones de Perico Congelado Cuisine & Co 500g",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/porciones-de-perico-congelado-cuisine-co-500g/p",
+      "fecha_scraping": "2025-08-25T21:15:40.954468"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Langostino Chico Pelado Azul Marino Bolsa 240 g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/langostino-chico-pelado-azul-marino-bolsa-240-g/p",
+      "fecha_scraping": "2025-08-25T21:15:40.966428"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Trucha Deshuesada x kg",
+      "precio": "S/ 28.50",
+      "precio_numerico": 28.5,
+      "link": "https://www.metro.pe/trucha-deshuesada-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:40.978707"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Tilapia x kg",
+      "precio": "S/ 68.50",
+      "precio_numerico": 68.5,
+      "link": "https://www.metro.pe/filete-de-tilapia-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:40.989491"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filetes Ahumados de Trucha Arco Iris 250 g",
+      "precio": "S/ 36.50",
+      "precio_numerico": 36.5,
+      "link": "https://www.metro.pe/filetes-ahumados-de-trucha-arco-iris-250-g/p",
+      "fecha_scraping": "2025-08-25T21:15:41.001108"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Porciones de Pez Espada Congelado Cuisine & Co 500g",
+      "precio": "S/ 35.50",
+      "precio_numerico": 35.5,
+      "link": "https://www.metro.pe/porciones-de-pez-espada-congelado-cuisine-co-500g/p",
+      "fecha_scraping": "2025-08-25T21:15:41.012057"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Langostino Extra Grande con cáscara Azul Marino Bolsa 400 g",
+      "precio": "S/ 26.90",
+      "precio_numerico": 26.9,
+      "link": "https://www.metro.pe/langostino-extra-grande-con-cascara-azul-marino-bolsa-400-g/p",
+      "fecha_scraping": "2025-08-25T21:15:41.025080"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Filete de Paiche Fresco x kg",
+      "precio": "S/ 59.90",
+      "precio_numerico": 59.9,
+      "link": "https://www.metro.pe/filete-de-paiche-fresco-x-kg-1041371/p",
+      "fecha_scraping": "2025-08-25T21:15:41.036535"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Conchas de Abanico Media Valva Congelada Azul Marino 6un",
+      "precio": "S/ 22.50",
+      "precio_numerico": 22.5,
+      "link": "https://www.metro.pe/conchas-de-abanico-media-valva-congelada-azul-marino-6un-961636/p",
+      "fecha_scraping": "2025-08-25T21:15:41.049280"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Langostinos Extra Grandes Limpios Cuisine & Co 500g",
+      "precio": "S/ 42.50",
+      "precio_numerico": 42.5,
+      "link": "https://www.metro.pe/langostinos-extra-grandes-limpios-cuisine-co-500g-991671/p",
+      "fecha_scraping": "2025-08-25T21:15:41.059588"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Mixtura de Mariscos Cuisine & Co 500g",
+      "precio": "S/ 25.50",
+      "precio_numerico": 25.5,
+      "link": "https://www.metro.pe/mixtura-de-mariscos-cuisine-co-500g-1000195/p",
+      "fecha_scraping": "2025-08-25T21:15:41.071279"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "pescados_mariscos",
+      "nombre": "Carpaccio de Salmón Cuisine & Co 100g",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/carpaccio-de-salmon-wong-bolsa-100-g-416185/p",
+      "fecha_scraping": "2025-08-25T21:15:41.082076"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Carne Molida Especial Nacional x kg",
+      "precio": "S/ 23.00",
+      "precio_numerico": 23.0,
+      "link": "https://www.metro.pe/carne-molida-especial-nacional-x-kg-109178/p",
+      "fecha_scraping": "2025-08-25T21:15:53.368580"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Bisteck Bola de Lomo Nacional x kg",
+      "precio": "S/ 39.90",
+      "precio_numerico": 39.9,
+      "link": "https://www.metro.pe/bisteck-bola-de-lomo-nacional-en-bandeja-x-kg-390617/p",
+      "fecha_scraping": "2025-08-25T21:15:53.378937"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Carne Molida de Bisteck Nacional x kg",
+      "precio": "S/ 35.80",
+      "precio_numerico": 35.8,
+      "link": "https://www.metro.pe/carne-molida-de-bisteck-nacional-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.389233"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Carne para Guiso Nacional x kg",
+      "precio": "S/ 28.90",
+      "precio_numerico": 28.9,
+      "link": "https://www.metro.pe/carne-para-guiso-nacional-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.400085"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Bisteck de Tapa Nacional x kg",
+      "precio": "S/ 39.90",
+      "precio_numerico": 39.9,
+      "link": "https://www.metro.pe/bisteck-de-tapa-nacional-en-bandeja-x-kg-390616/p",
+      "fecha_scraping": "2025-08-25T21:15:53.410507"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Churrasco Largo Nacional Porcionado x kg",
+      "precio": "S/ 36.90",
+      "precio_numerico": 36.9,
+      "link": "https://www.metro.pe/churrasco-largo-nacional-porcionado/p",
+      "fecha_scraping": "2025-08-25T21:15:53.420880"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Hígado de Res Importado Trozado x kg",
+      "precio": "S/ 13.90",
+      "precio_numerico": 13.9,
+      "link": "https://www.metro.pe/higado-de-res-importado-trozado-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.430225"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Costillar Nacional x kg",
+      "precio": "S/ 18.90",
+      "precio_numerico": 18.9,
+      "link": "https://www.metro.pe/costillar-nacional-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:15:53.440094"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Churrasco de Marucha de Res Porcionado x kg",
+      "precio": "S/ 36.90",
+      "precio_numerico": 36.9,
+      "link": "https://www.metro.pe/churrasco-de-marucha-de-res-porcionado-congelado-x-kg-716154/p",
+      "fecha_scraping": "2025-08-25T21:15:53.451123"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Cuadril Nacional x kg",
+      "precio": "S/ 54.90",
+      "precio_numerico": 54.9,
+      "link": "https://www.metro.pe/cuadril-nacional-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.460378"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Hígado de Res Importado x kg",
+      "precio": "S/ 13.90",
+      "precio_numerico": 13.9,
+      "link": "https://www.metro.pe/higado-de-res-importado-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.469114"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Anticucho Bolsa 500 g",
+      "precio": "S/ 16.90",
+      "precio_numerico": 16.9,
+      "link": "https://www.metro.pe/anticucho-bolsa-500-g-787717/p",
+      "fecha_scraping": "2025-08-25T21:15:53.479238"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Mondonguito Italiano Schilcayo 1kg",
+      "precio": "S/ 16.90",
+      "precio_numerico": 16.9,
+      "link": "https://www.metro.pe/mondonguito-italiano-schilcayo-1kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.488942"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Entraña Nacional Metro x kg",
+      "precio": "S/ 57.90",
+      "precio_numerico": 57.9,
+      "link": "https://www.metro.pe/entrana-nacional-metro-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.497913"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Mondongo Picado a La Italiana Bolsa 1 kg",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/mondongo-picado-a-la-italiana-bolsa-1-kg/p",
+      "fecha_scraping": "2025-08-25T21:15:53.507116"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "res_carnes",
+      "nombre": "Picaña Uruguaya Dos Caminos x kg",
+      "precio": "S/ 122.90",
+      "precio_numerico": 122.9,
+      "link": "https://www.metro.pe/picana-uruguaya-dos-caminos-x-kg-942229/p",
+      "fecha_scraping": "2025-08-25T21:15:53.516759"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chuleta Punta de Lomo x kg",
+      "precio": "S/ 16.90",
+      "precio_numerico": 16.9,
+      "link": "https://www.metro.pe/chuleta-punta-de-lomo-metro-x-kg-713440/p",
+      "fecha_scraping": "2025-08-25T21:16:05.945408"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Guiso de Cerdo x kg",
+      "precio": "S/ 26.90",
+      "precio_numerico": 26.9,
+      "link": "https://www.metro.pe/guiso-de-cerdo-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:05.962111"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chuleta de Lomo de Cerdo con Piel Porcionado x kg",
+      "precio": "S/ 22.90",
+      "precio_numerico": 22.9,
+      "link": "https://www.metro.pe/chuleta-de-lomo-de-cerdo-con-piel-porcionado-metro-x-kg-390748/p",
+      "fecha_scraping": "2025-08-25T21:16:05.976332"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Panceta de Cerdo en Tiras con Piel y con Hueso x kg",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/panceta-de-cerdo-en-tiras-con-piel-y-con-hueso-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:05.988915"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chuleta de Pierna de Cerdo con Piel Porcionada x kg",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/chuleta-de-pierna-de-cerdo-con-piel-porcionada-x-kg-390744/p",
+      "fecha_scraping": "2025-08-25T21:16:06.006050"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Panceta de Cerdo en Tiras con Piel y con Hueso San Fernando x kg",
+      "precio": "S/ 33.90",
+      "precio_numerico": 33.9,
+      "link": "https://www.metro.pe/panceta-de-cerdo-en-tiras-con-piel-y-con-hueso-san-fernando-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:06.019894"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chuleta Parrillera de Cerdo con Piel x kg",
+      "precio": "S/ 22.90",
+      "precio_numerico": 22.9,
+      "link": "https://www.metro.pe/chuleta-parrillera-de-cerdo-con-piel-x-kg-521170/p",
+      "fecha_scraping": "2025-08-25T21:16:06.034509"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Panceta de Cerdo con Piel y con Hueso x kg",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/panceta-de-cerdo-con-piel-y-con-hueso-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:06.046304"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chuleta de Brazuelo de Cerdo Con Piel Metro x kg",
+      "precio": "S/ 21.90",
+      "precio_numerico": 21.9,
+      "link": "https://www.metro.pe/chuleta-de-brazuelo-de-cerdo-con-piel-metro-x-kg-521171/p",
+      "fecha_scraping": "2025-08-25T21:16:06.061473"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Tira de Panceta Con Piel de Cerdo Duroc Redondos x kg",
+      "precio": "S/ 38.90",
+      "precio_numerico": 38.9,
+      "link": "https://www.metro.pe/tira-de-panceta-con-piel-de-cerdo-duroc-redondos-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:06.077137"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Lomo Fino de Cerdo x kg",
+      "precio": "S/ 38.90",
+      "precio_numerico": 38.9,
+      "link": "https://www.metro.pe/lomo-fino-de-cerdo-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:16:06.093164"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Panceta de Cerdo Sin Piel y con Hueso x kg",
+      "precio": "S/ 33.90",
+      "precio_numerico": 33.9,
+      "link": "https://www.metro.pe/panceta-de-cerdo-sin-piel-y-con-hueso-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:06.107204"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Pulpa de Bondiola San Fernando x Kg",
+      "precio": "S/ 31.90",
+      "precio_numerico": 31.9,
+      "link": "https://www.metro.pe/pulpa-de-bondiola-san-fernando-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:16:06.124068"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chicharrón de Panceta de Cerdo Duroc Redondos x Kg",
+      "precio": "S/ 30.50",
+      "precio_numerico": 30.5,
+      "link": "https://www.metro.pe/chicharron-de-panceta-de-cerdo-duroc-redondos-x-kg-1014520/p",
+      "fecha_scraping": "2025-08-25T21:16:06.137376"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Panceta de Cerdo Con Piel y Con Hueso Congelado x kg",
+      "precio": "S/ 29.90",
+      "precio_numerico": 29.9,
+      "link": "https://www.metro.pe/panceta-de-cerdo-con-piel-y-con-hueso-congelado-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:06.154207"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Panceta de Cerdo en Tiras Sin Piel y con Hueso x kg",
+      "precio": "S/ 33.90",
+      "precio_numerico": 33.9,
+      "link": "https://www.metro.pe/panceta-de-cerdo-en-tiras-sin-piel-y-con-hueso-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:06.168451"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chuleta de Lomo con Piel de Cerdo x kg",
+      "precio": "S/ 22.90",
+      "precio_numerico": 22.9,
+      "link": "https://www.metro.pe/chuleta-de-lomo-con-piel-de-cerdo-x-kg-126329/p",
+      "fecha_scraping": "2025-08-25T21:16:06.182101"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Picanha de Cerdo x kg",
+      "precio": "S/ 36.90",
+      "precio_numerico": 36.9,
+      "link": "https://www.metro.pe/picanha-de-cerdo-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:16:06.195102"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Asado de Cerdo x kg",
+      "precio": "S/ 28.90",
+      "precio_numerico": 28.9,
+      "link": "https://www.metro.pe/asado-de-cerdo-x-kg-114645/p",
+      "fecha_scraping": "2025-08-25T21:16:06.206248"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Tira de Costillar de Cerdo Rico x kg",
+      "precio": "S/ 32.90",
+      "precio_numerico": 32.9,
+      "link": "https://www.metro.pe/tira-de-costillar-de-cerdo-rico-x-kg-1003548/p",
+      "fecha_scraping": "2025-08-25T21:16:06.219732"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Cerdo Sazón Pachamanca San Fernando Asu Olla 530g",
+      "precio": "S/ 22.50",
+      "precio_numerico": 22.5,
+      "link": "https://www.metro.pe/cerdo-saz-n-pachamanca-san-fernando-asu-olla-530g-1031885/p",
+      "fecha_scraping": "2025-08-25T21:16:06.231771"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Lomito de Cerdo a la BBQ Otto Kunz x kg",
+      "precio": "S/ 42.99",
+      "precio_numerico": 42.99,
+      "link": "https://www.metro.pe/lomito-de-cerdo-a-la-bbq-otto-kunz-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:06.242790"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Chuleta de Hombro de Cerdo Duroc Redondos x kg",
+      "precio": "S/ 32.90",
+      "precio_numerico": 32.9,
+      "link": "https://www.metro.pe/chuleta-de-hombro-duroc-redondos/p",
+      "fecha_scraping": "2025-08-25T21:16:06.255240"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "cerdo",
+      "nombre": "Enrollado de Brazuelo de Cerdo San Fernando x kg",
+      "precio": "S/ 31.90",
+      "precio_numerico": 31.9,
+      "link": "https://www.metro.pe/enrollado-de-brazuelo-de-cerdo-san-fernando-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:16:06.267049"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Nuggets de Pechuga de Pollo Redondos 36un",
+      "precio": "S/ 13.28",
+      "precio_numerico": 13.28,
+      "link": "https://www.metro.pe/nuggets-de-pechuga-de-pollo-redondos-36un/p",
+      "fecha_scraping": "2025-08-25T21:16:21.452918"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Nuggets de Pechuga de Pollo San Fernando 24un",
+      "precio": "S/ 11.99",
+      "precio_numerico": 11.99,
+      "link": "https://www.metro.pe/nuggets-de-pechuga-de-pollo-san-fernando-24un-23322/p",
+      "fecha_scraping": "2025-08-25T21:16:21.462837"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Hamburguesa San Fernando La Super Rica 14un",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/hamburguesa-san-fernando-la-super-rica-14un-2/p",
+      "fecha_scraping": "2025-08-25T21:16:21.473187"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Hamburguesas de Res Oregon Foods 8un",
+      "precio": "S/ 22.80",
+      "precio_numerico": 22.8,
+      "link": "https://www.metro.pe/hamburguesas-de-res-oregon-foods-8un-428521/p",
+      "fecha_scraping": "2025-08-25T21:16:21.484561"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Deditos de Pollo Avinka 12un",
+      "precio": "S/ 11.20",
+      "precio_numerico": 11.2,
+      "link": "https://www.metro.pe/deditos-de-pollo-avinka-12un/p",
+      "fecha_scraping": "2025-08-25T21:16:21.493460"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Hamburguesas de Pollo Redondos 14un",
+      "precio": "S/ 9.90",
+      "precio_numerico": 9.9,
+      "link": "https://www.metro.pe/hamburguesas-de-pollo-redondos-14un-2/p",
+      "fecha_scraping": "2025-08-25T21:16:21.502284"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Hamburguesa La Súper de Carne San Fernando 14un",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/hamburguesa-la-s-per-de-carne-san-fernando-14un-205752/p",
+      "fecha_scraping": "2025-08-25T21:16:21.510700"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "hamburguesas_apanados",
+      "nombre": "Nuggets de Pollo con Brócoli Avinka 15un",
+      "precio": "S/ 8.79",
+      "precio_numerico": 8.79,
+      "link": "https://www.metro.pe/nuggets-de-pollo-con-brocoli-avinka-15un/p",
+      "fecha_scraping": "2025-08-25T21:16:21.519581"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Palta Fuerte Metro x kg",
+      "precio": "S/ 11.49",
+      "precio_numerico": 11.49,
+      "link": "https://www.metro.pe/palta-fuerte-metro-x-kg-71554/p",
+      "fecha_scraping": "2025-08-25T21:16:54.946187"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Papaya Metro x kg",
+      "precio": "S/ 5.99",
+      "precio_numerico": 5.99,
+      "link": "https://www.metro.pe/papaya-metro-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:16:54.956991"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Arándano Blueberry 500 g",
+      "precio": "S/ 14.99",
+      "precio_numerico": 14.99,
+      "link": "https://www.metro.pe/arandano-blueberry-500-g/p",
+      "fecha_scraping": "2025-08-25T21:16:54.970365"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Plátano de Seda Metro x kg",
+      "precio": "S/ 3.69",
+      "precio_numerico": 3.69,
+      "link": "https://www.metro.pe/platano-de-seda-metro-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:16:54.981263"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Naranja para Jugo Chanchamayo x kg",
+      "precio": "S/ 2.49",
+      "precio_numerico": 2.49,
+      "link": "https://www.metro.pe/naranja-para-jugo-chanchamayo-x-kg-152606/p",
+      "fecha_scraping": "2025-08-25T21:16:54.993236"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Mandarina Costa x kg",
+      "precio": "S/ 3.59",
+      "precio_numerico": 3.59,
+      "link": "https://www.metro.pe/mandarina-costa-x-kg-95623/p",
+      "fecha_scraping": "2025-08-25T21:16:55.005228"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Pera Packhams x kg",
+      "precio": "S/ 6.99",
+      "precio_numerico": 6.99,
+      "link": "https://www.metro.pe/pera-packhams-x-kg-67287/p",
+      "fecha_scraping": "2025-08-25T21:16:55.021847"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Granadilla Especial x unid",
+      "precio": "S/ 1.19",
+      "precio_numerico": 1.19,
+      "link": "https://www.metro.pe/granadilla-especial-x-unid-2/p",
+      "fecha_scraping": "2025-08-25T21:16:55.043020"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Pulpa de Maracuyá Congelada El Frutero 500g",
+      "precio": "S/ 11.80",
+      "precio_numerico": 11.8,
+      "link": "https://www.metro.pe/pulpa-de-maracuya-congelada-el-frutero-500g-898342/p",
+      "fecha_scraping": "2025-08-25T21:16:55.061691"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Jugo de Naranja Natural Wong Botella 500ml",
+      "precio": "S/ 7.90",
+      "precio_numerico": 7.9,
+      "link": "https://www.metro.pe/jugo-de-naranja-natural-wong-botella-500ml-2/p",
+      "fecha_scraping": "2025-08-25T21:16:55.071973"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Manzana Rayada Metro x kg",
+      "precio": "S/ 8.49",
+      "precio_numerico": 8.49,
+      "link": "https://www.metro.pe/manzana-rayada-metro-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:16:55.081658"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Mix de Frutas El Frutero 1kg: Fresa + Mango + Piña",
+      "precio": "S/ 17.99",
+      "precio_numerico": 17.99,
+      "link": "https://www.metro.pe/mix-de-frutas-el-frutero-1kg-fresa-mango-pina-998065/p",
+      "fecha_scraping": "2025-08-25T21:16:55.091867"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Pasas Morenas x kg",
+      "precio": "S/ 27.00",
+      "precio_numerico": 27.0,
+      "link": "https://www.metro.pe/pasas-morenas-x-kg-4706/p",
+      "fecha_scraping": "2025-08-25T21:16:55.100735"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Manzana Americana Sugar Bee x kg",
+      "precio": "S/ 10.99",
+      "precio_numerico": 10.99,
+      "link": "https://www.metro.pe/manzana-americana-sugar-bee-x-kg-477781/p",
+      "fecha_scraping": "2025-08-25T21:16:55.111531"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Papaya en Trozos Congelada El Frutero 1kg",
+      "precio": "S/ 17.99",
+      "precio_numerico": 17.99,
+      "link": "https://www.metro.pe/papaya-en-trozos-congelada-el-frutero-1kg-789672/p",
+      "fecha_scraping": "2025-08-25T21:16:55.121187"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "frutas",
+      "nombre": "Manzana Fuji Americana x kg",
+      "precio": "S/ 9.89",
+      "precio_numerico": 9.89,
+      "link": "https://www.metro.pe/manzana-fuji-americana-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:16:55.130564"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Tomate Italiano Metro x kg",
+      "precio": "S/ 4.29",
+      "precio_numerico": 4.29,
+      "link": "https://www.metro.pe/tomate-italiano-metro-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.458674"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Zanahoria Especial x kg",
+      "precio": "S/ 3.79",
+      "precio_numerico": 3.79,
+      "link": "https://www.metro.pe/zanahoria-especial-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.469280"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Cebolla Roja Metro x kg",
+      "precio": "S/ 3.49",
+      "precio_numerico": 3.49,
+      "link": "https://www.metro.pe/cebolla-roja-metro-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:17:07.483366"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Papa Blanca Yungay Metro x kg",
+      "precio": "S/ 2.19",
+      "precio_numerico": 2.19,
+      "link": "https://www.metro.pe/papa-blanca-yungay-metro-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.495246"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Choclo Especial x unid",
+      "precio": "S/ 1.50",
+      "precio_numerico": 1.5,
+      "link": "https://www.metro.pe/choclo-especial-x-unid/p",
+      "fecha_scraping": "2025-08-25T21:17:07.506425"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Papa Amarilla Peruanita Procesada Metro x kg",
+      "precio": "S/ 6.89",
+      "precio_numerico": 6.89,
+      "link": "https://www.metro.pe/papa-amarilla-peruanita-procesada-metro-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.516269"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Brócoli Metro x kg",
+      "precio": "S/ 9.49",
+      "precio_numerico": 9.49,
+      "link": "https://www.metro.pe/brocoli-metro-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:17:07.528127"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Zapallo Macre x kg",
+      "precio": "S/ 2.89",
+      "precio_numerico": 2.89,
+      "link": "https://www.metro.pe/zapallo-macre-x-kg-4050/p",
+      "fecha_scraping": "2025-08-25T21:17:07.540039"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Champiñones Enteros Paccu Bandeja 200g",
+      "precio": "S/ 6.80",
+      "precio_numerico": 6.8,
+      "link": "https://www.metro.pe/champinones-enteros-paccu-bandeja-200g/p",
+      "fecha_scraping": "2025-08-25T21:17:07.550211"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Pepinillo x un",
+      "precio": "S/ 2.69",
+      "precio_numerico": 2.69,
+      "link": "https://www.metro.pe/pepinillo-x-un-4037/p",
+      "fecha_scraping": "2025-08-25T21:17:07.561481"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Ajos sin Pelar x kg",
+      "precio": "S/ 19.79",
+      "precio_numerico": 19.79,
+      "link": "https://www.metro.pe/ajos-sin-pelar-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:17:07.571844"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Arveja x kg",
+      "precio": "S/ 16.79",
+      "precio_numerico": 16.79,
+      "link": "https://www.metro.pe/arveja-x-kg-154/p",
+      "fecha_scraping": "2025-08-25T21:17:07.581506"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Papa Amarilla Tumbay Procesada x kg",
+      "precio": "S/ 6.89",
+      "precio_numerico": 6.89,
+      "link": "https://www.metro.pe/papa-amarilla-tumbay-procesada-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.591713"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Vainita Metro x kg",
+      "precio": "S/ 11.79",
+      "precio_numerico": 11.79,
+      "link": "https://www.metro.pe/vainita-metro-x-kg-72502/p",
+      "fecha_scraping": "2025-08-25T21:17:07.601443"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Camote Morado Metro x kg",
+      "precio": "S/ 3.29",
+      "precio_numerico": 3.29,
+      "link": "https://www.metro.pe/camote-morado-metro-x-kg/p",
+      "fecha_scraping": "2025-08-25T21:17:07.626877"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Espinaca Baby Ecologic 150g",
+      "precio": "S/ 6.20",
+      "precio_numerico": 6.2,
+      "link": "https://www.metro.pe/espinaca-baby-ecologic-150g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.652115"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Papa Huayro Metro x kg",
+      "precio": "S/ 6.19",
+      "precio_numerico": 6.19,
+      "link": "https://www.metro.pe/papa-huayro-metro-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.662823"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Papa Ondulada Green Food 400g",
+      "precio": "S/ 6.70",
+      "precio_numerico": 6.7,
+      "link": "https://www.metro.pe/papa-ondulada-green-food-400g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.673495"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Papa Blanca Canchán Procesada x kgs",
+      "precio": "S/ 3.79",
+      "precio_numerico": 3.79,
+      "link": "https://www.metro.pe/papa-blanca-canchan-procesada-x-kgs-4182/p",
+      "fecha_scraping": "2025-08-25T21:17:07.683704"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Habas Metro x kg",
+      "precio": "S/ 6.79",
+      "precio_numerico": 6.79,
+      "link": "https://www.metro.pe/habas-metro-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.695541"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Tomate Cherry Baby Hidropónico de Invernadero Ecologic Bandeja 300g",
+      "precio": "S/ 7.70",
+      "precio_numerico": 7.7,
+      "link": "https://www.metro.pe/tomate-cherry-baby-hidroponico-de-invernadero-ecologic-bandeja-300g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.707485"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Papa Blanca x kg",
+      "precio": "S/ 3.19",
+      "precio_numerico": 3.19,
+      "link": "https://www.metro.pe/papa-blanca-x-kg-11775/p",
+      "fecha_scraping": "2025-08-25T21:17:07.718295"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Camote Amarillo Agro Selecto 1Kg",
+      "precio": "S/ 1.99",
+      "precio_numerico": 1.99,
+      "link": "https://www.metro.pe/camote-amarillo-agro-selecto-1kg/p",
+      "fecha_scraping": "2025-08-25T21:17:07.728315"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "verduras",
+      "nombre": "Tomate Redondo Hidropónico de Invernadero Ecologic Bolsa",
+      "precio": "S/ 7.80",
+      "precio_numerico": 7.8,
+      "link": "https://www.metro.pe/tomate-redondo-hidroponico-de-invernadero-ecologic-bolsa-2/p",
+      "fecha_scraping": "2025-08-25T21:17:07.739339"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Pack Suiza: Hot Dog 400g + Hot Dog 200g",
+      "precio": "S/ 13.90",
+      "precio_numerico": 13.9,
+      "link": "https://www.metro.pe/pack-suiza-hot-dog-400g-hot-dog-200g-785369/p",
+      "fecha_scraping": "2025-08-25T21:17:20.632245"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Chorizo Parrillero Precocido Braedt Paquete 6 unid",
+      "precio": "S/ 13.90",
+      "precio_numerico": 13.9,
+      "link": "https://www.metro.pe/chorizo-parrillero-precocido-braedt-paquete-6-unid/p",
+      "fecha_scraping": "2025-08-25T21:17:20.642686"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Chorizo Parrillero Otto Kunz 400g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/chorizo-parrillero-otto-kunz-400g/p",
+      "fecha_scraping": "2025-08-25T21:17:20.651961"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Salchicha de Huacho Casa Europa 150 g",
+      "precio": "S/ 7.70",
+      "precio_numerico": 7.7,
+      "link": "https://www.metro.pe/salchicha-de-huacho-casa-europa-150-g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:20.664026"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Hot Dog con Pollo Suiza 200g",
+      "precio": "S/ 5.90",
+      "precio_numerico": 5.9,
+      "link": "https://www.metro.pe/hot-dog-con-pollo-suiza-200g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:20.673905"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Pack x3 Hot Dog Braedt 200g",
+      "precio": "S/ 12.92",
+      "precio_numerico": 12.92,
+      "link": "https://www.metro.pe/pack-x3-hot-dog-braedt-200g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:20.683682"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Paté de Hígado de Pollo San Fernando 100 g",
+      "precio": "S/ 3.10",
+      "precio_numerico": 3.1,
+      "link": "https://www.metro.pe/pate-de-higado-de-pollo-san-fernando-100-g/p",
+      "fecha_scraping": "2025-08-25T21:17:20.692005"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "embutidos",
+      "nombre": "Pack Salchicha Vienesa Especial Otto Kunz 750 g",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/pack-salchicha-vienesa-especial-otto-kunz-750-g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:20.701596"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Pack Jamón Pizzero + Queso Edam Braedt 370g",
+      "precio": "S/ 11.90",
+      "precio_numerico": 11.9,
+      "link": "https://www.metro.pe/pack-jamon-pizzero-queso-edam-braedt-370g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.313179"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón Inglés Otto Kunz 200g",
+      "precio": "S/ 12.90",
+      "precio_numerico": 12.9,
+      "link": "https://www.metro.pe/jamon-ingles-otto-kunz-200g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.324452"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón de Pavita Braedt Balance 200g",
+      "precio": "S/ 10.50",
+      "precio_numerico": 10.5,
+      "link": "https://www.metro.pe/jamon-de-pavita-braedt-balance-200g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.338148"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón Pizzero Braedt 480g",
+      "precio": "S/ 10.90",
+      "precio_numerico": 10.9,
+      "link": "https://www.metro.pe/jamon-pizzero-braedt-480g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.350692"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Tocino cocido Ahumado Casa Europa paquete 200 g",
+      "precio": "S/ 19.90",
+      "precio_numerico": 19.9,
+      "link": "https://www.metro.pe/tocino-cocido-ahumado-casa-europa-paquete-200-g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.364151"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Tocino Natural Ahumado Cuisine & Co 200g",
+      "precio": "S/ 13.50",
+      "precio_numerico": 13.5,
+      "link": "https://www.metro.pe/tocino-natural-ahumado-cuisine-co-200g-1025881/p",
+      "fecha_scraping": "2025-08-25T21:17:34.376232"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón Inglés Casa Europa Paquete 200 g",
+      "precio": "S/ 16.50",
+      "precio_numerico": 16.5,
+      "link": "https://www.metro.pe/jamon-ingles-casa-europa-paquete-200-g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.391771"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón Americano Suiza 500g",
+      "precio": "S/ 13.20",
+      "precio_numerico": 13.2,
+      "link": "https://www.metro.pe/jamon-americano-suiza-500g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.408047"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón Pizzero Salchichería Alemana 200g + Queso Edam Delice 140g",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/jamon-pizzero-salchicheria-alemana-200g-queso-edam-delice-140g-1017212/p",
+      "fecha_scraping": "2025-08-25T21:17:34.420895"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Cabanossi Picante Ahumada Catalanes 2un",
+      "precio": "S/ 3.70",
+      "precio_numerico": 3.7,
+      "link": "https://www.metro.pe/cabanossi-picante-ahumada-catalanes-2un-962020/p",
+      "fecha_scraping": "2025-08-25T21:17:34.434934"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón Pechuga de Pavita San Fernando paquete 200 g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/jamon-pechuga-de-pavita-san-fernando-paquete-200-g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.448062"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón del País Gourmet Otto Kunz x kg",
+      "precio": "S/ 91.50",
+      "precio_numerico": 91.5,
+      "link": "https://www.metro.pe/jamon-del-pais-gourmet-otto-kunz-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.461457"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamonada con Pollo Suiza Paquete 200 g",
+      "precio": "S/ 5.90",
+      "precio_numerico": 5.9,
+      "link": "https://www.metro.pe/jamonada-con-pollo-suiza-paquete-200-g-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.476102"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamonada Polaca Salchichería Alemana 200g",
+      "precio": "S/ 6.90",
+      "precio_numerico": 6.9,
+      "link": "https://www.metro.pe/jamonada-polaca-salchicheria-alemana-200g-1017210/p",
+      "fecha_scraping": "2025-08-25T21:17:34.487120"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Jamón Inglés Otto Kunz x kg",
+      "precio": "S/ 70.90",
+      "precio_numerico": 70.9,
+      "link": "https://www.metro.pe/jamon-ingles-otto-kunz-x-kg-2/p",
+      "fecha_scraping": "2025-08-25T21:17:34.497894"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "fiambres",
+      "nombre": "Tabla de Charcutería Cuisine & Co Duman",
+      "precio": "S/ 39.90",
+      "precio_numerico": 39.9,
+      "link": "https://www.metro.pe/tabla-de-charcuter-a-cuisine-co-duman-1017392/p",
+      "fecha_scraping": "2025-08-25T21:17:34.509000"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Negra Deshuesada Cuisine & Co 260g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/aceituna-negra-deshuesada-cuisine-co-260g-789039/p",
+      "fecha_scraping": "2025-08-25T21:17:47.050538"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Botija Sin Hueso Huerto Mejia 400g",
+      "precio": "S/ 14.60",
+      "precio_numerico": 14.6,
+      "link": "https://www.metro.pe/aceituna-botija-sin-hueso-huerto-mejia-400g-761110/p",
+      "fecha_scraping": "2025-08-25T21:17:47.062444"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Negra Entera Olivalle 180g",
+      "precio": "S/ 4.30",
+      "precio_numerico": 4.3,
+      "link": "https://www.metro.pe/aceituna-negra-entera-olivalle-180g-417224/p",
+      "fecha_scraping": "2025-08-25T21:17:47.071867"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Verde Deshuesada Cuisine & Co 260g",
+      "precio": "S/ 10.50",
+      "precio_numerico": 10.5,
+      "link": "https://www.metro.pe/aceituna-verde-deshuesada-cuisine-co-260g-789038/p",
+      "fecha_scraping": "2025-08-25T21:17:47.082304"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Botija Extra Huerto Mejía Pote 400 gr",
+      "precio": "S/ 14.00",
+      "precio_numerico": 14.0,
+      "link": "https://www.metro.pe/aceituna-botija-extra-huerto-mejia-pote-400-gr-761109/p",
+      "fecha_scraping": "2025-08-25T21:17:47.092427"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Verde con Pimiento Cuisine & Co 280g",
+      "precio": "S/ 14.50",
+      "precio_numerico": 14.5,
+      "link": "https://www.metro.pe/aceituna-verde-con-pimiento-cuisine-co-280g-789042/p",
+      "fecha_scraping": "2025-08-25T21:17:47.102768"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Negra Entera Extra Cuisine & Co 280g",
+      "precio": "S/ 14.90",
+      "precio_numerico": 14.9,
+      "link": "https://www.metro.pe/aceituna-negra-entera-extra-cuisine-co-280g-789040/p",
+      "fecha_scraping": "2025-08-25T21:17:47.112776"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Verde Deshuesada Olivalle 160g",
+      "precio": "S/ 4.50",
+      "precio_numerico": 4.5,
+      "link": "https://www.metro.pe/aceituna-verde-deshuesada-olivalle-160g-417443/p",
+      "fecha_scraping": "2025-08-25T21:17:47.121477"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Botija Deshuesada Olivos del Sur 225g",
+      "precio": "S/ 15.00",
+      "precio_numerico": 15.0,
+      "link": "https://www.metro.pe/aceituna-botija-desh-fco-ods-x-225-gr/p",
+      "fecha_scraping": "2025-08-25T21:17:47.132224"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Mousse de Alcachofa Delice Molde 150 g",
+      "precio": "S/ 15.90",
+      "precio_numerico": 15.9,
+      "link": "https://www.metro.pe/mousse-de-alcachofa-delice-molde-150-g/p",
+      "fecha_scraping": "2025-08-25T21:17:47.141113"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceituna Verde con Pimiento Maras Gourmet 340g",
+      "precio": "S/ 12.70",
+      "precio_numerico": 12.7,
+      "link": "https://www.metro.pe/aceituna-verde-con-pimiento-maras-gourmet-340g-916831/p",
+      "fecha_scraping": "2025-08-25T21:17:47.150503"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Aceitunas Verdes Deshuesada Lomas Del Olivar 500G",
+      "precio": "S/ 17.90",
+      "precio_numerico": 17.9,
+      "link": "https://www.metro.pe/aceitunas-verdes-deshuesada-lomas-del-olivar-500g-996119/p",
+      "fecha_scraping": "2025-08-25T21:17:47.160810"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Paté de Pollo Naturave 100g",
+      "precio": "S/ 2.90",
+      "precio_numerico": 2.9,
+      "link": "https://www.metro.pe/pate-de-pollo-naturave-100g/p",
+      "fecha_scraping": "2025-08-25T21:17:47.171182"
+    },
+    {
+      "tienda": "Metro",
+      "categoria": "delicatessen",
+      "nombre": "Paté de Cerdo Rico 110g",
+      "precio": "S/ 4.90",
+      "precio_numerico": 4.9,
+      "link": "https://www.metro.pe/pate-de-cerdo-rico-110g/p",
+      "fecha_scraping": "2025-08-25T21:17:47.180189"
+    }
+  ]
+}

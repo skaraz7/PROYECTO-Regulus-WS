@@ -1,0 +1,1092 @@
+Total categorias encontradas: 1090
+
+ -> CATG47976 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47976/Televisores?sid=HO_V2_2_NF_TV_25-08_34
+ -> CATG47990 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47990/Laptops?sid=HO_V5_5_NF_COMP_25-08_34
+ -> CATG47991 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47991/Tablets?sid=HO_SU_TAB_25-08_03-02
+ -> CATG47996 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47996/Smartphones?sid=HO_V1_1_NF_TELE_25-08_34
+ -> CATG47897 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47897/Electrodomesticos?sid=HO_SU_PED_25-08_03-02
+ -> CATG47668 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47668/Muebles-De-Dormitorio?sid=HO_V4_4_NF_MUEB_25-08_34
+ -> CATG47682 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47682/Juegos-De-Exterior?sid=HO_V7_7_NF_JUGU_25-08_34
+ -> CATG47605 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47605/Dormitorio?sid=HO_V3_3_NF_COLC_25-08_34
+ -> CATG47607 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47607/Colchones?sid=HO_SU_MUE_25-08_03-02
+ -> CATG48685 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48685?sid=HO_V1_1_OF_LECH_25-08_34
+ -> CATG48689 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48689?sid=HO_V4_4_OF_PAPE_25-08_34
+ -> CATG48684 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48684?sid=HO_V3_3_OF_HUEV_25-08_34
+ -> CATG48701 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48701?sid=HO_SU_ARR_25-08_03-02
+ -> CATG48687 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48687?sid=HO_SU_HAS_25-08_03-02
+ -> CATG48705 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48705?sid=HO_SU_2X1_25-08_03-02
+ -> CATG48712 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48712?sid=HO_SU_YOG_25-08_03-02
+ -> CATG46283 -> https://www.tottus.com.pe/tottus-pe/lista/CATG46283?sid=HO_BC_DES_125
+ -> CATG48682 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48682?sid=HO_BC_OFE_141
+ -> CATG23101 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23101?sid=HO_BC_FEL_105
+1.5 Plazas -> CATG47628 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47628
+1.5 Plazas -> CATG47633 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47633
+1.5 Plazas -> CATG47641 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47641
+1800 -> CATG45165 -> https://www.tottus.com.pe/tottus-pe/lista/CATG45165/Tequila?facetSelected=true&f.variant.attribute.marca=1800
+2 Plazas -> CATG47629 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47629
+2 Plazas -> CATG47634 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47634
+2 Plazas -> CATG47642 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47642
+Abarrotes -> CATG16827 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16827
+Abarrotes -> CATG10129 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10129
+Abarrotes -> CATG16066 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16066/Abarrotes
+Accesorios -> CATG44173 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44173
+Accesorios -> CATG36332 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36332
+Accesorios -> CATG48001 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48001
+Accesorios Computación -> CATG47993 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47993
+Accesorios Fitness -> CATG47972 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47972
+Accesorios Gamer -> CATG47995 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47995
+Accesorios Parrilla -> CATG47703 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47703
+Accesorios de Bar -> CATG47702 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47702
+Accesorios de Baño -> CATG47653 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47653
+Accesorios de Bebé -> CATG47834 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47834
+Accesorios de Calzado -> CATG43355 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43355
+Accesorios de Camping -> CATG47971 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47971
+Accesorios de LimpiezaAccesorios de Limpieza -> CATG17761 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17761
+Accesorios de Mesa -> CATG47700 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47700
+Accesorios de ReposteríaAccesorios de Repostería -> CATG16743 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16743
+Accesorios para Mascotas -> CATG17774 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17774
+Aceite -> CATG17700 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17700
+Aceite -> CATG16817 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16817
+Aceites -> CATG17098 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17098
+Aceites e Hisopos -> CATG18348 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18348
+Aceitunas -> CATG23913 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23913
+Aceitunas y Encurtidos -> CATG17742 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17742
+Aceitunas y Encurtidos -> CATG16773 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16773
+Aclaradores -> CATG44138 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44138
+Acondicionador -> CATG18368 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18368
+Acondicionador -> CATG44279 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44279
+Acondicionador -> CATG44303 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44303
+Acondicionador -> CATG44299 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44299
+Acondicionador -> CATG44287 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44287
+Acondicionador -> CATG44283 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44283
+Acondicionador -> CATG44276 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44276
+Acondicionador -> CATG44291 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44291
+Acondicionador -> CATG44295 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44295
+Acondicionador -> CATG44307 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44307
+Acondicionador -> CATG44311 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44311
+Aderezos -> CATG17613 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17613
+Adornos -> CATG47730 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47730
+Adultos -> CATG47836 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47836
+Aerosol -> CATG43305 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43305
+Afeitadoras y Cortapelos -> CATG48067 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48067
+Agua Mineral -> CATG23954 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23954
+Agua Saborizada -> CATG17963 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17963
+Agua con Gas -> CATG17962 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17962
+Agua sin Gas -> CATG17961 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17961
+Aguas -> CATG16846 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16846
+Aguas Micelares y Tónicos -> CATG44164 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44164
+Ahumados -> CATG10139 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10139
+Aire Acondicionado -> CATG48071 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48071
+Ajo -> CATG17623 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17623
+Ajo Molido -> CATG17615 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17615
+Ají y Rocoto -> CATG17641 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17641
+Ajíes y Cremas -> CATG16807 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16807
+Alcohol y Antisépticos -> CATG18454 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18454
+Alfombras -> CATG43272 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43272
+Alfombras -> CATG48646 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48646
+Algarrobina -> CATG17574 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17574
+Algodones e Hisopos -> CATG18452 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18452
+Alimento Húmedo -> CATG17117 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17117
+Alimento Húmedo -> CATG17122 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17122
+Alimento Seco -> CATG17116 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17116
+Alimento Seco -> CATG17121 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17121
+Alimentos para Bebé -> CATG17710 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17710
+Alimentos para Bebés -> CATG16897 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16897
+Alimentos para Perros -> CATG17775 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17775
+Alisadores y Rizadores -> CATG48068 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48068
+Aliños y Vinagretas -> CATG17643 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17643
+Almendras -> CATG17172 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17172
+Almohadas y Fundas -> CATG47649 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47649
+Aloe Vera -> CATG17968 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17968
+Ambientadores -> CATG17762 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17762
+Amstel -> CATG16871 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16871
+Anticaspa -> CATG44262 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44262
+Anticaída -> CATG44263 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44263
+Antiedad -> CATG44136 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44136
+Antimanchas -> CATG44137 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44137
+Antipulgas -> CATG43361 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43361
+Apio, Espárragos y PimientosApio, Espárragos y Pimientos -> CATG16981 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16981
+Appleton -> CATG17980 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17980
+Arena para Gatos -> CATG17123 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17123
+Argentina -> CATG17672 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17672
+Arma Tu Parrilla -> CATG16923 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16923
+Arnés -> CATG36344 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36344
+Aromas -> CATG43304 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43304
+Aromaterapia -> CATG44171 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44171
+Arroz -> CATG17699 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17699
+Arroz -> CATG16815 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16815
+Artículos de Fiesta -> CATG47627 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47627
+Arvejas -> CATG17645 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17645
+Arvejas, Vainitas y Habas -> CATG16979 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16979
+Aseo del Bebé -> CATG16899 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16899
+Aspirado y Limpieza -> CATG47899 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47899
+Aspiradoras Verticales -> CATG48080 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48080
+Aspiradoras de Arrastre -> CATG48070 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48070
+Audio -> CATG47877 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47877
+Audífonos -> CATG47987 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47987
+Autos -> CATG47844 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47844
+Autos -> CATG47852 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47852
+Autos y Motos a BateriaAutos y Motos a Bateria -> CATG47680 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47680
+Avenas -> CATG17555 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17555
+Azúcar Blanca -> CATG17540 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17540
+Azúcar Blanca -> CATG17080 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17080
+Azúcar Impalpable -> CATG17081 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17081
+Azúcar Rubia -> CATG17541 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17541
+Azúcar Rubia -> CATG17082 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17082
+Azúcar y Sustitutos -> CATG17735 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17735
+Azúcar y Sustitutos -> CATG16808 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16808
+BBQ -> CATG17642 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17642
+Babysec -> CATG18336 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18336
+Bacardi -> CATG17983 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17983
+Baguettes y ArtesanalesBaguettes y Artesanales -> CATG16879 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16879
+Ballantines -> CATG17973 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17973
+Bambo Nature -> CATG18338 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18338
+Bandejas Familiares -> CATG17213 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17213
+Bar de Tottus -> CATG45383 -> https://www.tottus.com.pe/tottus-pe/lista/CATG45383
+Barbarian -> CATG16874 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16874
+Barceló -> CATG17982 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17982
+Barras de Cereal -> CATG17553 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17553
+Barras y Tabletas -> CATG17185 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17185
+Bases -> CATG17651 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17651
+Bases de Licores -> CATG16859 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16859
+Bases para Licores -> CATG23955 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23955
+Batidoras -> CATG48057 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48057
+Bañadas -> CATG17189 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17189
+Bañados y Lentejas -> CATG17186 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17186
+Baño -> CATG43265 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43265
+Baño -> CATG47609 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47609
+Bebidas -> CATG23935 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23935
+Bebidas -> CATG16955 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16955
+Bebidas Alcohólicas -> CATG16069 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16069/Bebidas-Alcoholicas
+Bebidas Saborizadas -> CATG23956 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23956
+Bebés y Niños -> CATG16828 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16828
+Belleza -> CATG17806 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17806
+Belleza -> CATG16057 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16057/Belleza
+Betunes -> CATG43354 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43354
+Biberones -> CATG43934 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43934
+Bienestar Sexual -> CATG18411 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18411
+Black -> CATG17671 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17671
+Blanca -> CATG17454 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17454
+Bloqueadores -> CATG17154 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17154
+Bocaditos -> CATG17222 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17222
+Bocaditos -> CATG16802 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16802/Bocaditos-y-Piqueos
+Bocaditos Dulces -> CATG18413 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18413
+Bocaditos Salados -> CATG18412 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18412
+Bodega del Mes -> CATG45382 -> https://www.tottus.com.pe/tottus-pe/lista/CATG45382
+Bolsas para Alimentos -> CATG17763 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17763
+Bolsas para Basura -> CATG17772 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17772
+Bolsas y Envolturas -> CATG43309 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43309
+Bombones y Pastillas -> CATG17188 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17188
+Botiquín -> CATG18458 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18458
+Brillo y Frizz -> CATG44266 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44266
+Bronceadores -> CATG17153 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17153
+Brownies y Galletas -> CATG17102 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17102
+Brócoli, Col, Coliflor y AlcachofaBrócoli, Col, Coliflor y Alcachofa -> CATG16982 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16982
+Budweiser -> CATG16873 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16873
+Cafeteras Eléctricas -> CATG48064 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48064
+Café -> CATG17739 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17739
+Café Instantáneo -> CATG17547 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17547
+Café Molido y Grano -> CATG17546 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17546
+Café e infusiones -> CATG16809 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16809/Cafe-e-Infusiones
+Cajas y Contenedores -> CATG47705 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47705
+Calamares -> CATG10154 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10154
+Calzado -> CATG48274 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48274
+Calzado Hombre -> CATG47885 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47885
+Camas -> CATG47606 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47606
+Camisas -> CATG48015 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48015
+Camotes y Chifles -> CATG17177 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17177
+Camping -> CATG47871 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47871
+Cancha Chullpi -> CATG17184 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17184
+Canela -> CATG17617 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17617
+Caramelos -> CATG44548 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44548
+Caramelos y Chupetes -> CATG16767 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16767
+Carbón y Leña -> CATG43337 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43337
+Carne Angus -> CATG17440 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17440
+Carne Importada -> CATG17441 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17441
+Carne Nacional -> CATG17442 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17442
+Carne de Cerdo -> CATG16956 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16956
+Carne de Pollo -> CATG16957 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16957
+Carne de Res -> CATG16958 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16958
+Carnes -> CATG16837 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16837
+Carnes -> CATG16076 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16076/Carnes
+Carnes Regionales -> CATG10157 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10157
+Carpas -> CATG47967 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47967
+Carritos de Mercado -> CATG47625 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47625
+Cartavio -> CATG17977 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17977
+Casacas -> CATG48005 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48005
+Casacas -> CATG48013 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48013
+Casacas -> CATG48020 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48020
+Casacas -> CATG48027 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48027
+Cebada -> CATG17549 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17549
+Cepillos Dentales -> CATG18345 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18345
+Cepillos Elétricos -> CATG44182 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44182
+Cepillos Regulares -> CATG44181 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44181
+Cerdo -> CATG17785 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17785
+Cerdo -> CATG35350 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35350
+Cerdo -> CATG35417 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35417
+Cerdo -> CATG16920 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16920
+Cerdo -> CATG17692 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17692
+Cerdo Duroc -> CATG17684 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17684
+Cerdo Duroc -> CATG17437 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17437
+Cereales -> CATG16810 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16810
+Cereales Dietéticos -> CATG17554 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17554
+Cereales Infantiles -> CATG17556 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17556
+Cereales de Maíz Natural -> CATG17552 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17552
+Cereales y Galletas -> CATG18332 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18332
+Cervezas -> CATG17457 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17457
+Cervezas -> CATG16070 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16070/Cervezas
+Cervezas Artesanales -> CATG16869 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16869
+Chicles -> CATG44550 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44550
+Chivas Regal -> CATG17972 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17972
+Chizitos y Chicharrones -> CATG17180 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17180
+Choclo, Zanahoria, Pepinos y BeterragasChoclo, Zanahoria, Pepinos y Beterragas -> CATG16980 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16980
+Chocolate de Taza -> CATG17562 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17562
+Chocolates -> CATG17715 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17715
+Chocolates -> CATG16764 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16764
+Chompas y Chalecos -> CATG48004 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48004
+Chompas y Sudaderas -> CATG48019 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48019
+Chompas y Sudaderas -> CATG48026 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48026
+Chompas y Sudaderas -> CATG48034 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48034
+Chompas y Sudaderas -> CATG48038 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48038
+Chorizos -> CATG17743 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17743
+Chorizos -> CATG16959 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16959
+Chorizos Especiales -> CATG36874 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36874
+Chorizos Parrilleros -> CATG17696 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17696
+Chupetes -> CATG16765 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16765
+Climatización -> CATG47900 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47900
+Cloro -> CATG43247 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43247
+Coca Cola -> CATG17955 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17955
+Cocina -> CATG43266 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43266
+Cocina Entretenida -> CATG48066 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48066
+Cocinas -> CATG47849 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47849
+Cocoas -> CATG17559 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17559
+Cojines -> CATG47650 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47650
+Colados -> CATG18333 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18333
+Colchones Inflables -> CATG47968 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47968
+Collares -> CATG36345 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36345
+Colonias -> CATG44170 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44170
+Colonias -> CATG18350 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18350
+Colonias y Perfumes -> CATG17819 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17819
+Coloración -> CATG18370 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18370
+Combos -> CATG48281 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48281
+Comedor -> CATG47666 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47666/Comedor
+Comidas Congeladas -> CATG17779 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17779
+Comidas Congeladas -> CATG17532 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17532
+Comidas Listas -> CATG17794 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17794
+Comidas Listas CongeladasComidas Listas Congeladas -> CATG17531 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17531
+Comidas Preparadas -> CATG17661 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17661
+Complementos -> CATG16960 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16960
+Complementos -> CATG17175 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17175
+Complementos -> CATG23900 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23900
+Complementos -> CATG16850 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16850
+Complementos y Suplementos -> CATG17561 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17561
+Compras por Volumen -> CATG16772 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16772
+Con Especias -> CATG17600 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17600
+Conchas -> CATG10153 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10153
+Condimentos -> CATG16819 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16819
+Condimentos y EspeciasCondimentos y Especias -> CATG16844 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16844
+Confitería y Snacks -> CATG16829 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16829
+Congelados -> CATG16062 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16062/Productos-Congelados
+Conjuntos -> CATG48035 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48035
+Conjuntos -> CATG48039 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48039
+Conservas -> CATG17705 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17705
+Conservas -> CATG16825 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16825
+Contenedores y Herméticos -> CATG47695 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47695
+Coolers -> CATG47969 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47969
+Copas -> CATG23905 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23905
+Corona -> CATG16864 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16864
+Correpasillos -> CATG47860 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47860
+Cortes Caseros -> CATG17681 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17681
+Cortes Caseros -> CATG17686 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17686
+Cortes Caseros Nacional -> CATG17665 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17665
+Cortes Congelados -> CATG43441 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43441
+Cortes Light -> CATG17677 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17677
+Cortes Parrilleros -> CATG17682 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17682
+Cortes Parrilleros Nacional -> CATG17670 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17670
+Cortes Frescos -> CATG17676 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17676
+Cortinas de Baño -> CATG47654 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47654
+Cosméticos -> CATG44172 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44172
+Costillar y Panceta -> CATG17434 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17434
+Crema de Leche -> CATG23591 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23591
+Crema de Leche -> CATG17093 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17093
+Cremas -> CATG17654 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17654
+Cremas Corporales -> CATG44139 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44139
+Cremas Dentales -> CATG44180 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44180
+Cremas Dentales -> CATG18346 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18346
+Cremas Faciales -> CATG44120 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44120
+Cremas Untables -> CATG35336 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35336
+Cremas para Peinar -> CATG44203 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44203
+Cremas para Peinar -> CATG44305 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44305
+Cremas para Peinar -> CATG44301 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44301
+Cremas para Peinar -> CATG44289 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44289
+Cremas para Peinar -> CATG44285 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44285
+Cremas para Peinar -> CATG44281 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44281
+Cremas para Peinar -> CATG44293 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44293
+Cremas para Peinar -> CATG44297 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44297
+Cremas y Lociones -> CATG18349 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18349
+Cristal -> CATG16865 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16865
+Croissant Enrollados y OtrosCroissant Enrollados y Otros -> CATG16885 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16885
+Croissant y Enrollados -> CATG17797 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17797
+Cuadernos y Agendas -> CATG47613 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47613
+Cuadros -> CATG47733 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47733
+Cuatro Gallos -> CATG17986 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17986
+Cubiertos -> CATG43312 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43312
+Cubitos -> CATG17657 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17657
+Cubrecamas y Edredones -> CATG47647 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47647
+Cuchillos -> CATG23907 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23907
+Cuchillos y Tablas -> CATG47693 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47693
+Cuidado Capilar -> CATG16886 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16886
+Cuidado Facial -> CATG17822 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17822
+Cuidado Hombre -> CATG44176 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44176
+Cuidado Mujer -> CATG44177 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44177
+Cuidado Personal -> CATG16830 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16830
+Cuidado Personal -> CATG47898 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47898
+Cuidado Personal -> CATG16072 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16072/Cuidado-Personal
+Cuidado del Cabello -> CATG17724 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17724
+Cuidado del Cabello -> CATG16900 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16900
+Cuidado del Color -> CATG44271 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44271
+Cuidado del Rostro -> CATG16757 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16757
+Cuidado e Higiene -> CATG17776 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17776
+Cuidado para Mascotas -> CATG36350 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36350
+Curitas y Banditas -> CATG44206 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44206
+Cusqueña -> CATG16866 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16866
+Cápsulas y Complementos -> CATG17545 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17545
+Cítricos -> CATG17085 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17085
+Cómputo -> CATG47878 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47878
+Date un Gusto -> CATG16770 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16770
+De Cocina -> CATG17598 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17598
+De Maras -> CATG17599 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17599
+De Mesa -> CATG17596 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17596
+Decoración -> CATG47672 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47672
+Depilación Femenina -> CATG44196 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44196
+Desatorador -> CATG43322 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43322
+Desayunos -> CATG16831 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16831
+Desayunos -> CATG16065 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16065/Desayunos
+Descartables -> CATG17765 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17765
+Deshumedecedores -> CATG43306 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43306
+Desinfectantes -> CATG43268 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43268
+Desmaquillantes -> CATG17823 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17823
+Desmaquillantes -> CATG44165 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44165
+Desodorante Aerosol -> CATG44204 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44204
+Desodorantes -> CATG17725 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17725
+Desodorantes Roll On -> CATG44193 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44193
+Desodorantes Roll On -> CATG44187 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44187
+Desodorantes en Aerosol -> CATG44191 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44191
+Desodorantes en Barra -> CATG44205 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44205
+Desodorantes en Barra -> CATG44186 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44186
+Detergente Líquido -> CATG43244 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43244
+Detergente en Polvo -> CATG43243 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43243
+Detergente y Cuidado de la RopaDetergente y Cuidado de la Ropa -> CATG17770 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17770
+Doble Hoja -> CATG43330 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43330
+Dulces y Galletas -> CATG16059 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16059/Confiteria
+Duraznos, Sandías, Melones y MangosDuraznos, Sandías, Melones y Mangos -> CATG16995 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16995
+Edam Gouda y Danbo -> CATG35337 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35337
+Edulcorante -> CATG17083 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17083
+Edulcorantes -> CATG17544 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17544
+Elaborados -> CATG17678 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17678
+Elaborados -> CATG17683 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17683
+Elaborados -> CATG17687 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17687
+Elaborados -> CATG17443 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17443
+Elaborados y Marinados -> CATG17435 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17435
+Elaborados y Menudencias -> CATG17667 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17667
+Electro Hogar -> CATG16077 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16077/Electro-Hogar
+Eléctricos -> CATG43307 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43307
+Empacados -> CATG17798 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17798
+Empanadas y SandwichesEmpanadas y Sandwiches -> CATG17539 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17539
+Empanizados -> CATG10142 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10142
+En Pasta -> CATG43275 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43275
+Encendido de Parrilla -> CATG43336 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43336
+Endulzantes -> CATG16744 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16744
+Energizantes -> CATG16848 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16848
+Enjuague Bucal -> CATG44183 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44183
+Entero -> CATG17675 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17675
+Entero -> CATG17685 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17685
+Enteros -> CATG10137 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10137
+Equipos de Sonido -> CATG47988 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47988
+Escobas -> CATG43319 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43319
+Escobillas -> CATG43323 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43323
+Escolar -> CATG16054 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16054/Escritorio
+España -> CATG35340 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35340
+España -> CATG10117 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10117
+España -> CATG17426 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17426
+España -> CATG17430 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17430
+Especial -> CATG17593 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17593
+Especial -> CATG17604 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17604
+Especiales -> CATG17663 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17663
+Especiales -> CATG34908 -> https://www.tottus.com.pe/tottus-pe/lista/CATG34908
+Especiales -> CATG36873 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36873
+Especializados -> CATG43276 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43276
+Especias -> CATG16820 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16820
+Espejos -> CATG47729 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47729
+Esponjas -> CATG43316 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43316
+Espumante y Cava -> CATG17995 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17995
+Espumas de Afeitar -> CATG44189 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44189
+Estuches y Packs -> CATG44174 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44174
+Exfoliantes -> CATG44166 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44166
+Extra -> CATG17591 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17591
+Extractores -> CATG48062 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48062
+Exóticas -> CATG17086 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17086
+Familiar -> CATG17592 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17592
+Fanta -> CATG17957 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17957
+Fiambres Gourmet -> CATG17744 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17744
+Fiambres Gourmet -> CATG16775 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16775
+Fiambres Gourmet -> CATG16968 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16968
+Figuras de Acción -> CATG47847 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47847
+Fijadores de Cabello -> CATG44202 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44202
+Filete -> CATG17438 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17438
+Filetes y Porciones -> CATG10138 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10138
+Fitness -> CATG47872 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47872
+Flan y Pudín -> CATG17103 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17103
+Flor de Caña -> CATG17978 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17978
+Floreros -> CATG47732 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47732
+Flores Artificiales -> CATG47731 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47731
+Franceses y Tradicionales -> CATG16883 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16883
+Francia -> CATG35341 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35341
+Francia -> CATG17425 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17425
+Frankfurter -> CATG17455 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17455
+Frankfurter y Otras SalchichasFrankfurter y Otras Salchichas -> CATG35416 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35416
+Frascos y Canisters -> CATG47691 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47691
+Frazadas y Mantas -> CATG47648 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47648
+Freidoras -> CATG48056 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48056
+Fresas y Arándanos -> CATG16993 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16993
+Fresas y Berries -> CATG17087 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17087
+Frescos -> CATG16908 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16908
+Fresh -> CATG17953 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17953
+Frijoles -> CATG17646 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17646
+Frutas -> CATG17791 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17791
+Frutas -> CATG17659 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17659
+Frutas -> CATG16747 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16747
+Frutas -> CATG23911 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23911
+Frutas Congeladas -> CATG43223 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43223
+Frutas Picadas -> CATG16997 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16997/Frutas-Picadas
+Frutas y Vegetales -> CATG17783 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17783
+Frutas y Verduras -> CATG16839 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16839
+Frutas y Verduras -> CATG16050 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16050/Frutas-y-Verduras
+Frutas y Verduras CongeladasFrutas y Verduras Congeladas -> CATG16794 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16794
+Frutos Secos -> CATG17714 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17714
+Frutos Secos -> CATG16762 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16762
+Frutos Secos -> CATG23908 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23908
+Fórmulas Lácteas -> CATG18331 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18331
+Fósforos -> CATG43338 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43338
+Galletas -> CATG17717 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17717
+Galletas -> CATG16769 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16769
+Galletas y Wafers -> CATG16748 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16748
+Garbanzos -> CATG17644 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17644
+Gaseosas -> CATG23957 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23957
+Gaseosas -> CATG16845 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16845
+Gaseosas, Agua y Jugos -> CATG16068 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16068/Bebidas
+Gatos -> CATG16741 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16741
+Gel de Ducha -> CATG18382 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18382
+Gelatina -> CATG17104 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17104
+Ginger Ale -> CATG17970 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17970
+Girasol -> CATG17602 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17602
+Go Karts y Bicicletas -> CATG47865 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47865
+Gomitas -> CATG44549 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44549
+Gourmet -> CATG16878 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16878
+Granadillas, Tunas y PitahayasGranadillas, Tunas y Pitahayas -> CATG16992 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16992
+Granolas y Muslis -> CATG17558 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17558
+Graso y Mixto -> CATG44265 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44265
+Guantes -> CATG43318 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43318
+Guaraná -> CATG17958 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17958
+Hamburguesas -> CATG17695 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17695
+Hamburguesas -> CATG16791 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16791
+Hamburguesas -> CATG23931 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23931
+Hamburguesas -> CATG16961 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16961
+Hamburguesas y Enrollados -> CATG17778 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17778
+Harina -> CATG16826 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16826
+Harina y Maicena -> CATG16749 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16749
+Havana Club -> CATG17981 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17981
+Heineken -> CATG16867 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16867
+Helados -> CATG17777 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17777
+Helados -> CATG16789 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16789
+Helados Importados -> CATG17214 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17214
+Hervidores -> CATG48055 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48055
+Hidratantes -> CATG44133 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44133
+Hielo -> CATG17784 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17784
+Hielo -> CATG16795 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16795
+Hielo -> CATG16851 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16851
+Hierbas -> CATG17551 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17551
+Higiene -> CATG36333 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36333
+Higiene Bucal -> CATG17711 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17711
+Higiene Bucal -> CATG44175 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44175
+Higiene Íntima -> CATG44197 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44197
+Hilo Dental -> CATG44184 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44184
+Hisense -> CATG47875 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47875/Tv?facetSelected=true&f.variant.attribute.marca=hisense
+Honor -> CATG47880 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47880/Telefonia?facetSelected=true&f.variant.attribute.marca=honor
+Hornos Eléctricos -> CATG48059 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48059
+Huancaína -> CATG17640 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17640
+Huesos -> CATG43363 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43363
+Huevos -> CATG17746 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17746
+Huevos -> CATG16750 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16750
+Huevos de Codorniz -> CATG16776 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16776
+Huevos de Gallina -> CATG16777 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16777
+Huevos y Fiambres -> CATG16832 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16832
+Huevos y Fiambres -> CATG16060 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16060/Huevos-y-Fiambres
+Huggies -> CATG18335 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18335
+Impresoras -> CATG47992 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47992
+Inca Kola -> CATG17954 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17954
+Incontinencia -> CATG17726 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17726
+Incontinencia -> CATG44178 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44178
+Incontinencia Leve -> CATG44199 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44199
+Inflables -> CATG47859 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47859
+Insecticidas -> CATG43328 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43328
+Integral -> CATG17594 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17594
+Integrales Arroz y SaludablesIntegrales Arroz y Saludables -> CATG17194 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17194
+Italia -> CATG35342 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35342
+Italia -> CATG10116 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10116
+Italia -> CATG17424 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17424
+Italia -> CATG17431 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17431
+Jabones -> CATG43248 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43248
+Jabones -> CATG16888 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16888
+Jabones -> CATG18340 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18340
+Jabón Antibacterial -> CATG18378 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18378
+Jabón de Glicerina -> CATG18379 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18379
+Jabón en Barra -> CATG18377 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18377
+Jager Aperol y Bitter -> CATG18004 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18004
+Jamonadas -> CATG10121 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10121
+Jamones -> CATG16778 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16778
+Jamones y Jamonadas -> CATG17747 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17747
+Jamón Pizzero e Inglés -> CATG10118 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10118
+Jamón de Pavo y Pavita -> CATG10120 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10120
+Jamón del País y Ahumado -> CATG35412 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35412
+Jean y Pantalones -> CATG48003 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48003
+Jean y Pantalones -> CATG48011 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48011
+Jeans y Pantalones -> CATG48018 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48018
+Jeans y Pantalones -> CATG48025 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48025
+Jeans y Pantalones -> CATG48033 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48033
+Jeans y Pantalones -> CATG48037 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48037
+Johnnie Walker -> CATG17971 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17971
+Juego de Ollas -> CATG47687 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47687
+Juegos Para 4 Personas -> CATG47726 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47726
+Juegos Para 6 Personas -> CATG47725 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47725
+Juegos de Jardín -> CATG47857 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47857
+Juegos de Mesa -> CATG47675 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47675
+Juegos de Playa -> CATG47861 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47861
+Juegos de Rol -> CATG47850 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47850
+Juegos de Roles -> CATG47679 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47679
+Jugos -> CATG23958 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23958
+Jugos Naturales -> CATG23961 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23961
+Jugos Naturales -> CATG16996 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16996
+Jugos Naturales -> CATG17967 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17967
+Jugos en Polvo -> CATG17965 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17965
+Jugos y Otras Bebidas -> CATG17964 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17964
+Jugos y Tés Líquidos -> CATG16847 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16847
+Juguetería -> CATG16053 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16053/Jugueteria
+Juguetes -> CATG36347 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36347
+Juguetes Pre Escolar -> CATG47833 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47833
+Juguetes de Bebé -> CATG47832 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47832
+Kekes Tartas y Bocaditos -> CATG17721 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17721
+Kekes Turrones y King kongs -> CATG17569 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17569
+Kekes y Chifones -> CATG16799 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16799
+Kekes y Tortas -> CATG17105 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17105
+Ketchup -> CATG17635 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17635
+La Pastelería -> CATG34314 -> https://www.tottus.com.pe/tottus-pe/lista/CATG34314
+Langostinos -> CATG10152 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10152
+Lanzadores -> CATG47846 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47846
+Lanzamientos del Mes -> CATG16843 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16843
+Laptops Gamer -> CATG47994 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47994
+Lavavajillas -> CATG17767 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17767
+Leche -> CATG17094 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17094
+Leche Condensada -> CATG17095 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17095
+Leche Descremada -> CATG23585 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23585
+Leche Entera -> CATG23583 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23583
+Leche Evaporada -> CATG23582 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23582
+Leche Fresca -> CATG23584 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23584
+Leche Light -> CATG23592 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23592
+Leche Saborizada -> CATG23589 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23589
+Leche UHT -> CATG23593 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23593
+Leche en Polvo -> CATG23590 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23590
+Leche para Niños -> CATG23588 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23588
+Leche sin Lactosa -> CATG10124 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10124
+Leches UHT -> CATG17756 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17756
+Leches Vegetales -> CATG17757 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17757
+Leches Vegetales -> CATG23587 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23587
+Leches en Bolsa -> CATG23586 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23586
+Leches y Cremas -> CATG17758 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17758
+Leches y Cremas -> CATG16782 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16782/Leches
+Lechugas, Espinacas y Hojas -> CATG16985 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16985
+Leggings -> CATG48029 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48029
+Lejía -> CATG17764 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17764
+Lentejas -> CATG17647 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17647
+Levadura y Polvo para HornearLevadura y Polvo para Hornear -> CATG16752 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16752
+Librería -> CATG47601 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47601
+Licores -> CATG23959 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23959
+Licores de Crema -> CATG18001 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18001
+Licuadoras -> CATG48058 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48058
+Limones, Naranjas y MandarinasLimones, Naranjas y Mandarinas -> CATG16994 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16994
+Limpia Vidrios y Multiusos -> CATG43269 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43269
+Limpiadores -> CATG17768 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17768
+Limpiatodo -> CATG43264 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43264
+Limpieza Facial -> CATG17155 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17155
+Liso y Volumen -> CATG44267 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44267
+Listo para Calentar -> CATG16806 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16806
+Lomos y Chuletas -> CATG17436 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17436
+Loncheras y Cartucheras -> CATG47615 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47615
+Lustramuebles -> CATG43271 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43271
+Lácteos -> CATG16833 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16833
+Lácteos -> CATG16751 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16751
+Lácteos y Quesos -> CATG16061 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16061/Lacteos
+Líquido Antibacterial -> CATG18381 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18381
+Líquidos -> CATG43274 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43274
+Maletas -> CATG47621 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47621
+Maletería -> CATG47603 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47603
+Manteca -> CATG17099 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17099
+Mantecas y Aceites -> CATG16753 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16753
+Manteles e Individuales -> CATG47701 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47701
+Mantequilla -> CATG17100 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17100
+Mantequilla de Maní -> CATG17577 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17577
+Mantequillas -> CATG35329 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35329
+Mantequillas y Margarinas -> CATG17759 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17759
+Manzanas y Peras -> CATG17088 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17088
+Manzanas, Peras, Uvas y MembrillosManzanas, Peras, Uvas y Membrillos -> CATG16987 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16987
+Maní -> CATG17170 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17170
+Marca Tottus -> CATG16838 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16838/Pescados-y-Mariscos
+Marca Tottus -> CATG16067 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16067/Marca-Tottus
+Margarina -> CATG17101 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17101
+Margarinas -> CATG35328 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35328
+Mariscos -> CATG17452 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17452
+Mariscos Congelados -> CATG17789 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17789
+Mariscos Congelados -> CATG16909 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16909
+Marshmellows -> CATG16768 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16768
+Marshmellows y GomitasMarshmellows y Gomitas -> CATG16771 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16771
+Mascarillas -> CATG17158 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17158
+Mascotas -> CATG16835 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16835
+Mascotas Interactivas -> CATG47840 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47840
+Mayonesa -> CATG17636 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17636
+Mazamorra y Arroz con Leche -> CATG17106 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17106
+Maíz Pistachos y Habas -> CATG17173 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17173
+Menaje Cocina -> CATG47665 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47665
+Menaje Infantil -> CATG47704 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47704
+Menaje Mesa -> CATG47671 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47671
+Menestras -> CATG17707 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17707
+Menestras -> CATG16823 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16823
+Menudencias -> CATG17679 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17679
+Mermelada Light y Sin AzúcarMermelada Light y Sin Azúcar -> CATG17571 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17571
+Mermelada de Fresa -> CATG17572 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17572
+Mermelada de Sabores -> CATG17573 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17573
+Mermeladas -> CATG23909 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23909
+Mermeladas Mieles y Dulces -> CATG17734 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17734
+Mermeladas Mieles y DulcesMermeladas Mieles y Dulces -> CATG16813 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16813
+Mesa de Centro y Auxiliares -> CATG47720 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47720
+Metales -> CATG43273 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43273
+Mezclas Lácteas -> CATG16788 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16788
+Mezclas para Apanar -> CATG17656 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17656
+Microondas -> CATG48060 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48060
+Miel -> CATG17084 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17084
+Miel -> CATG23914 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23914
+Miel de Abeja -> CATG17575 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17575
+Mimi -> CATG16898 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16898/Panales?facetSelected=true&f.variant.attribute.marca=mimi
+Mix -> CATG17178 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17178
+Mixers -> CATG17969 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17969
+Mixes -> CATG17174 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17174
+Mixturas -> CATG10155 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10155
+Mochilas -> CATG47614 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47614
+Modificadores de Leche -> CATG17560 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17560
+Modificadores y ComplementosModificadores y Complementos -> CATG16811 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16811
+Molde Blanco -> CATG36117 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36117
+Molde Integral -> CATG36118 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36118
+Molde de la Casa -> CATG43004 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43004
+Moldes y Bolos -> CATG47692 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47692
+Molidas -> CATG17666 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17666
+Mondadientes -> CATG43313 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43313
+Mopas -> CATG43321 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43321
+Morcillas -> CATG35420 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35420
+Morcillas -> CATG16962 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16962
+Mostaza -> CATG17637 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17637
+Motos -> CATG47851 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47851
+Mueble de Cocina -> CATG47727 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47727
+Mundo Mascotas -> CATG16055 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16055/Mundo%20Mascotas
+Mundo Oriental -> CATG16984 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16984/Champinones-y-Orientales
+Mundo Parrillero -> CATG16081 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16081/Parrilla
+Muñecas y Accesorios -> CATG47841 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47841
+Máquinas de Afeitar y RepuestosMáquinas de Afeitar y Repuestos -> CATG44188 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44188
+Máquinas de Coser -> CATG47901 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47901
+Niñas -> CATG47677 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47677
+Niños -> CATG47837 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47837
+Niños -> CATG47678 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47678
+Nuggets y Empanizados -> CATG16790 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16790
+Nutrición Capilar -> CATG44269 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44269
+Oficina -> CATG47670 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47670
+Old Parr -> CATG17975 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17975
+Oliva -> CATG17605 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17605
+Ollas Arroceras -> CATG48061 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48061
+Ollas Sueltas -> CATG47688 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47688
+Ondas y Rizos -> CATG44264 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44264
+Organización -> CATG47667 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47667
+Organización Baño -> CATG47708 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47708
+Organización Cocina -> CATG47706 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47706
+Organización Dormitorio -> CATG47707 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47707
+Organización Lavanderia -> CATG47709 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47709
+Orgánico -> CATG17603 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17603
+Orgánicos y Verduras BabyOrgánicos y Verduras Baby -> CATG10160 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10160
+Orégano -> CATG17619 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17619
+Otras -> CATG17960 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17960
+Otras Especias -> CATG17630 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17630
+Otras Legumbres -> CATG17650 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17650
+Otras Marcas de CervezaOtras Marcas de Cerveza -> CATG16870 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16870
+Otras Salsas -> CATG17634 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17634
+Otras Salsas -> CATG17638 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17638
+Otras Tortas -> CATG17226 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17226
+Otros -> CATG35343 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35343
+Otros -> CATG10140 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10140
+Otros -> CATG17429 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17429
+Otros -> CATG43325 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43325
+Otros -> CATG43315 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43315
+Otros Accesorios -> CATG47973 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47973
+Otros Ambientadores -> CATG43308 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43308
+Otros Fiambres -> CATG17748 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17748
+Otros Fiambres -> CATG16779 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16779
+Otros Juguetes -> CATG47843 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47843
+Otros Juguetes -> CATG47848 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47848
+Otros Licores -> CATG16857 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16857
+Otros Limpiadores -> CATG43267 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43267
+Otros Piscos -> CATG17990 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17990
+Otros Rones -> CATG17984 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17984
+Otros Whiskys -> CATG17976 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17976
+Pack Jamón y Queso -> CATG34903 -> https://www.tottus.com.pe/tottus-pe/lista/CATG34903
+Packs -> CATG44277 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44277
+Packs Ahorradores -> CATG17680 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17680
+Paises Bajos -> CATG35344 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35344
+Paletas y Postres -> CATG17215 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17215
+Palitos -> CATG43314 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43314
+Pallares -> CATG17648 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17648
+Paltas y Frutas Nativas -> CATG16991 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16991
+Pampers -> CATG18337 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18337
+Pan Artesanal -> CATG17800 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17800
+Pan Baguette y Especiales -> CATG17799 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17799
+Pan Clásico -> CATG17796 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17796
+Pan Hamburguesa y Hot Dog -> CATG17566 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17566
+Pan de Molde Blanco -> CATG17565 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17565
+Pan de Molde Integral -> CATG17567 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17567
+Pan de la Casa y Pan de MoldePan de la Casa y Pan de Molde -> CATG16882 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16882
+Pan Árabe y Pita -> CATG17564 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17564
+Panadería -> CATG17741 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17741
+Panadería -> CATG16841 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16841
+Panadería -> CATG16812 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16812
+Panadería -> CATG23912 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23912
+Panadería -> CATG16071 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16071/Panaderia
+Panela y Otros Endulzantes -> CATG17542 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17542
+Panes Congelados -> CATG16881 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16881
+Panetón -> CATG10127 -> https://www.tottus.com.pe/tottus-pe/lista/CATG10127
+Panetón -> CATG17568 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17568
+Panqueques -> CATG35886 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35886
+Panqueques y Muffins -> CATG17107 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17107
+Papas y Camotes -> CATG16977 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16977
+Papayas y Piñas -> CATG17089 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17089
+Papel Aluminio -> CATG43326 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43326
+Papel Toalla -> CATG17004 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17004
+Papelería -> CATG47612 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47612
+Papeles Higiénicos -> CATG16682 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16682
+Papitas y Yucas -> CATG17176 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17176
+Para Calzado -> CATG43353 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43353
+Para la Parrilla -> CATG16774 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16774/Chorizos
+Parlantes Bluetooth -> CATG47986 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47986
+Parrillas Eléctricas -> CATG48065 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48065
+Parrillera -> CATG17597 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17597
+Parrilleras -> CATG35348 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35348
+Parrilleros -> CATG34907 -> https://www.tottus.com.pe/tottus-pe/lista/CATG34907
+Parrilleros -> CATG36872 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36872
+Pasas Guindones Damascos Albaricoques y DátilesPasas Guindones Damascos Albaricoques y Dátiles -> CATG17169 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17169
+Pasta -> CATG16818 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16818
+Pastas -> CATG17220 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17220
+Pastas Congeladas -> CATG17535 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17535
+Pastas Cortas -> CATG17606 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17606
+Pastas Especiales -> CATG17609 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17609
+Pastas Largas -> CATG17608 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17608
+Pastas Rellenas -> CATG17607 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17607
+Pastelería -> CATG16842 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16842
+Pastelería -> CATG16063 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16063/Pasteleria
+Pasteles y Enrollados -> CATG37954 -> https://www.tottus.com.pe/tottus-pe/lista/CATG37954
+Paté y Mortadela -> CATG35418 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35418
+Pavo -> CATG35414 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35414
+Pavo -> CATG16921 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16921
+Países Bajos -> CATG17427 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17427
+Pañales para Adulto -> CATG44198 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44198
+Paños -> CATG43317 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43317
+Pañuelos -> CATG37941 -> https://www.tottus.com.pe/tottus-pe/lista/CATG37941
+Pañuelos Desechables -> CATG17003 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17003
+Pecanas y Cashews -> CATG17171 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17171
+Pechugas y Trozados -> CATG17439 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17439
+Pelotas -> CATG44100 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44100
+Pelotas -> CATG47862 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47862
+Peluches -> CATG47676 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47676
+Peluches -> CATG47839 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47839
+Pepsi -> CATG17956 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17956
+Perfumería -> CATG44168 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44168
+Perfumería Bebé -> CATG17712 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17712
+Perfumes -> CATG44169 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44169
+Perros -> CATG16740 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16740
+Pescados -> CATG17453 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17453
+Pescados Congelados -> CATG17788 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17788
+Pescados Congelados -> CATG16907 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16907
+Pescados en Conserva -> CATG17660 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17660/Pescados
+Pescados y Mariscos -> CATG17694 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17694
+Pescados y Mariscos -> CATG16963 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16963
+Pescados y Mariscos -> CATG16074 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16074/Pescados-y-Mariscos
+Pilsen -> CATG16863 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16863
+Pimienta -> CATG17618 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17618
+Piscinas -> CATG47858 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47858
+Pisco -> CATG16854 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16854
+Pistas de Auto -> CATG47845 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47845
+Pizzas -> CATG17221 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17221
+Pizzas -> CATG16805 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16805
+Pizzas Congeladas -> CATG17528 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17528
+Pizzas Horneadas -> CATG17793 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17793
+Pizzas Pastas y BocaditosPizzas Pastas y Bocaditos -> CATG16792 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16792
+Pizzas Recién Horneadas -> CATG17527 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17527
+Pizzas Refrigeradas -> CATG17795 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17795
+Pizzas Refrigeradas -> CATG17529 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17529
+Pizzas y Masas Congeladas -> CATG17781 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17781
+Planchas -> CATG48054 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48054
+Platos -> CATG43311 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43311
+Platos -> CATG43365 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43365
+Platos Preparados -> CATG16840 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16840
+Platos Preparados -> CATG17530 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17530
+Platos Preparados -> CATG16064 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16064/Platos-Preparados
+Plásticos y Bandejas -> CATG43327 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43327
+Plátanos -> CATG17090 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17090
+Plátanos, Papayas, Piñas y TropicalesPlátanos, Papayas, Piñas y Tropicales -> CATG16986 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16986
+Pollo -> CATG17786 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17786
+Pollo -> CATG35415 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35415
+Pollo -> CATG16919 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16919
+Pollo -> CATG17691 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17691
+Pollo Broaster y PiqueoPollo Broaster y Piqueo -> CATG34298 -> https://www.tottus.com.pe/tottus-pe/lista/CATG34298
+Pollo Rostizado -> CATG16804 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16804
+Pollo y Pavo -> CATG34905 -> https://www.tottus.com.pe/tottus-pe/lista/CATG34905
+Polos -> CATG48010 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48010
+Polos y Blusas -> CATG48002 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48002
+Polos y Blusas -> CATG48024 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48024
+Polos y Blusas -> CATG48036 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48036
+Polos y Camisas -> CATG48017 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48017
+Polos y Camisas -> CATG48032 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48032
+Pop Corn -> CATG17649 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17649
+Popcorn -> CATG17179 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17179
+Portaretratos -> CATG47734 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47734
+Porterhouse Angus Choice -> CATG17674 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17674
+Portón -> CATG17989 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17989
+Postres -> CATG16798 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16798
+Postres Instantáneos -> CATG16754 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16754
+Potes -> CATG34911 -> https://www.tottus.com.pe/tottus-pe/lista/CATG34911
+Precio Uno -> CATG48294 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48294/Dormitorio?facetSelected=true&f.variant.attribute.marca=precio+uno
+Preparada -> CATG17664 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17664
+Pretzels y Otros -> CATG17181 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17181
+Primera Edad -> CATG47674 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47674
+Productos Congelados -> CATG16836 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16836
+Productos de Pollo -> CATG17780 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17780
+Protección Femenina -> CATG17731 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17731
+Protección Solar -> CATG16756 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16756
+Protectores Diarios -> CATG44195 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44195
+Protectores de Cama -> CATG44200 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44200
+Puré Sopas y Bases -> CATG16824 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16824
+Purés -> CATG17653 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17653
+Queso Andino y Paria -> CATG35339 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35339
+Queso Crema -> CATG17096 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17096
+Queso Fresco y Mozzarella -> CATG35338 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35338
+Queso Parmesano -> CATG36930 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36930
+Quesos -> CATG16784 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16784/Quesos
+Quesos Gourmet y Regionales -> CATG17760 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17760
+Quesos del Mundo -> CATG16785 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16785
+Quesos del Mundo -> CATG16967 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16967
+Quinua -> CATG23610 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23610
+Quinua Kiwicha y Otros -> CATG17557 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17557
+Quitamanchas -> CATG43246 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43246
+Racks -> CATG47982 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47982
+Recogedores -> CATG43324 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43324
+Regalos y Packs -> CATG17818 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17818
+Regulares -> CATG35347 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35347
+Rehidratantes -> CATG16849 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16849
+Rellenas -> CATG17190 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17190
+Rellenos y Coberturas -> CATG16755 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16755
+Repelentes -> CATG18459 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18459
+Repostería -> CATG16056 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16056/Reposteria
+Res -> CATG17787 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17787
+Res -> CATG16918 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16918
+Res -> CATG17690 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17690
+Rodados y Coches -> CATG47835 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47835
+Rompecabezas -> CATG47838 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47838
+Ron -> CATG16853 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16853
+Ropa Bebé Niña -> CATG47891 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47891
+Ropa Bebé Niño -> CATG47890 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47890
+Ropa Hombre -> CATG47884 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47884
+Ropa Interior Desechable -> CATG44201 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44201
+Ropa Mujer -> CATG47882 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47882
+Ropa Niña -> CATG47888 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47888
+Ropa Niño -> CATG47886 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47886
+Ropa de Cama -> CATG47608 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47608
+Roperos -> CATG47710 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47710
+Rubios y Aclarantes -> CATG44270 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44270
+Saborizadas -> CATG17193 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17193
+Sal -> CATG16816 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16816
+Sala -> CATG47669 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47669
+Salchichas -> CATG16964 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16964
+Salchichas y Hot Dogs -> CATG17749 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17749
+Salchichas y Hot Dogs -> CATG16780 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16780
+Salchichas y Hot Dogs -> CATG17697 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17697
+Salsa Pesto -> CATG17633 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17633
+Salsa Tomate -> CATG17632 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17632
+Salsas -> CATG17750 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17750
+Salsas -> CATG17655 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17655
+Salsas Orientales -> CATG17616 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17616
+Salsas para Pasta -> CATG16821 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16821
+Salsas y Cocktail -> CATG16781 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16781/Salsas
+Salsas/Cremas -> CATG16822 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16822
+Salud y Bienestar -> CATG16896 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16896
+Saludables -> CATG35346 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35346
+Saludables -> CATG17182 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17182
+Sandwicheras -> CATG48063 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48063
+Sandías y Melones -> CATG17091 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17091
+Sangría -> CATG17996 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17996
+Santiago Queirolo -> CATG17985 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17985
+Sartenes y Woks -> CATG47689 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47689
+Sazonadores -> CATG17611 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17611
+Scolta -> CATG16876 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16876
+Secadores -> CATG47696 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47696
+Secadores de Pelo -> CATG48069 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48069
+Seco y Dañado -> CATG44268 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44268
+Servilletas -> CATG17002 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17002
+Set de Cubiertos -> CATG47698 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47698
+Set de Maletas -> CATG47624 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47624
+Set de Niñas -> CATG47842 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47842
+Shampoo -> CATG18367 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18367
+Shampoo -> CATG44278 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44278
+Shampoo -> CATG44302 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44302
+Shampoo -> CATG44298 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44298
+Shampoo -> CATG44286 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44286
+Shampoo -> CATG44282 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44282
+Shampoo -> CATG44275 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44275
+Shampoo -> CATG44290 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44290
+Shampoo -> CATG44294 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44294
+Shampoo -> CATG44306 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44306
+Shampoo -> CATG44310 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44310
+Shampoo -> CATG36349 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36349
+Siegen -> CATG48293 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48293/Electrohogar?facetSelected=true&f.variant.attribute.marca=siegen
+Sillao -> CATG17610 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17610
+Sillas Gamer -> CATG47722 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47722
+Sillas y Bancos -> CATG47728 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47728
+Simple -> CATG43329 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43329
+Sin Preparar -> CATG17662 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17662
+Siropes y Jaleas -> CATG17576 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17576
+Skates Patines y Scooters -> CATG47863 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47863
+Sleeping Bags -> CATG47970 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47970
+Smartwatches -> CATG47881 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47881
+Smirnoff -> CATG16856 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16856/Vodka?facetSelected=true&f.variant.attribute.marca=smirnoff
+Smirnoff -> CATG16858 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16858/Ready-To-Drink?facetSelected=true&f.variant.attribute.marca=smirnoff
+Snacks -> CATG17718 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17718
+Snacks -> CATG16966 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16966
+Snacks -> CATG16763 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16763
+Snacks -> CATG23910 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23910
+Snacks y Carnazas -> CATG17118 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17118
+Snacks y Frutos Secos -> CATG16058 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16058/Snacks
+Soda y Saladas -> CATG17195 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17195
+Sofás Camas y Sillones -> CATG47717 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47717
+Sogas -> CATG44101 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44101
+Something Special -> CATG17974 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17974
+Sopas -> CATG17652 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17652
+Soundbar y Home Theater -> CATG47981 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47981
+Soundbar y Home Theater -> CATG47989 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47989
+Sprite -> CATG17959 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17959
+Stella Artois -> CATG16875 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16875
+Stevias -> CATG17543 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17543
+Suavizantes -> CATG43245 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43245
+Suiza -> CATG35345 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35345
+Suiza -> CATG17428 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17428
+Superfoods -> CATG17563 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17563
+Superior -> CATG17595 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17595
+Sábanas -> CATG47646 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47646
+Sérum Facial -> CATG44134 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44134
+TV's entre 50"- 60" -> CATG47978 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47978
+TV's hasta 43" -> CATG47977 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47977
+TV's mayores a 60" -> CATG47979 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47979
+Tabernero -> CATG17987 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17987
+Tablas -> CATG23906 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23906
+Tablas de Piqueos -> CATG37399 -> https://www.tottus.com.pe/tottus-pe/lista/CATG37399
+Tablas y Copas -> CATG23902 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23902
+Talcos -> CATG18342 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18342
+Talcos y Desodorantes para PiesTalcos y Desodorantes para Pies -> CATG16892 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16892
+Tamales y Humitas -> CATG17538 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17538
+Tanqueray -> CATG18003 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18003/Gin?facetSelected=true&f.variant.attribute.marca=tanqueray
+Tartas y Roscas -> CATG16800 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16800
+Teteras y Cafeteras -> CATG47690 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47690
+Toallas Higiénicas y TamponesToallas Higiénicas y Tampones -> CATG44194 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44194
+Toallas y Piso -> CATG47652 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47652
+Toallitas Desinfectantes -> CATG43270 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43270
+Toallitas Desmaquillantes -> CATG44167 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44167
+Toallitas Húmedas -> CATG18339 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18339
+Toallitas Húmedas -> CATG36348 -> https://www.tottus.com.pe/tottus-pe/lista/CATG36348
+Tocino Cabanossi y Salame -> CATG35419 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35419
+Tocinos -> CATG16965 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16965
+Toffees y Tejas -> CATG17187 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17187
+Tomatodos y Termos -> CATG47694 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47694
+Tortas -> CATG16797 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16797
+Tortas Tres Leches -> CATG17224 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17224
+Tortas de Chocolate Fudge y ManjarTortas de Chocolate Fudge y Manjar -> CATG17227 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17227
+Tortas y Postres -> CATG17825 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17825
+Tortillas de Maíz -> CATG17183 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17183
+Tostadas -> CATG43005 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43005
+Tostadas Crissines y TortillasTostadas Crissines y Tortillas -> CATG17570 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17570
+Tostadas y Bocaditos -> CATG16877 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16877
+Tottus -> CATG18334 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18334
+Tradicional -> CATG43303 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43303
+Trapeadores -> CATG43320 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43320
+Tratamientos Capilares -> CATG18369 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18369
+Tratamientos Capilares -> CATG44304 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44304
+Tratamientos Capilares -> CATG44300 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44300
+Tratamientos Capilares -> CATG44288 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44288
+Tratamientos Capilares -> CATG44284 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44284
+Tratamientos Capilares -> CATG44280 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44280
+Tratamientos Capilares -> CATG44292 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44292
+Tratamientos Capilares -> CATG44296 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44296
+Tratamientos Capilares -> CATG44312 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44312
+Tres Cruces -> CATG16868 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16868
+Triple Hoja -> CATG43331 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43331
+Tropicales -> CATG17092 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17092
+Tuco -> CATG17614 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17614
+Tártara y Golf -> CATG17639 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17639
+Té Anís y Manzanilla -> CATG17548 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17548
+Tés Especiales y Saludables -> CATG17550 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17550
+Tés Líquidos -> CATG17966 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17966
+USA Angus Reserve -> CATG17668 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17668
+Uruguaya -> CATG17673 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17673
+Utensilios y Accesorios -> CATG47686 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47686
+Utiles -> CATG47611 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47611
+Uñas y Accesorios PersonalesUñas y Accesorios Personales -> CATG17816 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17816
+Vajilla -> CATG47697 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47697
+Vargas -> CATG17988 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17988
+Vasos -> CATG43310 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43310
+Vasos Copas y Jarras -> CATG47699 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47699
+Vegetal y Soya -> CATG17601 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17601
+Vegetales -> CATG17658 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17658
+Vegetarianos y Veganos -> CATG17782 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17782
+Velas -> CATG47735 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47735
+Velas y Toppers -> CATG16803 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16803
+Ventiladores -> CATG48073 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48073
+Verduras -> CATG17790 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17790
+Verduras -> CATG16978 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16978/Cebolla--Tomate--Ajo-y-Ajies
+Verduras Congeladas -> CATG43224 -> https://www.tottus.com.pe/tottus-pe/lista/CATG43224
+Vestidos -> CATG48028 -> https://www.tottus.com.pe/tottus-pe/lista/CATG48028
+Vienesa -> CATG17456 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17456
+Vinagre -> CATG17612 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17612
+Vino Blanco -> CATG17993 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17993
+Vino Dulce -> CATG17992 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17992
+Vino Rosé -> CATG23919 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23919
+Vino Rosé -> CATG17994 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17994
+Vino Tinto -> CATG23916 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23916
+Vino Tinto -> CATG17991 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17991
+Vinos -> CATG23960 -> https://www.tottus.com.pe/tottus-pe/lista/CATG23960
+Vinos -> CATG17458 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17458
+Vinos y Espumantes -> CATG16855 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16855
+Vitaminas -> CATG18453 -> https://www.tottus.com.pe/tottus-pe/lista/CATG18453
+Wafers e Importadas -> CATG17192 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17192
+Whisky -> CATG16852 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16852
+Yogurt -> CATG16783 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16783
+Yogurt -> CATG17097 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17097
+Yogurt Batido y Frutado -> CATG35331 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35331
+Yogurt Familiar -> CATG35330 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35330
+Yogurt Griego -> CATG35334 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35334
+Yogurt Light Familiar -> CATG35333 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35333
+Yogurt Mix -> CATG35332 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35332
+Yogurt Personal -> CATG35335 -> https://www.tottus.com.pe/tottus-pe/lista/CATG35335
+Zacapa -> CATG17979 -> https://www.tottus.com.pe/tottus-pe/lista/CATG17979
+Zapallos, Berenjenas y CaihuasZapallos, Berenjenas y Caihuas -> CATG16989 -> https://www.tottus.com.pe/tottus-pe/lista/CATG16989
+Zapateras -> CATG47711 -> https://www.tottus.com.pe/tottus-pe/lista/CATG47711
+Ácido Hialurónico -> CATG44135 -> https://www.tottus.com.pe/tottus-pe/lista/CATG44135

@@ -1,0 +1,1483 @@
+{
+  "tienda": "Tottus",
+  "fecha_actualizacion": "2025-08-25T20:07:56.286008",
+  "total_productos": 164,
+  "productos": [
+    {
+      "tienda": "Tottus",
+      "nombre": "FARAON",
+      "precio": "S/ 26.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 26.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "FARAON",
+      "precio": "S/ 4.49\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.49
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAISANA",
+      "precio": "S/ 20.90\nUN\n-19%\nS/ 25.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 20.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 3.75\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 3.75
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "VALLENORTE",
+      "precio": "S/ 4.80\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "VALLENORTE",
+      "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 23.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 3.60\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 3.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAISANA",
+      "precio": "S/ 5.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 5.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "VALLENORTE",
+      "precio": "S/ 5.60\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 5.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "VALLENORTE",
+      "precio": "S/ 21.90\nUN\n-15%\nS/ 25.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 21.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "VALLENORTE",
+      "precio": "S/ 4.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRAN CHALAN",
+      "precio": "S/ 25.30\nUN\n-4%\nS/ 26.30\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 25.3
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "FARAON",
+      "precio": "S/ 24.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 24.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "COSTENO",
+      "precio": "S/ 4.70\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "COSTENO",
+      "precio": "S/ 23.90\nUN\n-16%\nS/ 28.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 23.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PACASMAYO",
+      "precio": "S/ 4.40\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "COSTENO",
+      "precio": "S/ 4.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 3.40\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 3.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAISANA",
+      "precio": "S/ 7.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 7.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PACASMAYO",
+      "precio": "S/ 4.60\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "COSTENO",
+      "precio": "S/ 22.90\nUN\n-10%\nS/ 25.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 22.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRAN CHALAN",
+      "precio": "S/ 5.10\nUN\n-14%\nS/ 5.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 5.1
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRAN CHALAN",
+      "precio": "S/ 23.20\nUN\n-7%\nS/ 24.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 23.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRAN CHALAN",
+      "precio": "S/ 4.60\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRAN CHALAN",
+      "precio": "S/ 42.90\nUN\n-4%\nS/ 44.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 42.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS PREMIUM",
+      "precio": "S/ 4.10\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 4.1
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS PREMIUM",
+      "precio": "S/ 23.30\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 23.3
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 23.60\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 23.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAISANA",
+      "precio": "S/ 5.80\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 5.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "INVERNI",
+      "precio": "S/ 35.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 35.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PACASMAYO",
+      "precio": "S/ 27.40\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 27.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "COSTENO",
+      "precio": "S/ 11.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 11.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAISANA",
+      "precio": "S/ 19.90\nUN\n-20%\nS/ 24.90\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 19.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 44\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 44.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRAN CHALAN",
+      "precio": "S/ 26.50\nUN\n-4%\nS/ 27.50\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 26.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRAN CHALAN",
+      "precio": "S/ 5\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 5.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 38.70\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 38.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 19.30\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 19.3
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "COSTENO",
+      "precio": "S/ 5.60\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 5.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "FARAON",
+      "precio": "S/ 3.99\nUN",
+      "link": "",
+      "categoria": "abarrotes",
+      "fecha_scraping": "2025-08-25T20:07:02.175616",
+      "precio_numerico": 3.99
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "BIOSAL",
+      "precio": "S/ 16.10\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 16.1
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARINA",
+      "precio": "S/ 10\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 10.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARINA",
+      "precio": "S/ 5\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 5.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 1.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 1.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 1.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 1.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 8.20\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 8.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 11.80\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 11.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 11.80\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 11.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 11.80\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 11.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 8.20\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 8.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS ORIGENES",
+      "precio": "S/ 15.20\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 15.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS ORIGENES",
+      "precio": "S/ 15.20\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 15.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "BADIA",
+      "precio": "S/ 41.60\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 41.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 10.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 10.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 10.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 10.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 16.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 16.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARINA",
+      "precio": "S/ 2.40\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 2.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS ORIGENES",
+      "precio": "S/ 9.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 9.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARINA",
+      "precio": "S/ 2.40\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 2.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS ORIGENES",
+      "precio": "S/ 9.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 9.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS ORIGENES",
+      "precio": "S/ 10.50\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 10.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS ORIGENES",
+      "precio": "S/ 14.40\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 14.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "BIOSAL",
+      "precio": "S/ 4.10\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 4.1
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "LOBOS",
+      "precio": "S/ 7.70\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 7.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "LEGENDARIA",
+      "precio": "S/ 21.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 21.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 8.50\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 8.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARINA",
+      "precio": "S/ 6.70\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 6.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 16.90\nUN",
+      "link": "",
+      "categoria": "limpieza",
+      "fecha_scraping": "2025-08-25T20:07:19.883469",
+      "precio_numerico": 16.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PRIMOR",
+      "precio": "S/ 8.20\nUN\n-18%\nS/ 10\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 8.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAM",
+      "precio": "S/ 29.14\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 29.14
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 62.99\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 62.99
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLEICO",
+      "precio": "S/ 23.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 23.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 25.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 25.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 29.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 29.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 67.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 67.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 35.99\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 35.99
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 20.50\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 20.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PRIMOR",
+      "precio": "S/ 9.10\nUN\n-17%\nS/ 11\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 9.1
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 21\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 21.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 55.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 55.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 38.60\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 38.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "CARBONELL",
+      "precio": "S/ 15.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 15.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "SANTOLIVO",
+      "precio": "S/ 83.20\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 83.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "SANTOLIVO",
+      "precio": "S/ 30\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 30.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "SANTOLIVO",
+      "precio": "S/ 49.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 49.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 32.50\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 32.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 16.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 16.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 45.80\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 45.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 89.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 89.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "DEL CIELO",
+      "precio": "S/ 6.70\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 6.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "SPREAD",
+      "precio": "S/ 19.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 19.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 39.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 39.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLI21",
+      "precio": "S/ 21\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 21.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 69.60\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 69.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 77.30\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 77.3
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLEICO",
+      "precio": "S/ 32.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 32.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "CARBONELL",
+      "precio": "S/ 24.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 24.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS PREMIUM",
+      "precio": "S/ 35.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 35.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS LIFE",
+      "precio": "S/ 21.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 21.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PRECIO UNO",
+      "precio": "S/ 27.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 27.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 26.50\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 26.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 18.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 18.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "CARBONELL",
+      "precio": "S/ 69.80\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 69.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "SAO",
+      "precio": "S/ 6.70\nUN\n-4%\nS/ 7\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 6.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "WESSON",
+      "precio": "S/ 41.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 41.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "HUERTO ALAMEIN",
+      "precio": "S/ 12\nUN\n-10%\nS/ 13.40\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 12.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PRECIO UNO",
+      "precio": "S/ 6.10\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 6.1
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "WESSON",
+      "precio": "S/ 35.80\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 35.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "DEL CIELO",
+      "precio": "S/ 14.30\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 14.3
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 19.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 19.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MI TIERRA",
+      "precio": "S/ 34.50\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 34.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAM",
+      "precio": "S/ 29.14\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 29.14
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "SPREAD",
+      "precio": "S/ 38.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 38.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PAM",
+      "precio": "S/ 30.82\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 30.82
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "EL OLIVAR",
+      "precio": "S/ 38.90\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 38.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "OLIVOS DEL SUR",
+      "precio": "S/ 61.70\nUN",
+      "link": "",
+      "categoria": "lacteos",
+      "fecha_scraping": "2025-08-25T20:07:37.045202",
+      "precio_numerico": 61.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "BARILLA",
+      "precio": "S/ 16.50\nUN\n-16%\nS/ 19.60\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 16.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 1.10\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.1
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLITALIA",
+      "precio": "S/ 4\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 4.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AMERICA ORGANICA",
+      "precio": "S/ 15.20\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 15.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLITALIA",
+      "precio": "S/ 1.60\nUN\n-30%\nS/ 2.30\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRANO DE ORO",
+      "precio": "S/ 1.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 1.70\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS PREMIUM",
+      "precio": "S/ 5.20\n-4%\nS/ 5.40",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 5.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AGNESI",
+      "precio": "S/ 13.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 13.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AGNESI",
+      "precio": "S/ 13.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 13.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLITALIA",
+      "precio": "S/ 1.60\nUN\n-30%\nS/ 2.30\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.6
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "DON VITTORIO",
+      "precio": "S/ 3.20\nUN\n-16%\nS/ 3.80\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 3.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AGE",
+      "precio": "S/ 14.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 14.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS PREMIUM",
+      "precio": "S/ 5.40\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 5.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AGNESI",
+      "precio": "S/ 18.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 18.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MISURA",
+      "precio": "S/ 18.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 18.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MONTANARA",
+      "precio": "S/ 7.80\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 7.8
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AGNESI",
+      "precio": "S/ 22.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 22.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AGNESI",
+      "precio": "S/ 14.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 14.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS PREMIUM",
+      "precio": "S/ 5.40\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 5.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRANO DE ORO",
+      "precio": "S/ 3.20\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 3.2
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARCO POLO",
+      "precio": "S/ 1.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARCO POLO",
+      "precio": "S/ 1.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARCO POLO",
+      "precio": "S/ 1.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MARCO POLO",
+      "precio": "S/ 2.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 2.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS LIFE",
+      "precio": "S/ 6.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 6.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "BARILLA",
+      "precio": "S/ 11.50\nUN\n-15%\nS/ 13.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 11.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MONTANARA",
+      "precio": "S/ 4\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 4.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "GRANO DE ORO",
+      "precio": "S/ 1.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AJINOMEN",
+      "precio": "S/ 2.30\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 2.3
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "TOTTUS",
+      "precio": "S/ 1.70\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLINOS DEL MUNDO",
+      "precio": "S/ 21\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 21.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLITALIA",
+      "precio": "S/ 1.50\nUN\n-17%\nS/ 1.80\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AGNESI",
+      "precio": "S/ 19.70\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 19.7
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLITALIA",
+      "precio": "S/ 2.30\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 2.3
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLITALIA",
+      "precio": "S/ 2\nUN\n-31%\nS/ 2.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 2.0
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "DGUSSTO",
+      "precio": "S/ 3.50\nUN\n-10%\nS/ 3.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 3.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "DGUSSTO",
+      "precio": "S/ 5.40\nUN\n-10%\nS/ 6\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 5.4
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "DGUSSTO",
+      "precio": "S/ 1.89\nUN\n-10%\nS/ 2.10\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.89
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "DGUSSTO",
+      "precio": "S/ 1.89\nUN\n-10%\nS/ 2.10\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 1.89
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "AMERICA ORGANICA",
+      "precio": "S/ 18.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 18.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MOLINOS DEL MUNDO",
+      "precio": "S/ 21.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 21.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MAKEGUSTO",
+      "precio": "S/ 8.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 8.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PASTAROTTI",
+      "precio": "S/ 12.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 12.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "NONG SHIM",
+      "precio": "S/ 9.50\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 9.5
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "PASTAROTTI",
+      "precio": "S/ 12.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 12.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MAKEGUSTO",
+      "precio": "S/ 8.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 8.9
+    },
+    {
+      "tienda": "Tottus",
+      "nombre": "MAKEGUSTO",
+      "precio": "S/ 8.90\nUN",
+      "link": "",
+      "categoria": "desayuno",
+      "fecha_scraping": "2025-08-25T20:07:56.286008",
+      "precio_numerico": 8.9
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "tienda": "Metro",
+  "fecha_actualizacion": "2025-08-25T19:36:18.073144",
+  "total_productos": 95,
+  "productos": {
+    "arroz": [
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Costeño 5kg",
+        "precio": "S/ 25.90",
+        "link": "https://www.metro.pe/arroz-extra-costeno-5kg-14974/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 25.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Blanco Extra Añejo Faraón Naranja 5kg",
+        "precio": "S/ 25.20",
+        "link": "https://www.metro.pe/arroz-blanco-extra-anejo-faraon-naranja-5kg-570522/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 25.2
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Superior Paisana Bolsa 5 kg",
+        "precio": "S/ 19.90",
+        "link": "https://www.metro.pe/arroz-superior-paisana-x-5kg/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 19.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Blanco Extra Añejo Faraón Naranja 10kg",
+        "precio": "S/ 47.49",
+        "link": "https://www.metro.pe/arroz-blanco-extra-anejo-faraon-naranja-10kg-570569/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 47.49
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Metro 5kg",
+        "precio": "S/ 18.90",
+        "link": "https://www.metro.pe/arroz-extra-metro-5kg-391214/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 18.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Costeño Añejo Extra 5kg",
+        "precio": "S/ 25.90",
+        "link": "https://www.metro.pe/arroz-costeno-anejo-extra-x-5-kg-1000184/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 25.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Gran Reserva Extra Valle Norte Bolsa 5 Kg",
+        "precio": "S/ 24.50",
+        "link": "https://www.metro.pe/arroz-extra-valle-norte-mejorado-bolsa-5-kg-107169/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Gran Chalán 5kg",
+        "precio": "S/ 24.80",
+        "link": "https://www.metro.pe/arroz-extra-natural-gran-chalan-bolsa-5-kg-792210/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 24.8
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Paisana Bolsa 5 kg",
+        "precio": "S/ 21.90",
+        "link": "https://www.metro.pe/arroz-extra-paisana-bolsa-5-kg-576340/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Superior Metro Bolsa 5 kg",
+        "precio": "S/ 19.30",
+        "link": "https://www.metro.pe/arroz-superior-metro-bolsa-5-kg-22036/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 19.3
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Añejo Campo Norte 5kg",
+        "precio": "S/ 25.90",
+        "link": "https://www.metro.pe/arroz-extra-a-ejo-campo-norte-5kg-1011401/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 25.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Costeño 750g",
+        "precio": "S/ 4.90",
+        "link": "https://www.metro.pe/arroz-extra-costeno-750g-11386/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 4.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Familiar Maxima Bolsa 5 kg",
+        "precio": "S/ 17.90",
+        "link": "https://www.metro.pe/arroz-familiar-maxima-bolsa-5-kg-498326/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 17.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Añejo Cuisine&Co Bolsa 5 kg",
+        "precio": "S/ 23.90",
+        "link": "https://www.metro.pe/arroz-extra-anejo-cuisine-co-bolsa-5-kg-789685/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Añejo Extra Campo Norte 2.5kg",
+        "precio": "S/ 13.20",
+        "link": "https://www.metro.pe/arroz-anejo-extra-campo-norte-2-5kg-1034976/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 13.2
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Blanco Extra Añejo Faraón Naranja 750g",
+        "precio": "S/ 4.40",
+        "link": "https://www.metro.pe/arroz-blanco-extra-anejo-faraon-naranja-750g-570523/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Pacasmayo Extra 5kg",
+        "precio": "S/ 26.90",
+        "link": "https://www.metro.pe/arroz-pacasmayo-extra-5kg-1036152/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 26.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Fortificado Superior Bolsa 5 Kg",
+        "precio": "S/ 26.70",
+        "link": "https://www.metro.pe/arroz-fortificado-superior-bolsa-5-kg-758605/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 26.7
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Superior Cuisine & Co 750g",
+        "precio": "S/ 3.80",
+        "link": "https://www.metro.pe/arroz-superior-x-750g-cuisine-co/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 3.8
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Arborio Costeño 750g",
+        "precio": "S/ 11.90",
+        "link": "https://www.metro.pe/arroz-arborio-costeno-750g-79473/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 11.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Superior Costeño 750g",
+        "precio": "S/ 4.50",
+        "link": "https://www.metro.pe/arroz-superior-costeno-750g-171247/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 4.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Extra Metro 10kg",
+        "precio": "S/ 38.90",
+        "link": "https://www.metro.pe/arroz-extra-metro-10kg-1033074/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 38.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Pacasmayo Añejo 5kg",
+        "precio": "S/ 28.50",
+        "link": "https://www.metro.pe/arroz-pacasmayo-a-ejo-5kg-1036153/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 28.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Arroz Glaseado Tesoro Del Campo Bolsa 1 Kg",
+        "precio": "S/ 7.80",
+        "link": "https://www.metro.pe/arroz-glaseado-tesoro-del-campo-bolsa-1-kg-225228/p",
+        "categoria": "arroz",
+        "fecha_scraping": "2025-08-25T19:35:31.140616",
+        "precio_numerico": 7.8
+      }
+    ],
+    "azucar": [
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Metro 5kg",
+        "precio": "S/ 18.90",
+        "link": "https://www.metro.pe/azucar-rubia-metro-5kg-127643/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 18.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Máxima Bolsa 5 kg",
+        "precio": "S/ 19.90",
+        "link": "https://www.metro.pe/azucar-rubia-maxima-bolsa-5-kg-714287/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 19.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Metro Bolsa 2 Kg",
+        "precio": "S/ 8.50",
+        "link": "https://www.metro.pe/azucar-rubia-metro-bolsa-2-kg-116646/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 8.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Paramonga Bolsa 5 kg",
+        "precio": "S/ 21.90",
+        "link": "https://www.metro.pe/azucar-rubia-paramonga-bolsa-5-kg-566556/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Dulfina Bolsa 5 kg",
+        "precio": "S/ 20.50",
+        "link": "https://www.metro.pe/azucar-rubia-dulfina-bolsa-5-kg-465118/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 20.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Máxima 1kg",
+        "precio": "S/ 4.20",
+        "link": "https://www.metro.pe/az-car-rubia-m-xima-1kg-459535/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 4.2
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Metro 1kg",
+        "precio": "S/ 4.40",
+        "link": "https://www.metro.pe/azucar-rubia-metro-1kg-116642/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 4.4
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Blanca Metro Bolsa 5 kg",
+        "precio": "S/ 22.90",
+        "link": "https://www.metro.pe/azucar-blanca-metro-bolsa-5-kg-127642/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 22.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Blanca Metro Bolsa 1 kg",
+        "precio": "S/ 4.90",
+        "link": "https://www.metro.pe/azucar-blanca-metro-bolsa-1-kg-116640/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 4.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Dulfina Bolsa 2 kg",
+        "precio": "S/ 9.60",
+        "link": "https://www.metro.pe/azucar-rubia-dulfina-bolsa-2-kg-371932/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 9.6
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Blanca Metro Bolsa 2 Kg",
+        "precio": "S/ 9.60",
+        "link": "https://www.metro.pe/azucar-blanca-metro-bolsa-2-kg-116644/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 9.6
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Paramonga 1kg",
+        "precio": "S/ 5.10",
+        "link": "https://www.metro.pe/azucar-rubia-paramonga-bolsa-1-kg-178537/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 5.1
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Azúcar Rubia Dulfina Bolsa 1 kg",
+        "precio": "S/ 4.99",
+        "link": "https://www.metro.pe/azucar-rubia-dulfina-bolsa-1-kg-333705/p",
+        "categoria": "azucar",
+        "fecha_scraping": "2025-08-25T19:35:40.545542",
+        "precio_numerico": 4.99
+      }
+    ],
+    "papel_higienico": [
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Higiénico Suave Resistemax 40un",
+        "precio": "S/ 20.50",
+        "link": "https://www.metro.pe/papel-higi-nico-suave-resistemax-40un-768396/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 20.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Higiénico Doble Hoja Elite Cuidado Clásico 40un",
+        "precio": "S/ 24.50",
+        "link": "https://www.metro.pe/papel-higienico-doble-hoja-elite-cuidado-clasico-40un/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 24.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Toalla Nova Clásica Megarrollo 6un",
+        "precio": "S/ 13.90",
+        "link": "https://www.metro.pe/papel-toalla-nova-cl-sica-megarrollo-6un-990942/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 13.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Higiénico Doble Hoja Higienol 24un",
+        "precio": "S/ 38.90",
+        "link": "https://www.metro.pe/papel-higienico-doble-hoja-higienol-24un-756659/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 38.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Higiénico Paracas Doble Hoja 18un",
+        "precio": "S/ 32.90",
+        "link": "https://www.metro.pe/papel-higienico-paracas-doble-hoja-18un-1019399/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 32.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Higiénico Triple Hoja Suave Premium Comfort 24un",
+        "precio": "S/ 32.90",
+        "link": "https://www.metro.pe/papel-higienico-triple-hoja-suave-premium-comfort-24un/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 32.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Toalla Nova Clásica Megarollo 4un",
+        "precio": "S/ 9.50",
+        "link": "https://www.metro.pe/papel-toalla-nova-clasica-megarollo-4un/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 9.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Higiénico Doble Hoja Elite Soft Max 40un.",
+        "precio": "S/ 41.90",
+        "link": "https://www.metro.pe/papel-higienico-doble-hoja-elite-soft-max-40un/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 41.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Papel Toalla Elite Triple Absorción 4un",
+        "precio": "S/ 16.00",
+        "link": "https://www.metro.pe/papel-toalla-elite-triple-absorcion-4un-1016915/p",
+        "categoria": "papel_higienico",
+        "fecha_scraping": "2025-08-25T19:35:49.769784",
+        "precio_numerico": 16.0
+      }
+    ],
+    "leche": [
+      {
+        "tienda": "Metro",
+        "nombre": "Sixpack Leche Reconstituida Gloria Lata 390g",
+        "precio": "S/ 22.70",
+        "link": "https://www.metro.pe/sixpack-leche-reconstituida-gloria-lata-390g-975289/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 22.7
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Sixpack Leche Ultrafiltrada Sin Lactosa Gloria Zero Lacto Lata 390g",
+        "precio": "S/ 23.90",
+        "link": "https://www.metro.pe/sixpack-leche-ultrafiltrada-sin-lactosa-gloria-zero-lacto-lata-390g-1013114/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Sixpaxk Leche Reconstituida Gloria Light Lata 390g",
+        "precio": "S/ 23.90",
+        "link": "https://www.metro.pe/sixpack-leche-reconstituida-gloria-light-lata-390g-976625/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Sixpack Leche Concentrada Sin Lactosa Laive Botella 390g",
+        "precio": "S/ 23.90",
+        "link": "https://www.metro.pe/sixpack-leche-concentrada-sin-lactosa-laive-botella-390g-923850/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Tripack Leche UHT Sin Lactosa Gloria Zero Lacto Caja 1L",
+        "precio": "S/ 15.90",
+        "link": "https://www.metro.pe/tripack-leche-uht-sin-lactosa-gloria-zero-lacto-caja-1l-1013118/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 15.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Tripack Leche Entera UHT Gloria Caja 1L",
+        "precio": "S/ 15.90",
+        "link": "https://www.metro.pe/tripack-leche-entera-uht-gloria-caja-946ml-100482/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 15.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Fourpack Leche Semidescremada UHT Laive Sin Lactosa Caja 946ml",
+        "precio": "S/ 21.90",
+        "link": "https://www.metro.pe/fourpack-leche-semidescremada-uht-laive-sin-lactosa-caja-946ml-337344/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 21.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Pack x6 Leche Evaporada Gloria Entera",
+        "precio": "S/ 24.90",
+        "link": "https://www.metro.pe/pack-x6-leche-evaporada-gloria-entera-2/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 24.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Sixpack Leche Reconstituida Gloria Niños Lata 390g",
+        "precio": "S/ 26.50",
+        "link": "https://www.metro.pe/sixpack-leche-reconstituida-gloria-ni-os-lata-390g-77787/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 26.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Tripack Leche Entera UHT Gloria Bolsa 800ml",
+        "precio": "S/ 12.50",
+        "link": "https://www.metro.pe/tripack-leche-entera-uht-gloria-bolsa-800ml-465972/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 12.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Sixpack Leche Light Laive Sin Lactosa Botella 390g",
+        "precio": "S/ 23.90",
+        "link": "https://www.metro.pe/sixpack-leche-light-laive-sin-lactosa-botella-390g-2/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Tripack Leche Parcialmente Descremada Gloria Light Caja 1L",
+        "precio": "S/ 16.50",
+        "link": "https://www.metro.pe/tripack-leche-parcialmente-descremada-gloria-light-caja-1l-363768/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 16.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Leche Uht Vigor Bolsa 800ml",
+        "precio": "S/ 3.90",
+        "link": "https://www.metro.pe/leche-uht-vigor-bolsa-800ml/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 3.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Leche Deslactosada Danlac Light Botella 900ml",
+        "precio": "S/ 8.50",
+        "link": "https://www.metro.pe/leche-deslactosada-danlac-light-botella-900ml-986461/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 8.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Sixpack Leche Parcialmente Descremada Gloria Niños Sabor Chocolate Caja 180ml",
+        "precio": "S/ 9.70",
+        "link": "https://www.metro.pe/sixpack-leche-parcialmente-descremada-gloria-ninos-sabor-chocolate-caja-180ml/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 9.7
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Leche UHT Vigor Light Bolsa 800ml",
+        "precio": "S/ 4.70",
+        "link": "https://www.metro.pe/leche-uht-vigor-light-bolsa-800ml-986460/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 4.7
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Leche Entera UHT Gloria Bolsa 900ml",
+        "precio": "S/ 4.90",
+        "link": "https://www.metro.pe/leche-entera-uht-gloria-bolsa-800ml-127749/p",
+        "categoria": "leche",
+        "fecha_scraping": "2025-08-25T19:35:59.250100",
+        "precio_numerico": 4.9
+      }
+    ],
+    "detergentes": [
+      {
+        "tienda": "Metro",
+        "nombre": "Detergente en Polvo Marsella Lavanda y Rosas 4kg",
+        "precio": "S/ 32.90",
+        "link": "https://www.metro.pe/detergente-en-polvo-marsella-lavanda-y-rosas-4kg-415669/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 32.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Detergente en Polvo Opal Ultra 4kg",
+        "precio": "S/ 36.90",
+        "link": "https://www.metro.pe/detergente-en-polvo-opal-ultra-4kg-1012404/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 36.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Lavavajilla en Pasta Sapolio Limón 800g",
+        "precio": "S/ 5.50",
+        "link": "https://www.metro.pe/lavavajilla-en-pasta-sapolio-lim-n-800g-136482001/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 5.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Detergente Líquido Home Care Matic Floral 3L",
+        "precio": "S/ 20.90",
+        "link": "https://www.metro.pe/detergente-l-quido-home-care-matic-floral-3l-1017377/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 20.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Detergente en Polvo Sapolio Aros de Poder Feria de Flores 2kg",
+        "precio": "S/ 15.50",
+        "link": "https://www.metro.pe/detergente-en-polvo-sapolio-aros-de-poder-feria-de-flores-2kg-2/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 15.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Detergente en Polvo Sapolio Aros de Poder Bebé 4kg",
+        "precio": "S/ 28.50",
+        "link": "https://www.metro.pe/detergente-en-polvo-sapolio-aros-de-poder-bebe-4kg-2/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 28.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Detergente en Polvo Opal Ultra 2.4kg",
+        "precio": "S/ 23.90",
+        "link": "https://www.metro.pe/detergente-en-polvo-opal-ultra-2-4kg-208149001/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 23.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Detergente en Polvo Bolívar Cuidado Total Floral 730g",
+        "precio": "S/ 9.50",
+        "link": "https://www.metro.pe/detergente-en-polvo-bolivar-cuidado-total-floral-730g-1016182/p",
+        "categoria": "detergentes",
+        "fecha_scraping": "2025-08-25T19:36:08.704079",
+        "precio_numerico": 9.5
+      }
+    ],
+    "yogures": [
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Gloria Fresa Galonera 1.6kg",
+        "precio": "S/ 9.90",
+        "link": "https://www.metro.pe/yogurt-bebible-gloria-fresa-galonera-1-6kg-110363002/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 9.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Griego Vakimu Original 1 Kg",
+        "precio": "S/ 17.50",
+        "link": "https://www.metro.pe/yogurt-griego-vakimu-original-1-kg-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 17.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Griego Descremado Danlac Sabor Natural Frasco 900g",
+        "precio": "S/ 16.90",
+        "link": "https://www.metro.pe/yogurt-griego-descremado-danlac-sabor-natural-frasco-900g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 16.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Gloria Vainilla Galonera 1.6kg",
+        "precio": "S/ 9.90",
+        "link": "https://www.metro.pe/yogurt-bebible-gloria-vainilla-galonera-1-6kg-110363003/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 9.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Estilo Kéfir Danlac Botella 900g",
+        "precio": "S/ 20.50",
+        "link": "https://www.metro.pe/yogurt-estilo-kefir-danlac-botella-900g-1031087/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 20.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Griego Vakimu Frutos del Bosque 1 Kg",
+        "precio": "S/ 17.50",
+        "link": "https://www.metro.pe/yogurt-griego-vakimu-frutos-del-bosque-1-kg-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 17.5
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Gloria Battimix Vainilla 146g",
+        "precio": "S/ 3.20",
+        "link": "https://www.metro.pe/yogurt-gloria-battimix-vainilla-146g-49186001/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 3.2
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Gloria Griego Sabor Frutos Rojos 800g",
+        "precio": "S/ 6.70",
+        "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-frutos-rojos-800g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 6.7
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Natural SKYR Plusa 500g",
+        "precio": "S/ 15.90",
+        "link": "https://www.metro.pe/yogurt-natural-skyr-plusa-500g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 15.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Frutado con Fresa Danlac Botella 900g",
+        "precio": "S/ 11.90",
+        "link": "https://www.metro.pe/yogurt-frutado-con-fresa-danlac-botella-900g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 11.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Gloria Griego Sabor Natural 800g",
+        "precio": "S/ 6.70",
+        "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-natural-800g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 6.7
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Gloria Lúcuma Galonera 1.6kg",
+        "precio": "S/ 9.90",
+        "link": "https://www.metro.pe/yogurt-bebible-gloria-l-cuma-galonera-1-6kg-110363004/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 9.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Griego Descremado con Arándano Danlac Frasco 900g",
+        "precio": "S/ 17.75",
+        "link": "https://www.metro.pe/yogurt-griego-descremado-con-arandano-danlac-frasco-900g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 17.75
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Frutado Danlac Maracumango 900g",
+        "precio": "S/ 11.90",
+        "link": "https://www.metro.pe/yogurt-frutado-danlac-maracumango-900g-511082005/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 11.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Gloria Durazno Galonera 1.6kg",
+        "precio": "S/ 9.90",
+        "link": "https://www.metro.pe/yogurt-bebible-gloria-durazno-galonera-1-6kg-110363001/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 9.9
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Gloria Griego Sabor Frutos Rojos 120g",
+        "precio": "S/ 2.30",
+        "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-frutos-rojos-120g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 2.3
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Batido Sabor Fresa con Bolitas de Chocolate Gloria Batti Mix 146g",
+        "precio": "S/ 3.20",
+        "link": "https://www.metro.pe/yogurt-batido-sabor-fresa-con-bolitas-de-chocolate-gloria-batti-mix-146g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 3.2
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Gloria Slim Vainilla Galonera 1.7kg",
+        "precio": "S/ 12.10",
+        "link": "https://www.metro.pe/yogurt-bebible-gloria-slim-vainilla-galonera-1-7kg-470487002/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 12.1
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Gloria Griego Sabor Mango 120g",
+        "precio": "S/ 2.30",
+        "link": "https://www.metro.pe/yogurt-gloria-griego-sabor-mango-120g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 2.3
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Vakimu +Pro Fresa 500g",
+        "precio": "S/ 13.18",
+        "link": "https://www.metro.pe/yogurt-vakimu-pro-fresa-500g/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 13.18
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Gloria Natural Botella 946g",
+        "precio": "S/ 6.30",
+        "link": "https://www.metro.pe/yogurt-bebible-gloria-natural-botella-946g-48255006/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 6.3
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Laive Sbelt Sabor Durazno 1.7kg",
+        "precio": "S/ 12.20",
+        "link": "https://www.metro.pe/yogurt-bebible-laive-sbelt-sabor-durazno-1-7kg-183009003/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 12.2
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Laive Sbelt Sabor Fresa 946g",
+        "precio": "S/ 6.30",
+        "link": "https://www.metro.pe/yogurt-bebible-laive-sbelt-sabor-fresa-946g-49114001/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 6.3
+      },
+      {
+        "tienda": "Metro",
+        "nombre": "Yogurt Bebible Gloria Vainilla Botella 180 g",
+        "precio": "S/ 2.10",
+        "link": "https://www.metro.pe/yogurt-bebible-gloria-vainilla-botella-180-g-2/p",
+        "categoria": "yogures",
+        "fecha_scraping": "2025-08-25T19:36:18.071762",
+        "precio_numerico": 2.1
+      }
+    ]
+  }
+}
